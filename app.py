@@ -62,5 +62,22 @@ def search_entities(
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/random", response_model=List[Entity])
+def get_random_entities(limit: int = Query(5, ge=1, le=20)):
+    """Get random entities that have at least one relationship to start chain from"""
+    try:
+        query = """
+        MATCH (n:Entity)-[:CAUSES]-()
+        WITH DISTINCT n
+        WITH n, rand() AS random
+        ORDER BY random
+        LIMIT $limit
+        RETURN n.id as id, n.label as label
+        """
+        results = execute_query(query, {"limit": limit})
+        return [Entity(id=result["id"], label=result["label"]) for result in results]
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
