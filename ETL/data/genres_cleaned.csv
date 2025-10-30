@@ -1,0 +1,417 @@
+id:ID,name,inception,country_of_origin,:LABEL
+Q188994,drum and bass,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q181014,fugue,,,Genre
+Q205049,world music,,,Genre
+Q216926,raga,,,Genre
+Q209137,post-rock,1995-01-01T00:00:00Z,United States,Genre
+Q186170,doom metal,1980-01-01T00:00:00Z,United Kingdom,Genre
+Q211418,British Invasion,,,Genre
+Q188539,glam metal,1979-01-01T00:00:00Z,United States,Genre
+Q201405,Renaissance music,1400-01-01T00:00:00Z,,Genre
+Q212944,klezmer,,,Genre
+Q206159,psychedelic rock,1965-01-01T00:00:00Z,United States,Genre
+Q203775,swing music,1930-01-01T00:00:00Z,,Genre
+Q212688,dub music,1960-01-01T00:00:00Z,Jamaica,Genre
+Q213714,bluegrass music,1940-01-01T00:00:00Z,United States,Genre
+Q226887,noh,,Japan,Genre
+Q180268,gospel music,1600-01-01T00:00:00Z,United States,Genre
+Q193207,ambient music,1967-01-01T00:00:00Z,United Kingdom,Genre
+Q188450,electropop,1978-01-01T00:00:00Z,United Kingdom,Genre
+Q213665,K-pop,1990-01-01T00:00:00Z,South Korea,Genre
+Q187760,new wave,1976-01-01T00:00:00Z,United States,Genre
+Q202925,tribal house,1988-01-01T00:00:00Z,United States,Genre
+Q208239,salsa,1920-01-01T00:00:00Z,United States,Genre
+Q217191,soft rock,1960-01-01T00:00:00Z,United States,Genre
+Q213121,new age music,1960-01-01T00:00:00Z,United States,Genre
+Q193355,blues rock,1960-01-01T00:00:00Z,United States,Genre
+Q202930,reggaeton,1990-01-01T00:00:00Z,Puerto Rico,Genre
+Q205560,trip hop,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q211573,garage rock,1960-01-01T00:00:00Z,United States,Genre
+Q372103,electronic body music,1982-01-01T00:00:00Z,United Kingdom,Genre
+Q134307,portrait,,,Genre
+Q236932,acid rock,1965-01-01T00:00:00Z,United States,Genre
+Q326478,land art,,,Genre
+Q388207,African-American music,,,Genre
+Q2864597,cybernetic art,1956-01-01T00:00:00Z,,Genre
+Q460501,Historicism,,,Genre
+Q577622,Coptic art,,,Genre
+Q2316866,geometric abstraction,,,Genre
+Q341395,acid techno,1988-01-01T00:00:00Z,,Genre
+Q1606591,reggae fusion,1985-01-01T00:00:00Z,Jamaica,Genre
+Q1621467,symphonic black metal,1990-01-01T00:00:00Z,Sweden,Genre
+Q241662,groove metal,1990-01-01T00:00:00Z,United States,Genre
+Q257533,music of Japan,,,Genre
+Q465978,extreme metal,1977-01-01T00:00:00Z,United States,Genre
+Q1636684,yé-yé,1959-01-01T00:00:00Z,Spain,Genre
+Q485395,gothic rock,1979-01-01T00:00:00Z,United States,Genre
+Q1147263,lyrical abstraction,1940-01-01T00:00:00Z,,Genre
+Q128115,abstract art,,,Genre
+Q1457753,pìobaireachd,,,Genre
+Q1569950,internet art,,,Genre
+Q2307786,huayno,,Viceroyalty of Peru,Genre
+Q378988,adult contemporary music,1960-01-01T00:00:00Z,United States,Genre
+Q235858,traditional folk music,,,Genre
+Q2486179,music of Venezuela,,,Genre
+Q487965,industrial music,1975-01-01T00:00:00Z,United Kingdom,Genre
+Q1507298,lo-fi music,1980-01-01T00:00:00Z,,Genre
+Q379033,arena rock,,,Genre
+Q492096,Andean music,,,Genre
+Q227045,zouk,1986-01-01T00:00:00Z,French West Indies,Genre
+Q531426,music of India,,,Genre
+Q4358397,Transhumanist art,,,Genre
+Q572916,found object,,,Genre
+Q5358332,electronic art,,,Genre
+Q253918,melodic death metal,1990-01-01T00:00:00Z,Sweden,Genre
+Q1541229,American folk music,,United States,Genre
+Q341364,acid house,1987-01-01T00:00:00Z,United States,Genre
+Q40415,Impressionism,1860-01-01T00:00:00Z,Normandy,Genre
+Q388906,hardcore,1989-01-01T00:00:00Z,Germany,Genre
+Q2452152,dark psytrance,1996-01-01T00:00:00Z,,Genre
+Q982897,lubok,,,Genre
+Q8253,fiction,,,Genre
+Q17514,graffiti,,,Genre
+Q203209,conceptual art,1960-01-01T00:00:00Z,,Genre
+Q1640319,experimental music,1960-01-01T00:00:00Z,United States,Genre
+Q339906,happy hardcore,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q486263,bossa nova,1958-01-01T00:00:00Z,Brazil,Genre
+Q483352,thrash metal,1980-01-01T00:00:00Z,United States,Genre
+Q464129,mariachi,1800-01-01T00:00:00Z,Mexico,Genre
+Q185905,ukiyo-e,1700-01-01T00:00:00Z,,Genre
+Q263734,nu metal,1995-01-01T00:00:00Z,United States,Genre
+Q2572585,pop rap,1980-01-01T00:00:00Z,United States,Genre
+Q320592,Krautrock,1967-01-01T00:00:00Z,Germany,Genre
+Q272167,shoegaze,1987-01-01T00:00:00Z,United Kingdom,Genre
+Q2343562,coldwave,1977-01-01T00:00:00Z,Italy,Genre
+Q2566660,British rock,1960-01-01T00:00:00Z,United Kingdom,Genre
+Q236913,space rock,1968-01-01T00:00:00Z,United Kingdom,Genre
+Q475221,deathcore,1986-01-01T00:00:00Z,United States,Genre
+Q2607836,freakbeat,1965-01-01T00:00:00Z,United Kingdom,Genre
+Q650316,drone music,1958-01-01T00:00:00Z,United States,Genre
+Q622871,psychedelic trance,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q850412,contemporary R&B,1980-01-01T00:00:00Z,United States,Genre
+Q739138,teen pop,,United States,Genre
+Q757143,chill-out music,1992-01-01T00:00:00Z,Europe,Genre
+Q928825,garage house,1983-01-01T00:00:00Z,United States,Genre
+Q823080,no wave,1977-01-01T00:00:00Z,United States,Genre
+Q573484,rocksteady,1966-01-01T00:00:00Z,Jamaica,Genre
+Q915152,progressive house,1990-01-01T00:00:00Z,United Kingdom,Genre
+Q874038,deep house,1985-01-01T00:00:00Z,United States,Genre
+Q572717,music of Jamaica,,,Genre
+Q546359,doo-wop,1930-01-01T00:00:00Z,United States,Genre
+Q756956,dark ambient,1988-01-01T00:00:00Z,United States,Genre
+Q727781,music of Latin America,1600-01-01T00:00:00Z,,Genre
+Q854451,Celtic music,,,Genre
+Q840065,new jack swing,1985-01-01T00:00:00Z,,Genre
+Q832665,hard trance,1992-01-01T00:00:00Z,Belgium,Genre
+Q899215,music of Brazil,,,Genre
+Q910606,music of Brittany,,,Genre
+Q660984,intelligent dance music,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q848457,speedcore,1994-01-01T00:00:00Z,,Genre
+Q640097,electric blues,1945-01-01T00:00:00Z,,Genre
+Q876171,East Coast hip-hop,1978-01-01T00:00:00Z,United States,Genre
+Q598593,tech house,1993-01-01T00:00:00Z,Spain,Genre
+Q623904,Andalusi classical music,1000-01-01T00:00:00Z,emirate of Córdoba,Genre
+Q703778,neo-psychedelia,1978-01-01T00:00:00Z,United States,Genre
+Q740911,ragga,1985-01-01T00:00:00Z,Jamaica,Genre
+Q727803,Canterbury scene,1968-01-01T00:00:00Z,United Kingdom,Genre
+Q627906,electro house,1997-01-01T00:00:00Z,Netherlands,Genre
+Q861823,electroclash,1995-01-01T00:00:00Z,,Genre
+Q835131,Goa trance,1991-01-01T00:00:00Z,India,Genre
+Q817138,electronica,1991-01-01T00:00:00Z,,Genre
+Q820049,gabber,1992-01-01T00:00:00Z,Netherlands,Genre
+Q744417,Italo disco,1978-01-01T00:00:00Z,Italy,Genre
+Q598929,post-punk,1978-01-01T00:00:00Z,United Kingdom,Genre
+Q903735,breakcore,1994-01-01T00:00:00Z,United Kingdom,Genre
+Q860196,bikutsi,1940-01-01T00:00:00Z,Cameroon,Genre
+Q753679,gangsta rap,1985-01-01T00:00:00Z,United States,Genre
+Q572901,minimalist music,1964-01-01T00:00:00Z,United States,Genre
+Q7749,rock and roll,1949-01-01T00:00:00Z,United States,Genre
+Q37073,pop music,1950-01-01T00:00:00Z,United States,Genre
+Q11399,rock music,1948-01-01T00:00:00Z,United States,Genre
+Q58339,disco,1972-01-01T00:00:00Z,,Genre
+Q9759,blues,1890-01-01T00:00:00Z,United States,Genre
+Q46046,baroque pop,1965-01-01T00:00:00Z,United States,Genre
+Q1344,opera,1600-01-01T00:00:00Z,Europe,Genre
+Q3071,punk rock,1975-01-01T00:00:00Z,United States,Genre
+Q997481,bubblegum music,1960-01-01T00:00:00Z,United States,Genre
+Q41343,post-metal,1996-01-01T00:00:00Z,United States,Genre
+Q40461,bachata,1960-01-01T00:00:00Z,Dominican Republic,Genre
+Q8361,Baroque music,1600-01-01T00:00:00Z,,Genre
+Q11401,hip-hop,1973-08-11T00:00:00Z,United States,Genre
+Q9778,electronic music,1920-01-01T00:00:00Z,,Genre
+Q11365,grunge,1985-01-01T00:00:00Z,United States,Genre
+Q11403,samba,1914-01-01T00:00:00Z,Brazil,Genre
+Q8341,jazz,1917-01-01T00:00:00Z,United States,Genre
+Q9730,classical music,0500-01-01T00:00:00Z,,Genre
+Q9794,reggae,1961-01-01T00:00:00Z,Jamaica,Genre
+Q43343,folk music,,,Genre
+Q10922,hardcore punk,1978-01-01T00:00:00Z,United States,Genre
+Q38848,heavy metal,1970-01-01T00:00:00Z,United Kingdom,Genre
+Q10926,emo,1984-01-01T00:00:00Z,United States,Genre
+Q20474,dubstep,2001-01-01T00:00:00Z,United Kingdom,Genre
+Q76092,glam rock,1969-01-01T00:00:00Z,United Kingdom,Genre
+Q45981,rhythm and blues,1938-01-01T00:00:00Z,,Genre
+Q42201,independent music,,,Genre
+Q20378,alternative metal,1985-01-01T00:00:00Z,United States,Genre
+Q20903,brostep,2007-01-01T00:00:00Z,United States,Genre
+Q1242484,doomcore,1993-01-01T00:00:00Z,,Genre
+Q1136045,wonky,2006-01-01T00:00:00Z,,Genre
+Q1091450,aggrotech,1993-01-01T00:00:00Z,,Genre
+Q3328694,Kabyle music,,Algeria,Genre
+Q1048478,shunga,,Japan,Genre
+Q1182371,deep funk,,,Genre
+Q3570024,ethnic music,,,Genre
+Q1325963,electro funk,,,Genre
+Q3855113,merenhouse,1990-01-01T00:00:00Z,United States,Genre
+Q1425111,western music,,,Genre
+Q2913982,trap music,1990-01-01T00:00:00Z,,Genre
+Q1166726,grime,2001-01-01T00:00:00Z,United Kingdom,Genre
+Q186030,contemporary art,,,Genre
+Q3908370,pop metal,,,Genre
+Q2662072,indigenous music of North America,,,Genre
+Q2719078,Western music,,,Genre
+Q2742742,music of Andalusia,,,Genre
+Q360596,disco house,,,Genre
+Q3008180,cybergrind,,,Genre
+Q3328583,music of Algeria,,,Genre
+Q17191592,anime music,,,Genre
+Q4034145,antipop,,,Genre
+Q16829781,cloud rap,2006-01-01T00:00:00Z,United States,Genre
+Q6010117,Memphis rap,1980-01-01T00:00:00Z,United States,Genre
+Q7196456,Pinoy hip hop,,Philippines,Genre
+Q255406,jazz rap,1985-01-01T00:00:00Z,United States,Genre
+Q72206346,solarpunk,2008-01-01T00:00:00Z,,Genre
+Q2662148,Celtic rock,1972-01-01T00:00:00Z,Celtic nations,Genre
+Q3840596,dark wave,1980-01-01T00:00:00Z,Europe,Genre
+Q2812726,banda music,,Mexico,Genre
+Q25389065,minimal psytrance,,,Genre
+Q1418683,kayōkyoku,1950-01-01T00:00:00Z,Japan,Genre
+Q7293812,rap opera,,,Genre
+Q7308175,reggae rock,,,Genre
+Q7410145,sampledelia,,,Genre
+Q7679165,talempong,,,Genre
+Q947155,kirtan,,,Genre
+Q2738544,Mizrahi music,,Israel,Genre
+Q30632022,synth funk,,,Genre
+Q30692559,Weird Soundcloud,,,Genre
+Q3328590,French baroque music,1600-01-01T00:00:00Z,France,Genre
+Q3930216,rapcore,1987-01-01T00:00:00Z,,Genre
+Q1890098,new beat,1987-01-01T00:00:00Z,Belgium,Genre
+Q1298934,synth-pop,1972-01-01T00:00:00Z,United Kingdom,Genre
+Q3658336,New Orleans rhythm and blues,1945-01-01T00:00:00Z,United States,Genre
+Q1983750,mainstream hardcore,1996-01-01T00:00:00Z,,Genre
+Q113493820,French electro,2000-01-01T00:00:00Z,,Genre
+Q3827483,Latin hip-hop,1990-01-01T00:00:00Z,United States,Genre
+Q341396,acidcore,1991-01-01T00:00:00Z,Belgium,Genre
+Q1102161,jungle,1987-01-01T00:00:00Z,United Kingdom,Genre
+Q1207347,Shibuya-kei,1993-01-01T00:00:00Z,Japan,Genre
+Q25099840,Afrobeats,2008-01-01T00:00:00Z,,Genre
+Q1127539,Delta blues,1928-01-01T00:00:00Z,United States,Genre
+Q1123745,glam punk,1975-01-01T00:00:00Z,United States,Genre
+Q6749708,Manila sound,1975-01-01T00:00:00Z,Philippines,Genre
+Q956717,kwaito,1998-01-01T00:00:00Z,South Africa,Genre
+Q1374731,Eurodisco,1974-01-01T00:00:00Z,Europe,Genre
+Q1378776,music of Ireland,0900-01-01T00:00:00Z,,Genre
+Q3135787,American hip-hop,,United States,Genre
+Q1990122,Celtic punk,1984-01-01T00:00:00Z,United Kingdom,Genre
+Q1165777,UK garage,1993-01-01T00:00:00Z,United Kingdom,Genre
+Q1191299,industrial hardcore,1990-01-01T00:00:00Z,,Genre
+Q1403744,electro-industrial,1985-01-01T00:00:00Z,Belgium,Genre
+Q5510816,future garage,2005-01-01T00:00:00Z,United Kingdom,Genre
+Q936942,post-industrial music,1988-01-01T00:00:00Z,United Kingdom,Genre
+Q22908553,future bass,2010-01-01T00:00:00Z,,Genre
+Q1162954,French pop,,France,Genre
+Q19335232,Germanic animal ornamentation,0500-01-01T00:00:00Z,,Genre
+Q2710523,ragga jungle,1989-01-01T00:00:00Z,United Kingdom,Genre
+Q3141414,Hawzi,,Algeria,Genre
+Q6868046,Minneapolis sound,1978-01-01T00:00:00Z,United States,Genre
+Q284543,ethereal wave,1982-01-01T00:00:00Z,United Kingdom,Genre
+Q2961766,Algerian chaabi,2000-01-01T00:00:00Z,Algeria,Genre
+Q16625659,space ambient,1971-01-01T00:00:00Z,,Genre
+Q1091056,funktronica,2001-01-01T00:00:00Z,,Genre
+Q1143741,chicha,,Peru,Genre
+Q131425,visual kei,1984-01-01T00:00:00Z,Japan,Genre
+Q186472,folk rock,1964-01-01T00:00:00Z,United States,Genre
+Q613408,country rock,1965-01-01T00:00:00Z,United States,Genre
+Q49451,progressive rock,1967-01-01T00:00:00Z,United Kingdom,Genre
+Q483740,Anatolian rock,1965-01-01T00:00:00Z,Turkey,Genre
+Q12302,bagad,,France,Genre
+Q922865,trancecore,1990-01-01T00:00:00Z,,Genre
+Q221772,acid jazz,1987-01-01T00:00:00Z,United Kingdom,Genre
+Q446241,neo-medieval music,1960-01-01T00:00:00Z,Germany,Genre
+Q1166197,dark metal,1994-01-01T00:00:00Z,Europe,Genre
+Q725011,neo-classical metal,1978-01-01T00:00:00Z,United States,Genre
+Q784310,electro hop,2007-01-01T00:00:00Z,,Genre
+Q1191544,kuduro,1999-01-01T00:00:00Z,Angola,Genre
+Q131578,J-pop,1988-01-01T00:00:00Z,Japan,Genre
+Q617240,stoner rock,1988-01-01T00:00:00Z,United States,Genre
+Q888137,skweee,2005-01-01T00:00:00Z,Finland,Genre
+Q11660484,denpa song,1992-01-01T00:00:00Z,Japan,Genre
+Q135239105,jerk rap,2009-01-01T00:00:00Z,,Genre
+Q1751409,2-step garage,1998-01-01T00:00:00Z,United Kingdom,Genre
+Q1048469,music of Scotland,,,Genre
+Q6689665,lounge rock,2000-01-01T00:00:00Z,United States,Genre
+Q1055871,Japanese rock,1965-01-01T00:00:00Z,Japan,Genre
+Q163775,medieval music,0500-01-01T00:00:00Z,,Genre
+Q108297238,euphoric hardstyle,2008-01-01T00:00:00Z,,Genre
+Q104847359,Brooklyn drill,,United States,Genre
+Q10334892,music of Cameroon,,,Genre
+Q83440,country music,1920-01-01T00:00:00Z,United States,Genre
+Q1262781,dub techno,1993-01-01T00:00:00Z,United States,Genre
+Q1695023,alternative music,,,Genre
+Q1849006,Houston hip-hop,,,Genre
+Q106560663,reggaeton underground,,Puerto Rico,Genre
+Q118798959,tearout dubstep,2006-01-01T00:00:00Z,,Genre
+Q115691081,Chicago drill,2010-01-01T00:00:00Z,,Genre
+Q4965901,Jersey club,2002-01-01T00:00:00Z,United States,Genre
+Q109941986,ratchet music,2011-01-01T00:00:00Z,,Genre
+Q4846346,bassline,1999-01-01T00:00:00Z,,Genre
+Q1051735,soca music,1970-01-01T00:00:00Z,Trinidad and Tobago,Genre
+Q54329757,Latin trap,2010-01-01T00:00:00Z,Puerto Rico,Genre
+Q1840167,witch house,2007-01-01T00:00:00Z,,Genre
+Q1810546,Turkish folk music,,Turkey,Genre
+Q170435,trance,1988-01-01T00:00:00Z,Germany,Genre
+Q106404229,melodic dubstep,2010-01-01T00:00:00Z,,Genre
+Q5184215,Creole music,,,Genre
+Q135637,chiptune,1978-01-01T00:00:00Z,Japan,Genre
+Q15974722,Breton song,,France,Genre
+Q106477753,midtempo bass,2011-01-01T00:00:00Z,,Genre
+Q109148913,organic house,2009-01-01T00:00:00Z,,Genre
+Q106528420,deathstep,2010-01-01T00:00:00Z,,Genre
+Q106594102,Philly club,2007-01-01T00:00:00Z,,Genre
+Q1259016,drill and bass,1995-01-01T00:00:00Z,,Genre
+Q11325235,neo-acoustic,1982-01-01T00:00:00Z,Japan,Genre
+Q12326776,metal music,1970-01-01T00:00:00Z,,Genre
+Q1277532,early reggae,1965-01-01T00:00:00Z,United Kingdom,Genre
+Q109322851,mashcore,2003-01-01T00:00:00Z,,Genre
+Q110185782,melodic techno,2013-01-01T00:00:00Z,,Genre
+Q116972319,first wave black metal,1983-01-01T00:00:00Z,,Genre
+Q1275972,raggacore,1998-01-01T00:00:00Z,,Genre
+Q106369996,wave,2012-01-01T00:00:00Z,,Genre
+Q1413061,tropicália,1967-01-01T00:00:00Z,Brazil,Genre
+Q1785028,sleaze rock,,United States,Genre
+Q65943851,UK drill,2015-01-01T00:00:00Z,Brixton,Genre
+Q131272,soul,1955-01-01T00:00:00Z,United States,Genre
+Q138020,French hip-hop,1980-01-01T00:00:00Z,France,Genre
+Q15300817,big room house,2009-01-01T00:00:00Z,,Genre
+Q1753071,maracatu,,Brazil,Genre
+Q65065491,riddim,2010-01-01T00:00:00Z,England,Genre
+Q1062400,chanson,1450-01-01T00:00:00Z,,Genre
+Q54864794,horror music,,,Genre
+Q55296418,occult rock,,,Genre
+Q1425661,folk punk,1985-01-01T00:00:00Z,United Kingdom,Genre
+Q56465221,plena de Panamá,,,Genre
+Q101109587,future rave,2019-01-01T00:00:00Z,,Genre
+Q106130091,post-dubstep,,United Kingdom,Genre
+Q10286190,full-on,1998-01-01T00:00:00Z,Brazil,Genre
+Q15141477,proto-metal,1966-01-01T00:00:00Z,United States,Genre
+Q104695865,hyperpop,,,Genre
+Q106520951,bayou funk,,,Genre
+Q132438,black metal,1985-01-01T00:00:00Z,Finland,Genre
+Q111182811,peak time techno,2011-01-01T00:00:00Z,,Genre
+Q1756101,nu skool breaks,1995-01-01T00:00:00Z,United Kingdom,Genre
+Q83270,hard rock,1967-01-01T00:00:00Z,United States,Genre
+Q105404852,hi-tech psytrance,2005-01-01T00:00:00Z,,Genre
+Q110592506,modern dancehall,,,Genre
+Q114880130,bass music (EDM),1997-01-01T00:00:00Z,,Genre
+Q116690325,power ballad,,,Genre
+Q116958268,occult music,,,Genre
+Q170611,techno,1984-01-01T00:00:00Z,United States,Genre
+Q164444,funk,1965-01-01T00:00:00Z,United States,Genre
+Q82216213,expressionist art,,,Genre
+Q1046768,música popular brasileira,1966-01-01T00:00:00Z,Brazil,Genre
+Q122910849,future trap,,,Genre
+Q11680297,psybreaks,1995-01-01T00:00:00Z,,Genre
+Q123141133,talempong goyang,,,Genre
+Q114743580,psystyle,2015-01-01T00:00:00Z,,Genre
+Q123413364,Afro tech,,,Genre
+Q123421084,briddim,,,Genre
+Q124399713,Jersey club rap,,,Genre
+Q97277483,New Jersey sound,1987-01-01T00:00:00Z,United States,Genre
+Q125653755,Philly club rap,,,Genre
+Q2302695,tech trance,1993-01-01T00:00:00Z,Germany,Genre
+Q1772422,stoner metal,1990-01-01T00:00:00Z,,Genre
+Q2265866,brutal death metal,1990-01-01T00:00:00Z,,Genre
+Q2478478,dubtronica,,England,Genre
+Q1730388,Western swing,1928-01-01T00:00:00Z,United States,Genre
+Q60462608,biker metal,1977-01-01T00:00:00Z,United States,Genre
+Q1433387,drone metal,1992-01-01T00:00:00Z,United States,Genre
+Q10367225,samba-rap,,Brazil,Genre
+Q115483855,Jersey drill,2021-01-01T00:00:00Z,,Genre
+Q3605852,adult album alternative,,,Genre
+Q16254929,Italian occult psychedelia,,,Genre
+Q123707590,pop urbaine,,France,Genre
+Q4838724,bachatón,,,Genre
+Q6956465,Na mele paleoleo,,United States,Genre
+Q16096634,kawaii metal,2010-01-01T00:00:00Z,Japan,Genre
+Q3098078,J-core,,Japan,Genre
+Q2963621,chillstep,2009-01-01T00:00:00Z,,Genre
+Q2521569,soul blues,1968-01-01T00:00:00Z,United States,Genre
+Q3008122,cyber metal,1995-01-01T00:00:00Z,Norway,Genre
+Q4993553,ambient trance,1990-01-01T00:00:00Z,,Genre
+Q119259589,tearout brostep,2015-01-01T00:00:00Z,,Genre
+Q119438497,UK jackin',2009-01-01T00:00:00Z,,Genre
+Q7988543,Western swing fiddle,,,Genre
+Q4998143,Burban,2011-01-01T00:00:00Z,United Kingdom,Genre
+Q8197165,ambient black metal,,,Genre
+Q2465085,ambient house,1988-01-01T00:00:00Z,United Kingdom,Genre
+Q9149801,ambient techno,1989-01-01T00:00:00Z,,Genre
+Q16855754,blackgaze,2003-01-01T00:00:00Z,France,Genre
+Q31837446,dark jazz,,,Genre
+Q116875230,gospel house,1987-01-01T00:00:00Z,,Genre
+Q33160145,ambient pop,,,Genre
+Q2706919,country rap,1990-01-01T00:00:00Z,United States,Genre
+Q7801106,Tierra Caliente music,1990-01-01T00:00:00Z,Mexico,Genre
+Q90568328,phonk,2010-01-01T00:00:00Z,,Genre
+Q3179786,sambass,2001-01-01T00:00:00Z,Brazil,Genre
+Q11693017,darkcore,1992-01-01T00:00:00Z,United Kingdom,Genre
+Q124705104,trapeton,,Puerto Rico,Genre
+Q97378346,Black Rio,1976-01-01T00:00:00Z,,Genre
+Q135493744,melodic bass,2014-01-01T00:00:00Z,,Genre
+Q131440882,electro hip-hop,1980-01-01T00:00:00Z,,Genre
+Q124692508,jerk,2020-01-01T00:00:00Z,,Genre
+Q6918602,motswako,1990-01-01T00:00:00Z,,Genre
+Q5072880,chap hop,2007-01-01T00:00:00Z,United Kingdom,Genre
+Q124099574,cosmic black metal,1994-01-01T00:00:00Z,,Genre
+Q56342556,classical crossover,,,Genre
+Q55644985,trap metal,2015-01-01T00:00:00Z,United States,Genre
+Q123543092,darkcore,,Netherlands,Genre
+Q11320601,deathrash,1980-01-01T00:00:00Z,United States,Genre
+Q97265899,lofi hip-hop,2000-01-01T00:00:00Z,,Genre
+Q31836693,jungle terror,2011-01-01T00:00:00Z,Netherlands,Genre
+Q120484427,dariacore,2020-01-01T00:00:00Z,,Genre
+Q2035976,Nintendocore,2001-09-01T00:00:00Z,United States,Genre
+Q128792684,bubblegum punk,1970-01-01T00:00:00Z,,Genre
+Q60973191,darksynth,2010-01-01T00:00:00Z,,Genre
+Q2256407,hip-hop soul,1990-01-01T00:00:00Z,United States,Genre
+Q121032006,national music,,,Genre
+Q3683985,combat folk,,Italy,Genre
+Q116296482,melodic house,,,Genre
+Q12362064,emo rap,2013-01-01T00:00:00Z,United States,Genre
+Q135437342,microfunk,2008-01-01T00:00:00Z,Russia,Genre
+Q114594005,rawphoric,2016-01-01T00:00:00Z,,Genre
+Q120233553,jazz guachaca,,,Genre
+Q121494463,Kosmische Musik,,,Genre
+Q135553474,autonomic,,,Genre
+Q122034475,gengetone,,,Genre
+Q109555263,Broadway music,1870-01-01T00:00:00Z,,Genre
+Q108197774,colour bass,2014-01-01T00:00:00Z,,Genre
+Q109873537,dark disco,2013-01-01T00:00:00Z,,Genre
+Q110121422,downtempo deathcore,1991-01-01T00:00:00Z,,Genre
+Q28746819,bedroom pop,,,Genre
+Q29025044,psychedelic funk,,,Genre
+Q18217098,New Mexico music,1300-01-01T00:00:00Z,United States,Genre
+Q113509746,French contemporary R&B,1990-01-01T00:00:00Z,France,Genre
+Q109714096,forest psytrance,1998-01-01T00:00:00Z,,Genre
+Q109714084,twilight psytrance,1999-01-01T00:00:00Z,,Genre
+Q109715837,zenonesque,1999-01-01T00:00:00Z,,Genre
+Q18393891,reggaestep,2010-01-01T00:00:00Z,United States,Genre
+Q25040706,RnBass,2014-01-01T00:00:00Z,,Genre
+Q113332645,mumble rock,2019-01-01T00:00:00Z,Ukraine,Genre
+Q106642137,black ambient,,,Genre
+Q106917640,kleinkunst,,,Genre
+Q110226234,red disco,1986-01-01T00:00:00Z,Soviet Union,Genre
+Q110592449,environmental music,,,Genre
+Q109715091,morning psytrance,,,Genre
+Q109873092,social media pop,,,Genre
+Q112593424,Native American new age music,,,Genre

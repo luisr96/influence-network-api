@@ -1,0 +1,183 @@
+id:ID,name,inception,country,:LABEL
+Q1860,English,,New Zealand,Language
+Q150,French,,United States,Language
+Q143,Esperanto,1887-07-26T00:00:00Z,Esperantujo,Language
+Q13324,Minangkabau,,Singapore,Language
+Q13955,Arabic,,Turkey,Language
+Q9240,Indonesian,,Indonesia,Language
+Q9217,Thai,,Thailand,Language
+Q188,German,,Belgium,Language
+Q294,Icelandic,,Denmark,Language
+Q256,Turkish,,Turkey,Language
+Q652,Italian,,Switzerland,Language
+Q9237,Malay,,Indonesia,Language
+Q9205,Khmer,,Vietnam,Language
+Q9264,Uzbek,,Turkey,Language
+Q9610,Bangla,,India,Language
+Q9288,Hebrew,-1500-01-01T00:00:00Z,Israel,Language
+Q9176,Korean,,United States,Language
+Q9199,Vietnamese,,Vietnam,Language
+Q9186,Cantonese,,Malaysia,Language
+Q13201,Romani,,Serbia,Language
+Q809,Polish,,Poland,Language
+Q1321,Spanish,,Spain,Language
+Q1412,Finnish,,Finland,Language
+Q56509,Amdo Tibetan,,People's Republic of China,Language
+Q37560,Vulgar Latin,,Ancient Rome,Language
+Q102172,Limburgish,,Belgium,Language
+Q58635,Punjabi,,Spain,Language
+Q56385,Gulf Arabic,,Kuwait,Language
+Q5146,Portuguese,,Spain,Language
+Q5885,Tamil,,Singapore,Language
+Q5287,Japanese,,Japan,Language
+Q7411,Dutch,,Belgium,Language
+Q7737,Russian,,Russia,Language
+Q7838,Swahili,,Democratic Republic of the Congo,Language
+Q7913,Romanian,,Serbia,Language
+Q8097,Telugu,,India,Language
+Q8641,Yiddish,,Hungary,Language
+Q9035,Danish,,Kingdom of Denmark,Language
+Q9067,Hungarian,,Hungary,Language
+Q9043,Norwegian,,Norway,Language
+Q9027,Swedish,,Finland,Language
+Q33223,Bodo,,India,Language
+Q27175,West Frisian,,Netherlands,Language
+Q34219,Walloon,,United States,Language
+Q33728,Magahi,,India,Language
+Q337657,Mon-Khmer,,,Language
+Q29401,Assamese,,India,Language
+Q14185,Occitan,,Spain,Language
+Q33765,Nicaraguan Sign Language,1980-01-01T00:00:00Z,Nicaragua,Language
+Q32724,Venetian,,Montenegro,Language
+Q2044560,Sylheti,,Singapore,Language
+Q33856,Papiamento,,Aruba,Language
+Q33268,Bhojpuri,,India,Language
+Q34057,Tagalog,,Philippines,Language
+Q14759,American Sign Language,1817-01-01T00:00:00Z,United States,Language
+Q33158,Chhattisgarhi,,India,Language
+Q33989,Sranan Tongo,,Suriname,Language
+Q33673,Kannada,,India,Language
+Q33810,Odia,,India,Language
+Q25289,Cornish,,United Kingdom,Language
+Q33375,Hakka Chinese,,Indonesia,Language
+Q34024,Picard,,Belgium,Language
+Q33584,Khasi,,India,Language
+Q1975271,Taivoan,,Taiwan,Language
+Q27969,Ainu,,Japan,Language
+Q33823,Nepali,,India,Language
+Q34002,Sundanese,,Singapore,Language
+Q33549,Javanese,,Singapore,Language
+Q9168,Persian,,Pakistan,Language
+Q9166,Maltese,,United States,Language
+Q9129,Greek,,Republic of Abkhazia,Language
+Q397,Latin,,Vatican City,Language
+Q8141,Modern Hebrew,,Israel,Language
+Q35132,Amis,,Taiwan,Language
+Q35243,Braj Bhasha,,India,Language
+Q12349104,Ibran,,,Language
+Q12354832,Salveto,,,Language
+Q12355377,Streyka,,,Language
+Q12356906,Zoinx,1993-01-01T00:00:00Z,,Language
+Q12353317,Novum,1994-01-01T00:00:00Z,,Language
+Q12352791,Mondal,1945-01-01T00:00:00Z,,Language
+Q12353885,Pluranto,1997-01-01T00:00:00Z,,Language
+Q12356876,Zegzolt,2002-01-01T00:00:00Z,,Language
+Q66311273,Globasa,2019-07-26T00:00:00Z,,Language
+Q12344900,Q12344900,1974-01-01T00:00:00Z,,Language
+Q12346775,Edilo,1909-01-01T00:00:00Z,,Language
+Q56593,Levantine Arabic,,Turkey,Language
+Q125992784,gua\spi,1989-01-01T00:00:00Z,,Language
+Q108940680,Novlingue,2021-01-01T00:00:00Z,,Language
+Q125985179,Toaq,2013-01-01T00:00:00Z,,Language
+Q79388,Llanito,,Spain,Language
+Q12351851,Logli,2003-01-01T00:00:00Z,,Language
+Q44661,New Zealand English,,New Zealand,Language
+Q29579,Awadhi,,India,Language
+Q33892,Munda,,,Language
+Q33302,French Sign Language,,France,Language
+Q33681,Mande,,,Language
+Q21200,Germanic languages,,,Language
+Q33199,Austroasiatic,,,Language
+Q34064,Tibeto-Burman,,,Language
+Q108470470,Mini,,,Language
+Q33492,Kurukh,,India,Language
+Q2919292,Hebronics,,,Language
+Q1569973,Haketia,,Spain,Language
+Q1138529,Glosa,1981-01-01T00:00:00Z,,Language
+Q3942880,Nordien,,,Language
+Q36451,Māori,,New Zealand,Language
+Q36708,Norn,,United Kingdom,Language
+Q2919121,Aka-Jeru,,India,Language
+Q1404296,Belgian Dutch,,Belgium,Language
+Q36137,Garo,,India,Language
+Q12344627,Adelic,1993-01-01T00:00:00Z,,Language
+Q36759,Teochew,,,Language
+Q676619,Lincos,1960-01-01T00:00:00Z,,Language
+Q36236,Malayalam,,India,Language
+Q36109,Maithili,,India,Language
+Q1793299,Sinte Romani,,Serbia,Language
+Q2726867,Kannauji,,India,Language
+Q1048980,Singaporean Mandarin,,,Language
+Q7049771,Noongar,,Australia,Language
+Q3099446,Gaumais,,,Language
+Q3361977,Khariboli,,,Language
+Q954393,Makatto,,Taiwan,Language
+Q765922,Nagpuri,,India,Language
+Q3444016,Jordanian Arabic,,Jordan,Language
+Q35497,Ancient Greek,,,Language
+Q237409,Zeelandic,,Netherlands,Language
+Q7599417,Andaman Creole Hindi,,India,Language
+Q56488,Brabantian,,Belgium,Language
+Q1334774,Lehndi,,,Language
+Q2479433,Genoese dialect,,,Language
+Q2452885,Shauraseni,,,Language
+Q3299229,Cornish English,,United Kingdom,Language
+Q49340,Old Javanese,,Indonesia,Language
+Q49341,Kawi,,Indonesia,Language
+Q1365342,Yenish,,Switzerland,Language
+Q56312,Marwari,,Pakistan,Language
+Q3636943,Modern Standard Hindi,,,Language
+Q12429754,Contact Hindi of Jharkhand,,,Language
+Q2537515,Hals,,Belgium,Language
+Q16919205,Insular Scots,,,Language
+Q2023661,Amsterdams,,Netherlands,Language
+Q3069598,Shetland Scots,,United Kingdom,Language
+Q815549,Belgian French,,,Language
+Q21483302,Amami Ōshima,,Japan,Language
+Q34019,Taiwanese Sign Language,,Taiwan,Language
+Q36871,Venetic,,Ancient Rome,Language
+Q3360698,Pajots,,Belgium,Language
+Q117273410,Old Kerinci,,,Language
+Q118496622,Contact Hindi,,,Language
+Q118496777,Contact Hindi of the Andamans,,,Language
+Q118496925,Northeastern Contact Hindi,,,Language
+Q122803260,Kaimganj Pathan Urdu,,,Language
+Q1654327,Classical Arabic,,,Language
+Q121321735,Shetland Norn,,United Kingdom,Language
+Q3501850,Pnar,,India,Language
+Q716604,Siraya,,Taiwan,Language
+Q3513637,Iranian Persian,,Iran,Language
+Q25559304,Parsi,,India,Language
+Q23580217,European English,,,Language
+Q727694,Standard Chinese,,Singapore,Language
+Q28818299,Meridional French,,France,Language
+Q13468745,Cités,,Belgium,Language
+Q669431,Daknī,,India,Language
+Q3610939,Singapore English,,Singapore,Language
+Q15785413,Baltic German,,Latvia,Language
+Q25640932,Genk dialect,,Belgium,Language
+Q116202175,Modern Standard Urdu,,,Language
+Q118496856,Contact Hindi of the Andamanese settlers,,,Language
+Q121267984,Tak Apabhraṃśa,,,Language
+Q7512563,Singapore Sign Language,,Singapore,Language
+Q119217533,Singaporean Malay,,Singapore,Language
+Q31775823,Old Malay,,Srivijaya,Language
+Q128202996,Zhoutun,,People's Republic of China,Language
+Q24841726,Putonghua,,People's Republic of China,Language
+Q56197074,Old Sundanese,,Indonesia,Language
+Q125997320,Neo-Nyungar,,Australia,Language
+Q117194407,Punjabi Hindwi,,,Language
+Q118496643,Contact Hindi of Bihar,,,Language
+Q118496837,Contact Hindi of the Great Andamanese,,,Language
+Q118497011,Contact Hindi of Arunachal Pradesh,,,Language
+Q118497345,Contact Hindi of Meghalaya,,,Language

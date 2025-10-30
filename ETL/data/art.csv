@@ -1,0 +1,827 @@
+id:ID,name,inception,country,:LABEL
+Q107391650,International Exhibition of Nothing,2015-07-13T00:00:00Z,Italy,Art
+Q935292,Neo-Dada,,,Art
+Q152778,Die Brücke,1905-06-07T00:00:00Z,Germany,Art
+Q1089243,Leonardeschi,,,Art
+Q19924943,Crucifixion,1846-01-01T00:00:00Z,,Art
+Q98833586,Licorne Eiffel,2009-01-01T00:00:00Z,France,Art
+Q5308687,Drowning Girl,1963-01-01T00:00:00Z,United States,Art
+Q135120194,anime/manga style,,,Art
+Q11293927,Chaos Lounge,,,Art
+Q1137000,COUM Transmissions,1969-01-01T00:00:00Z,,Art
+Q276308,Nouveau réalisme,1960-01-01T00:00:00Z,,Art
+Q4736321,altermodern,2009-01-01T00:00:00Z,,Art
+Q17089653,feminist art movement,,,Art
+Q5637365,Hackney Flashers,1974-01-01T00:00:00Z,United Kingdom,Art
+Q1745141,Fantastic Realism,1960-01-01T00:00:00Z,Germany,Art
+Q180902,socialist realism,1932-01-01T00:00:00Z,Soviet Union,Art
+Q4692,Renaissance,,,Art
+Q8253,fiction,,,Art
+Q17514,graffiti,,,Art
+Q37068,Romanticism,,,Art
+Q134147,pop art,1950-01-01T00:00:00Z,,Art
+Q10758373,Em Thúy,1943-01-01T00:00:00Z,Vietnam,Art
+Q57173928,abject art,1980-01-01T00:00:00Z,,Art
+Q203209,conceptual art,1960-01-01T00:00:00Z,,Art
+Q4975620,Brotherhood of Ruralists,1975-01-01T00:00:00Z,United Kingdom,Art
+Q768100,Lettrism,1945-01-01T00:00:00Z,,Art
+Q12539,Age of Enlightenment,,,Art
+Q113262,Young man in Mayo costume,1863-01-01T00:00:00Z,United States,Art
+Q10336205,neo-concrete movement,1950-01-01T00:00:00Z,Brazil,Art
+Q6034,Dada,1910-01-01T00:00:00Z,,Art
+Q18549884,Leaving Home,1907-01-01T00:00:00Z,United States,Art
+Q39427,Surrealism,1920-01-01T00:00:00Z,,Art
+Q1382662,Poetism,1923-01-01T00:00:00Z,Czechoslovakia,Art
+Q20529219,SOUP '69,1969-01-01T00:00:00Z,Estonia,Art
+Q108822660,Bohdisattva Avalokiteśvara with Thousand Eyes and Thousand Hands statues,,,Art
+Q207445,De Stijl,1917-01-01T00:00:00Z,Netherlands,Art
+Q1444581,Superflat,2000-01-01T00:00:00Z,Japan,Art
+Q118319446,Palm Springs (Schifano),1978-01-01T00:00:00Z,,Art
+Q65600643,Death of Saint Cecilia,1613-01-01T00:00:00Z,,Art
+Q110705435,Women's Art Movement,,Australia,Art
+Q34636,Art Nouveau,1890-01-01T00:00:00Z,,Art
+Q108908,Fluxus,1960-01-01T00:00:00Z,,Art
+Q10336318,neo-primitivism,1913-01-01T00:00:00Z,Russian Empire,Art
+Q40415,Impressionism,1860-01-01T00:00:00Z,,Art
+Q16058160,Afrapix,1982-01-01T00:00:00Z,South Africa,Art
+Q37853,Baroque,,,Art
+Q38066,existentialism,,,Art
+Q42934,Cubism,1907-01-01T00:00:00Z,France,Art
+Q38166,modern art,,,Art
+Q106249653,Male Portrait,1930-04-01T00:00:00Z,,Art
+Q106049514,Portrait of Marian Radecki,1938-02-06T00:00:00Z,,Art
+Q105949919,Portrait of Zofia Jagodowska,1931-10-03T00:00:00Z,,Art
+Q105930265,Portrait of Michał Białynicki-Birula,1930-12-27T00:00:00Z,,Art
+Q105925636,Portrait of Stanisława Totwen,1930-10-30T00:00:00Z,,Art
+Q105927896,Portrait of Helena Białynicka-Birula,1930-04-30T00:00:00Z,,Art
+Q105925633,Portrait of Nena Stachurska,1930-03-31T00:00:00Z,,Art
+Q105927897,Portrait of Stefan Totwen,1930-03-31T00:00:00Z,,Art
+Q105925642,Portrait of Zofia Jagodowska,1930-01-31T00:00:00Z,,Art
+Q105925622,Portrait of Helena Białynicka-Birula,1930-01-14T00:00:00Z,,Art
+Q105930412,Portrait of Edwarda Szmuglarowska,1930-02-25T00:00:00Z,,Art
+Q105930312,Portrait of Nena Stachurska,1929-10-12T00:00:00Z,,Art
+Q105949911,Portrait of Michał Choromański,1930-05-01T00:00:00Z,,Art
+Q105949920,Portrait of Zofia Krzeptowska,1930-04-01T00:00:00Z,,Art
+Q105949915,"Portrait of Nena Stachurska, ""The Thaw of the Face""",1930-02-01T00:00:00Z,,Art
+Q105949912,Portrait of Modesta Zwolińska,1929-10-19T00:00:00Z,,Art
+Q106049481,Portrait of Helena Białynicka-Birula,1931-10-03T00:00:00Z,,Art
+Q106049606,Portrait of Michał Choromański,1931-10-03T00:00:00Z,,Art
+Q106049478,Portrait of Helena Białynicka-Birula,1931-01-01T00:00:00Z,,Art
+Q106049631,Portrait of Zofia Jagodowska,1931-01-01T00:00:00Z,,Art
+Q106049489,Portrait of Helena Białynicka-Birula,1930-10-05T00:00:00Z,,Art
+Q106049483,Portrait of Helena Białynicka-Birula,1930-10-03T00:00:00Z,,Art
+Q105949916,"Portrait of Małgorzata Wanda Żukotyńska, ""Sphinx""",1928-02-01T00:00:00Z,,Art
+Q105925630,Portrait of Włodzimierz Nawrocki,1926-11-30T00:00:00Z,,Art
+Q106049243,Portrait of Helena Białynicka-Birula,1930-09-02T00:00:00Z,,Art
+Q106049616,Portrait of Stanisław Totwen,1933-02-01T00:00:00Z,,Art
+Q106049441,Composition - Lady Macbeth,1933-01-07T00:00:00Z,,Art
+Q106049236,Portrait of Helena Białynicka-Birula,1930-03-01T00:00:00Z,,Art
+Q106049241,Portrait of Helena Białynicka-Birula,1930-03-01T00:00:00Z,,Art
+Q106050090,Portrait of Nena Stachurska,1930-02-24T00:00:00Z,,Art
+Q106050092,Portrait of Nena Stachurska,1930-02-24T00:00:00Z,,Art
+Q106049832,Portrait of Zofia Mohuczyna,1930-02-01T00:00:00Z,,Art
+Q106050064,Portrait of Helena Białynicka-Birula,1930-01-15T00:00:00Z,,Art
+Q106049469,Portrait of Edwarda Szmuglarowska,1930-01-01T00:00:00Z,,Art
+Q106085329,Portrait of Helena Białynicka-Birula,1931-01-30T00:00:00Z,,Art
+Q106049344,Portrait of Michał Choromański,1930-05-02T00:00:00Z,,Art
+Q106049560,Portrait of Michał Choromański,1930-05-02T00:00:00Z,,Art
+Q106049583,Portrait of Michał Choromański,1930-05-02T00:00:00Z,,Art
+Q106049392,Portrait of Zofia Krzeptowska,1930-04-01T00:00:00Z,,Art
+Q106049573,Portrait of Michał Choromański,1930-04-01T00:00:00Z,,Art
+Q106049348,Portrait of Michał Choromański,1930-03-01T00:00:00Z,,Art
+Q106049352,Portrait of Michał Choromański,1930-03-01T00:00:00Z,,Art
+Q106050074,Portrait of Helena Białynicka-Birula,1929-10-12T00:00:00Z,,Art
+Q106049596,Portrait of Michał Choromański,1930-01-06T00:00:00Z,,Art
+Q106059824,Portrait of Nena Stachurska,1929-09-10T00:00:00Z,,Art
+Q106049472,A fictional portrait,1931-10-12T00:00:00Z,,Art
+Q106049624,Portrait of Władysław Nelken,1931-10-03T00:00:00Z,,Art
+Q106050024,Portrait of Stefan Glass,1931-03-09T00:00:00Z,,Art
+Q106049467,Portrait of Albina Rondomańska,1931-02-21T00:00:00Z,,Art
+Q106049430,Portrait of Albina Rondomańska,1931-02-01T00:00:00Z,,Art
+Q106049629,Portrait of Thomas Zan Junior,1931-01-30T00:00:00Z,,Art
+Q106049477,Portrait of Hanna Moesówna,1931-01-01T00:00:00Z,,Art
+Q106049916,Portrait of Michał Białynicki-Birula,1928-01-01T00:00:00Z,,Art
+Q106049324,Portrait of Major Stefan Gałyński,1930-07-24T00:00:00Z,,Art
+Q106049331,Portrait of Major Stefan Gałyński,1930-07-24T00:00:00Z,,Art
+Q106049255,Portrait of Janina Filipowska,1930-06-01T00:00:00Z,,Art
+Q106049299,Portrait of Józef Fedorowicz,1930-05-02T00:00:00Z,,Art
+Q106049318,Portrait of Józef Fedorowicz,1930-05-02T00:00:00Z,,Art
+Q106049353,Portrait of Michał Jagodowski,1930-05-02T00:00:00Z,,Art
+Q106049280,Portrait of Janusz Domaniewski,1930-04-01T00:00:00Z,,Art
+Q106049356,"Portrait of Rafał Malczewski, ""Miss Oberländer""",1930-03-28T00:00:00Z,,Art
+Q106049355,A double portrait of Kazimierz Sosnkowski and Michał Choromański,1930-03-01T00:00:00Z,,Art
+Q106049226,Portrait of Arthur Schroeder,1930-03-01T00:00:00Z,,Art
+Q106049228,Portrait of Charles Forbes,1930-03-01T00:00:00Z,,Art
+Q106049246,Portrait of Irena Domaniewska,1930-03-01T00:00:00Z,,Art
+Q106049274,"Portrait of Janusz Domaniewski, Nero watching burning Rome",1930-03-01T00:00:00Z,,Art
+Q106049234,Portrait of H. Spirzewska,1930-02-25T00:00:00Z,,Art
+Q106049642,"Portrait of Helena Białynicka-Birula, ""Old Jew""",1930-02-25T00:00:00Z,,Art
+Q106049357,Portrait of Stefan Daszyński,1930-02-01T00:00:00Z,,Art
+Q106049288,Portrait of Janusz Domaniewski,1930-01-01T00:00:00Z,,Art
+Q106049614,Portrait of Stanisław Totwen,1930-01-01T00:00:00Z,,Art
+Q106085755,Portrait of Zofia Mohuczyna,1928-03-01T00:00:00Z,,Art
+Q106050047,Portrait of Zofia Bylczyńska,1929-10-09T00:00:00Z,,Art
+Q106049608,Portrait of Stefan Glass,1929-09-10T00:00:00Z,,Art
+Q106049770,Portrait of Maria Nawrocka,1927-03-01T00:00:00Z,,Art
+Q106084571,Joint portrait of Helena Białynicka-Birula and Albina Rondomańska,1931-02-01T00:00:00Z,,Art
+Q106080355,Portrait of Marceli Staroniewicz,1927-05-01T00:00:00Z,,Art
+Q106049644,Portrait of Bohdan Filipowski,1928-05-28T00:00:00Z,,Art
+Q106106205,Portrait of Bohdan Filipowski,1929-10-01T00:00:00Z,,Art
+Q106249626,Mood Portrait,1934-09-01T00:00:00Z,,Art
+Q106412554,Portrait of Janina Turowska-Leszczyńska,1933-01-01T00:00:00Z,,Art
+Q106412553,Portrait of Janina Turowska-Leszczyńska,1933-01-01T00:00:00Z,,Art
+Q106412556,Portrait of Janina Turowska-Leszczyńska,1933-01-01T00:00:00Z,,Art
+Q106318913,Portrait of Helena Białynicka-Birula,1927-04-01T00:00:00Z,,Art
+Q106412525,Portrait of Michał Choromański,1930-03-01T00:00:00Z,,Art
+Q106249641,Portrait of Jadwiga Turowska-Leszczyńska,1933-01-01T00:00:00Z,,Art
+Q106412557,Portrait of Janina Turowska-Leszczyńska,1931-10-12T00:00:00Z,,Art
+Q106412558,Portrait of Janina Turowska-Leszczyńska,1931-08-01T00:00:00Z,,Art
+Q106412559,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q106412545,"Portrait of Maria Nawrocka, ""Richelieu""",1926-11-01T00:00:00Z,,Art
+Q29635239,Portrait of Maria Kasprowiczowa ( The Crying Knight),1928-07-01T00:00:00Z,,Art
+Q106049541,Portrait of a man,1931-08-01T00:00:00Z,,Art
+Q106049524,Portrait of a man,1930-05-09T00:00:00Z,,Art
+Q106049517,Portrait of a man,1930-01-01T00:00:00Z,,Art
+Q106049509,Portrait of a woman,1931-08-01T00:00:00Z,,Art
+Q105930438,Portrait of a woman,1926-11-01T00:00:00Z,,Art
+Q114241542,Portrait,1933-01-01T00:00:00Z,,Art
+Q108177074,"Portrait of a man, in profile",1932-01-01T00:00:00Z,,Art
+Q106895618,Portrait of a woman,1939-01-01T00:00:00Z,,Art
+Q109845438,"Portrait of Janina Turowska-Leszczyńska, Antinea",1933-01-01T00:00:00Z,,Art
+Q108302050,"Portrait of Leokadia Białynicka-Birula, remarried Janiszewska, ""Griffin""",1928-02-01T00:00:00Z,,Art
+Q108499939,Portrait of Colonel Janusz Beaurain,1935-08-16T00:00:00Z,,Art
+Q109381167,Portrait of Jerzy Maciak,1936-11-01T00:00:00Z,,Art
+Q108499403,A portrait of Kazimierz Wierzyński with flowery lips,1930-01-01T00:00:00Z,,Art
+Q108499402,"Portrait of Zofia Szumanowa, née Szczepanowska",1929-09-10T00:00:00Z,,Art
+Q108499926,Portrait of Eleanor Plutynska,1929-09-01T00:00:00Z,,Art
+Q108659715,"Portrait of Maria Kamińska, eyes",1936-03-01T00:00:00Z,,Art
+Q108499925,"Portrait of Helena Białynicka-Birula, ""a materializing phantom""",1927-05-01T00:00:00Z,,Art
+Q106645070,Asymmetric Lady - Portrait of Eugenia Wyszomirska-Kuźnicka,1934-10-01T00:00:00Z,Poland,Art
+Q108659696,Portrait of Stanisław Alberti,1933-06-02T00:00:00Z,,Art
+Q108659680,Portrait of Dr. Hugo Karwowski,1931-10-03T00:00:00Z,,Art
+Q108659666,Portrait of Helena Białynicka - Birula (?),1930-08-01T00:00:00Z,,Art
+Q108659652,Portrait of Janusz de Beaurain - The boys have a day off,1929-10-12T00:00:00Z,,Art
+Q108659651,Portrait of Idalia Iwanowska,1929-10-01T00:00:00Z,,Art
+Q106412562,Portrait of Nena Stachurska,1930-03-01T00:00:00Z,,Art
+Q106412560,Portrait of Nena Stachurska,1930-01-15T00:00:00Z,,Art
+Q106412561,Portrait of Nena Stachurska,1929-08-01T00:00:00Z,,Art
+Q106425399,Portrait of Michał Choromański,1930-01-06T00:00:00Z,,Art
+Q106589309,Portrait of Nena Stachurska,1931-02-26T00:00:00Z,,Art
+Q106645101,Asymmetric Lady - Portrait of Eugenia Wyszomirska-Kuźnicka,1935-03-01T00:00:00Z,Poland,Art
+Q106589310,Portrait of Nena Stachurska,1930-01-14T00:00:00Z,,Art
+Q106589277,Portrait of Helena Białynicka-Birula,1929-10-12T00:00:00Z,,Art
+Q106569578,Portrait of Władysław Nelken,1931-10-03T00:00:00Z,,Art
+Q106589281,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q106787350,Portrait of Helena Białynicka-Birula,1931-01-01T00:00:00Z,,Art
+Q106824753,Portrait of Helena Białynicka-Birula,1930-08-01T00:00:00Z,,Art
+Q106425358,Portrait of Artur Schroeder,1931-02-01T00:00:00Z,,Art
+Q106412563,Portrait of Kazimiera Alberti,1930-01-06T00:00:00Z,,Art
+Q106833091,Portrait of Stanisław Totwen,1931-10-06T00:00:00Z,,Art
+Q106807861,Portrait of Józef Fedorowicz,1930-05-02T00:00:00Z,,Art
+Q106824758,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q106412566,"Portrait of Father Jan Humpola, horrible uncle",1928-01-01T00:00:00Z,,Art
+Q106569572,Composition with four characters,1933-10-19T00:00:00Z,,Art
+Q106569574,Dialectic of bovine metaphysics,1933-10-01T00:00:00Z,,Art
+Q106603204,Portrait of Dr. Jan Władysław Pakowski,1934-05-01T00:00:00Z,,Art
+Q106824761,Portrait of Jan Leszczyński,1931-10-06T00:00:00Z,,Art
+Q106569589,Portrait of a girl - Jadwiga Piłsudska,1931-06-01T00:00:00Z,,Art
+Q106645099,Male Portrait - Self Portrait,1934-11-01T00:00:00Z,,Art
+Q106569577,"Portrait of Edwarda Szmuglarowska, splinter in the eye",1930-01-01T00:00:00Z,,Art
+Q106569579,A portrait of Aniela Zagórska,1929-11-01T00:00:00Z,,Art
+Q106589268,"Self-portrait, in the presence of H. S.",1930-07-01T00:00:00Z,,Art
+Q106589275,Portrait of Felicja Turowska,1930-02-01T00:00:00Z,,Art
+Q108122261,Portrait of a woman,1926-01-01T00:00:00Z,,Art
+Q106569585,Portrait of Leon Reynel,1926-05-08T00:00:00Z,,Art
+Q106824750,Portrait of an Officer (Podhalańczyk),1938-04-09T00:00:00Z,,Art
+Q106879335,Self-portrait (Auto-Vitcatius),1939-08-01T00:00:00Z,,Art
+Q106807870,Portrait of Józef Jan Głogowski,1934-10-01T00:00:00Z,,Art
+Q106833074,Portrait of Józef Jan Głogowski,1934-12-01T00:00:00Z,,Art
+Q107291734,Portrait of Aleksandra Totwenowa,1930-02-24T00:00:00Z,,Art
+Q114241539,Portrait of Artur Maria Swinarski,1931-01-01T00:00:00Z,,Art
+Q109327875,Profesor Krzestomir is a good man just a bit perverse,1936-02-01T00:00:00Z,,Art
+Q106769454,Portrait of Michał Choromański after the conversation with Mr. Marszałek Piłsudski,1930-02-25T00:00:00Z,,Art
+Q107277678,Portrait of Jadwiga Turowska-Leszczyńska,1931-10-12T00:00:00Z,,Art
+Q108659674,Portrait of a woman,1931-05-29T00:00:00Z,,Art
+Q106833084,Portrait of Helena Białynicka,1930-04-15T00:00:00Z,,Art
+Q106824738,Portrait of Anna Gramatyka-Ostrowska (?),1928-05-03T00:00:00Z,,Art
+Q109381141,Portrait of Czesław Blachniński,1931-01-20T00:00:00Z,,Art
+Q109523148,Portrait of Janina Szubert,1933-04-01T00:00:00Z,,Art
+Q109523848,Portrait of Janina Szubert,1933-04-01T00:00:00Z,,Art
+Q109557885,Portrait of Janina Szubert,1933-04-01T00:00:00Z,,Art
+Q113640317,Portrait of Jan Władysław Pakowski,1934-10-31T00:00:00Z,,Art
+Q108165629,Portrait of Helena Białynicka-Birula,1931-01-01T00:00:00Z,,Art
+Q113648254,Portrait of Tomasz Zan,1931-01-30T00:00:00Z,,Art
+Q106645086,Asymmetric Lady - Portrait of Eugenia Wyszomirska-Kuźnicka,1935-07-14T00:00:00Z,Poland,Art
+Q107291717,Portrait of doktor Witold Pakowski,1934-10-31T00:00:00Z,,Art
+Q107291741,Portrait of Doctor Pakowski,1934-02-01T00:00:00Z,,Art
+Q113755052,"Self-portreit, ""willpower""",1930-07-01T00:00:00Z,,Art
+Q107291766,Portrait of doctor Jan Władysław Pakowski,1933-10-01T00:00:00Z,,Art
+Q107291731,Portrait of Janina Turowska-Leszczynska,1933-01-01T00:00:00Z,,Art
+Q107311618,Awakening of lice-man,1931-08-01T00:00:00Z,,Art
+Q109766742,Portrait of a woman,1934-05-01T00:00:00Z,,Art
+Q108659721,Portrait of Janina Turowska-Leszczyńska,1933-01-01T00:00:00Z,,Art
+Q107400609,Portrait of Janina Brzostowska,1930-04-01T00:00:00Z,,Art
+Q108659660,Portrait of Michał Choromański,1930-03-01T00:00:00Z,,Art
+Q107494031,Portrait of Maria Gertnerówna-Białynicka-Birula,1934-07-14T00:00:00Z,,Art
+Q107533353,Portrait of Maria Gertnerówna-Białynicka-Birula,1934-07-01T00:00:00Z,,Art
+Q108659734,Portrait of Janusz Domaniewski,1930-03-01T00:00:00Z,,Art
+Q114241533,Male portrait,1930-11-09T00:00:00Z,,Art
+Q107533017,Portrait of Maria Gertnerówna,1933-04-01T00:00:00Z,,Art
+Q114241532,Portrait of Ludwik Solski,1930-05-02T00:00:00Z,,Art
+Q114241546,Portrait of Adam Bunsch I.,1933-06-01T00:00:00Z,,Art
+Q114241541,"Portrait of Jan Leszczyński, Mongolian prince",1933-01-01T00:00:00Z,,Art
+Q108228019,Portrait of Artur Schroeder (?),1929-09-01T00:00:00Z,,Art
+Q106589269,Self-portrait,1931-10-12T00:00:00Z,,Art
+Q106833080,Self-portrait,1938-12-15T00:00:00Z,,Art
+Q107722268,Portrait of a woman (Janina Turowska-Leszczyńska?),1933-10-01T00:00:00Z,,Art
+Q113640313,Portrait of Michał Choromański,1930-04-01T00:00:00Z,,Art
+Q113677163,Portrait of Helena Białynicka-Birula,1929-10-09T00:00:00Z,,Art
+Q113712142,Portrait of Modesta Zwolińska,1929-10-19T00:00:00Z,,Art
+Q113712351,Portrait of Teodor Białynicki-Birula,1930-10-05T00:00:00Z,,Art
+Q113712325,Portrait of Teodor Białynicki-Birula,1930-04-15T00:00:00Z,,Art
+Q109327735,Portrait of Helena Białynicka-Birula,1929-09-10T00:00:00Z,,Art
+Q113813224,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q109523808,Portrait of Nena Stachurska,1931-10-03T00:00:00Z,,Art
+Q114040718,Portrait of Helena Białynicka-Birula,1931-01-03T00:00:00Z,,Art
+Q106722422,Portrait of Prof. Jan Bystroń with a Pipe,1929-09-01T00:00:00Z,,Art
+Q80113,Expressionism,,,Art
+Q3362516,Afrofuturism,,,Art
+Q122488358,Portrait of Maria Gertnerówna-Białynicka-Birula,1934-07-14T00:00:00Z,,Art
+Q65080389,Art et Liberté,1939-01-01T00:00:00Z,Egypt,Art
+Q122389297,Portrait of Jadwiga Niedźwiedzka-Skibińska,1931-01-24T00:00:00Z,,Art
+Q3306247,Onirism,,Romania,Art
+Q122419774,Portrait of Maria Gertnerówna and Michał Białynicki-Birula,1933-04-01T00:00:00Z,,Art
+Q122419775,Portrait of M. Milkiewiczówna,1933-04-01T00:00:00Z,,Art
+Q122419773,"Portrait of Maria Gertnerówna, rainbow",1933-04-01T00:00:00Z,,Art
+Q122419776,"Portrait of Janina Szubert, ""grandma Szubertówna""",1933-04-01T00:00:00Z,,Art
+Q122354681,"Portrait of Zofia Jagodowska, a girl's smile",1930-03-01T00:00:00Z,,Art
+Q122419768,"Portrait of Janina Turowska-Leszczyńska, Ineczka, if she was dabbling in philosophy",1933-01-01T00:00:00Z,,Art
+Q122390984,Portrait of a Woman (Janina Turowska-Leszczyńska?),1931-08-01T00:00:00Z,,Art
+Q122488363,Portrait of Tadeusz Wawrzyniec Pietrzkiewicz,1935-01-01T00:00:00Z,,Art
+Q122389299,Portrait of Zan jr.,1931-01-30T00:00:00Z,,Art
+Q122389300,Portrait of Hanka Moesówna,1931-01-01T00:00:00Z,,Art
+Q122389239,Portrait of Kazimierz Grus,1930-04-01T00:00:00Z,,Art
+Q122419771,Self portrait,1933-02-01T00:00:00Z,,Art
+Q4317244,neosurrealism,,,Art
+Q1628039,Utrecht Caravaggism,1610-01-01T00:00:00Z,Dutch Republic,Art
+Q72206346,solarpunk,2008-01-01T00:00:00Z,,Art
+Q4824756,Australian Tonalism,1910-01-01T00:00:00Z,Australia,Art
+Q135963728,Portrait of Anna Meus,1931-02-01T00:00:00Z,,Art
+Q18534061,Inside a Barn,1891-01-01T00:00:00Z,,Art
+Q25039455,Afro-Surrealism,,,Art
+Q16680386,Ton Fan Group,1956-01-01T00:00:00Z,People's Republic of China,Art
+Q58824018,Q58824018,,,Art
+Q134696287,Portrait of Jadwiga Trembecka,1927-05-01T00:00:00Z,,Art
+Q122488353,Portrait of Janina Szubert,1933-04-01T00:00:00Z,,Art
+Q46825,Gothic art,,Italy,Art
+Q3578034,École liégeoise de peinture,,Prince-Bishopric of Liège,Art
+Q123173369,Portrait of Anna Meus,1931-02-22T00:00:00Z,,Art
+Q55995,Naturalism,,,Art
+Q173782,Art Deco,1910-01-01T00:00:00Z,France,Art
+Q125367065,Q125367065,,Mexico,Art
+Q122389298,Female Portrait,1931-01-24T00:00:00Z,,Art
+Q122488355,Female Portrait,1933-01-01T00:00:00Z,,Art
+Q122488838,Portrait of Franciszek Czerwiński,1936-11-01T00:00:00Z,,Art
+Q122389243,Portrait of Stanisław Totwen,1930-10-01T00:00:00Z,,Art
+Q122389238,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q122390986,Portrait,1931-08-01T00:00:00Z,,Art
+Q122556109,Portrait of Antonina Czerwińska,1938-06-01T00:00:00Z,,Art
+Q122556108,Portrait of Antonina Czerwińska,1938-04-01T00:00:00Z,,Art
+Q22671144,The Apotheosis of Athanasios Diakos,1933-01-01T00:00:00Z,Greece,Art
+Q124150235,Q124150235,,,Art
+Q120920240,Female portrait,1939-08-23T00:00:00Z,,Art
+Q114242591,Portrait of Marceli Staroniewicz,1926-04-12T00:00:00Z,,Art
+Q114383090,Portrait of Zofia Mohuczyna,1929-03-01T00:00:00Z,,Art
+Q114388605,Portrait of Michał Białynicki-Birula,1928-04-01T00:00:00Z,,Art
+Q121843031,Portrait of Aleksander Oszacki,1933-01-01T00:00:00Z,,Art
+Q118132040,"Portrait of Edwarda Szmuglarowska, Ethiopian princess",1930-01-06T00:00:00Z,,Art
+Q114591646,Portrait of Helena Białynicka-Birula,1930-01-14T00:00:00Z,,Art
+Q121899432,Portrait of Jadwiga Niedźwiedzka-Skibińska,1931-02-21T00:00:00Z,,Art
+Q121898811,"Portrait of a man on a ""cosmic"" background",1936-11-17T00:00:00Z,,Art
+Q121898812,Portrait of a young woman with bangs,1936-11-01T00:00:00Z,,Art
+Q121898655,Portrait of Ciaptakówna,1936-01-01T00:00:00Z,,Art
+Q120946158,Female portrait,1930-04-01T00:00:00Z,,Art
+Q114591429,Portrait of Teodor Białynicki-Birula,1929-10-09T00:00:00Z,,Art
+Q121827232,"Portrait of H. Spirska, chochol",1930-02-25T00:00:00Z,,Art
+Q121898768,Portrait of Jędrzej Marusarz [?],1931-01-30T00:00:00Z,,Art
+Q114896255,Portrait of Sergiusz Piasecki,1939-03-01T00:00:00Z,,Art
+Q122236234,"Portrait of H. Spirzewska, Vampire",1930-01-01T00:00:00Z,,Art
+Q115684938,Portrait of L. Dąbrowska,1930-02-24T00:00:00Z,,Art
+Q122228424,"Portrait of Bohdan Filipowski, prof. of secret sciences",1928-06-29T00:00:00Z,,Art
+Q122228423,Portrait of Janina and Bohdan Filipowski,1928-05-28T00:00:00Z,,Art
+Q115715205,Portrait of Władysław Dobrowolski,1930-02-01T00:00:00Z,,Art
+Q120917006,Male portrait,1932-09-01T00:00:00Z,,Art
+Q122354680,Portrait of L. Dabrowska,1930-03-01T00:00:00Z,,Art
+Q115770272,Portrait of Rafał Malczewski,1930-03-01T00:00:00Z,,Art
+Q120946171,Male portrait,1931-10-12T00:00:00Z,,Art
+Q115601806,Woman's portrait,1933-01-01T00:00:00Z,,Art
+Q121836521,Female portrait,1930-11-25T00:00:00Z,,Art
+Q115747289,"Portrait of Leokadia Białynicka-Birula, remarried Janiszewska",1927-05-01T00:00:00Z,,Art
+Q121814901,Self-portrait,1926-03-09T00:00:00Z,,Art
+Q115751487,"Portrait of Leokadia Białynicka-Birula, remarried Janiszewska, ""Underdrinking""",1927-01-01T00:00:00Z,,Art
+Q115440596,Portrait of Jadwiga Skibińska née Niedźwiecka,1933-10-09T00:00:00Z,,Art
+Q116547647,Portrait of Janusz Beaurain,1935-02-01T00:00:00Z,,Art
+Q121814904,Female portrait,1927-01-01T00:00:00Z,,Art
+Q120138072,Portrait of Teodor Białynicki-Birula,1932-12-27T00:00:00Z,,Art
+Q120175108,Portrait of Helena Białynicka-Birula,1930-03-01T00:00:00Z,,Art
+Q120175103,Portrait of Helena Białynicka-Birula,1929-10-09T00:00:00Z,,Art
+Q120175106,Portrait of Helena Białynicka-Birula,1929-10-01T00:00:00Z,,Art
+Q115274134,Portrait of Dr. Jan Władysław Pakowski,1934-05-01T00:00:00Z,,Art
+Q115757001,Portrait of Helena Białynicka-Birula,1930-12-27T00:00:00Z,,Art
+Q120138070,Portrait of Teodor Białynicki-Birula,1930-10-05T00:00:00Z,,Art
+Q120138071,Portrait of Teodor Białynicki-Birula,1930-10-05T00:00:00Z,,Art
+Q120138066,Portrait of Teodor Białynicki-Birula,1930-03-01T00:00:00Z,,Art
+Q120175093,Portrait of Helena Białynicka-Birula,1927-05-02T00:00:00Z,,Art
+Q120138052,Portrait of Teodor Białynicki-Birula,1928-03-01T00:00:00Z,,Art
+Q115763206,Portrait of Teodor Białynicki-Birula,1931-01-11T00:00:00Z,,Art
+Q115769655,Portrait of Michał Białynicki-Birula,1928-04-01T00:00:00Z,,Art
+Q122236232,Female portrait,1930-01-01T00:00:00Z,,Art
+Q116027044,Portrait of Helena Białynicka-Birula,1930-10-05T00:00:00Z,,Art
+Q116027054,Portrait of Helena Białynicka-Birula,1930-10-05T00:00:00Z,,Art
+Q120754857,Portrait of Michał Białynicki-Birula,1930-12-27T00:00:00Z,,Art
+Q120769039,Portrait of Janina Turowska-Leszczyńska,1933-10-19T00:00:00Z,,Art
+Q120754603,Portrait of Zofia Jagodowska,1930-03-01T00:00:00Z,,Art
+Q120754601,Portrait of Zofia Jagodowska,1930-02-01T00:00:00Z,,Art
+Q118593796,Portrait of Idalia Iwanowska,1929-10-01T00:00:00Z,,Art
+Q120754597,Portrait of Nena Stachurska,1929-09-10T00:00:00Z,,Art
+Q120755274,Portrait of Janina Turowska-Leszczyńska,1931-10-12T00:00:00Z,,Art
+Q120754859,Portrait of Albina Rondomańska,1931-02-21T00:00:00Z,,Art
+Q120752392,Portrait of Małgorzata Wanda Żukotyńska,1928-01-01T00:00:00Z,,Art
+Q120754604,Portrait of Michał Jagodowski,1930-03-01T00:00:00Z,,Art
+Q120909634,Portrait of Janusz Domaniewski,1930-07-28T00:00:00Z,,Art
+Q120946738,Portrait,1933-01-01T00:00:00Z,,Art
+Q120945690,Portrait of Janina Turowska-Leszczyńska,1930-04-16T00:00:00Z,,Art
+Q120946159,Portrait,1930-04-01T00:00:00Z,,Art
+Q120769038,Portrait of Zdzisław Skibiński,1933-10-09T00:00:00Z,,Art
+Q116731352,Portrait of Teodor Białynicki-Birula,1930-10-05T00:00:00Z,,Art
+Q116744000,Portrait of Jadwiga Skibińska née Niedźwiecka,1931-02-21T00:00:00Z,,Art
+Q116731397,Portrait of Tadeusz Wąsowski,1931-01-30T00:00:00Z,,Art
+Q120754598,Portrait of Zofia Szumanowa,1929-10-10T00:00:00Z,,Art
+Q116994802,Portrait of Janina Turowska-Leszczyńska,1931-08-01T00:00:00Z,,Art
+Q120175105,"Portrait of Helena Białynicka-Birula, with moss beard",1929-10-01T00:00:00Z,,Art
+Q121815749,Portrait of Nena Stachurska,1929-05-01T00:00:00Z,,Art
+Q121898767,Portrait of Michał Białynicki-Birula,1930-12-27T00:00:00Z,,Art
+Q121836515,Portrait of Michał Jagodowski,1930-05-02T00:00:00Z,,Art
+Q121836510,Portrait of Irena Domaniewska,1930-03-01T00:00:00Z,,Art
+Q115488713,Portrait of Idalia Iwanowska,1929-10-12T00:00:00Z,,Art
+Q121843035,Portrait of Kazimiera Alberti,1933-06-04T00:00:00Z,,Art
+Q120920238,Portrait of Jan Gadomski,1939-08-12T00:00:00Z,,Art
+Q120920239,Portrait of Helena Lisińska,1939-08-12T00:00:00Z,,Art
+Q120920237,Portrait of Helena Lisińska,1939-08-11T00:00:00Z,,Art
+Q114241547,Portrait of Adam Bunsch II,1933-06-01T00:00:00Z,,Art
+Q120769215,Male portrait [?],1934-05-01T00:00:00Z,,Art
+Q121898709,Portrait of Maria Dąbrowiecka,1938-08-01T00:00:00Z,,Art
+Q114338445,Male portrait,1930-02-01T00:00:00Z,,Art
+Q122354679,Portrait of Helena Białynicka-Birula,1930-02-01T00:00:00Z,,Art
+Q114241710,Portrait of Janina Turowska (mother),1931-10-12T00:00:00Z,,Art
+Q120919947,Portrait of Matylda Machowa,1937-05-01T00:00:00Z,,Art
+Q120754860,Portrait of Jadwiga Niedźwiedzka-Skibińska,1931-02-21T00:00:00Z,,Art
+Q116730939,Portrait of Maria Gertnerówna-Białynicka-Birula,1934-07-01T00:00:00Z,,Art
+Q122354676,Portrait of H. Spirzewska,1930-02-25T00:00:00Z,,Art
+Q122354678,Portrait of Michał Jagodowski,1930-02-01T00:00:00Z,,Art
+Q122354677,Portrait of Stanisław Totwen,1930-02-01T00:00:00Z,,Art
+Q120752395,"Portrait of Irena Solska, with a hat",1928-03-01T00:00:00Z,,Art
+Q120917501,Portrait of Jan Skibiński,1933-09-03T00:00:00Z,,Art
+Q114242590,Portrait of Henryka Staroniewiczowa (?),1926-04-12T00:00:00Z,,Art
+Q115944708,Portrait of Idalia Iwanowska,1929-10-09T00:00:00Z,,Art
+Q114384624,"Portrait of Teodor Białynicki-Birula, ""Stump""",1929-10-01T00:00:00Z,,Art
+Q120754599,Portrait of Idalia Iwanowska,1929-10-09T00:00:00Z,,Art
+Q120906625,Portrait of Idalia Iwanowska,1929-10-12T00:00:00Z,,Art
+Q114241560,Portrait of Janina Turowska-Leszczyńska,1936-01-01T00:00:00Z,,Art
+Q114713454,Portrait of Jadwiga Trembecka,1927-05-01T00:00:00Z,,Art
+Q134307,portrait,,,Art
+Q7356060,Rococo Revival,1900-01-01T00:00:00Z,,Art
+Q122960,Rococo,,,Art
+Q207103,Constructivism,,,Art
+Q1578378,Precisionism,,,Art
+Q2872628,Les Automatistes,1940-01-01T00:00:00Z,Canada,Art
+Q120905614,Female portrait,1928-05-01T00:00:00Z,,Art
+Q878864,New Leipzig School,1990-01-01T00:00:00Z,Germany,Art
+Q128115,abstract art,,,Art
+Q106049237,Portrait of Helena Białynicka-Birula,1930-04-01T00:00:00Z,,Art
+Q152867,La maja desnuda,1800-01-01T00:00:00Z,,Art
+Q2405999,fairy painting,,,Art
+Q3428057,Trinity Altarpiece,1478-01-01T00:00:00Z,,Art
+Q106249618,Woman's Portrait,1930-04-01T00:00:00Z,,Art
+Q124354,Bauhaus,1919-01-01T00:00:00Z,Germany,Art
+Q3032335,Heidelberg School,1880-01-01T00:00:00Z,Australia,Art
+Q7233539,Post-expressionism,,,Art
+Q915841,vorticism,,,Art
+Q941875,Rayonism,,,Art
+Q3326940,Movimento Arte Concreta,1948-01-01T00:00:00Z,Italy,Art
+Q191970,Suprematism,1913-01-01T00:00:00Z,Russian Empire,Art
+Q2470594,AKhRR,1922-01-01T00:00:00Z,Soviet Union,Art
+Q84418145,Rococo Revival architecture,1900-01-01T00:00:00Z,,Art
+Q843393,Mail-Art,1982-10-02T00:00:00Z,Switzerland,Art
+Q16170276,Virgin and Child Enthroned,1430-01-01T00:00:00Z,,Art
+Q558276,Art & Language,1968-01-01T00:00:00Z,United States,Art
+Q47783,Postmodernism,,,Art
+Q11580463,Hakubakai,1896-01-01T00:00:00Z,Empire of Japan,Art
+Q122389237,Portrait of Michał Choromański,1930-04-01T00:00:00Z,,Art
+Q18055454,Les Réverbères,1938-01-01T00:00:00Z,,Art
+Q2352880,Dutch Golden Age painting,,Dutch Republic,Art
+Q131221,Futurism,1909-01-01T00:00:00Z,Italy,Art
+Q4414064,abstract impressionism,1950-01-01T00:00:00Z,,Art
+Q113813035,Portrait of Helena Białynicka-Birula,1930-04-01T00:00:00Z,,Art
+Q82216213,expressionist art,,,Art
+Q115688756,Rationalism of Lake Como,,Kingdom of Italy,Art
+Q4752989,Ancients,1824-01-01T00:00:00Z,,Art
+Q737062,Olympia,1863-01-01T00:00:00Z,,Art
+Q18618591,Homage to Victory Boogie Woogie #1,1946-01-01T00:00:00Z,,Art
+Q2864597,cybernetic art,1956-01-01T00:00:00Z,,Art
+Q131808,Mannerism,,,Art
+Q170292,Classicism,,,Art
+Q136046,Zero,1957-01-01T00:00:00Z,Germany,Art
+Q1786545,New Vision,1920-01-01T00:00:00Z,,Art
+Q212611,COBRA,1948-11-08T00:00:00Z,Belgium,Art
+Q164800,Symbolism,1857-01-01T00:00:00Z,Russian Empire,Art
+Q132595951,Q132595951,1909-01-01T00:00:00Z,,Art
+Q108360137,Portrait of Zofia-Humpola-Mściwujewska,1928-01-01T00:00:00Z,,Art
+Q166713,Post-impressionism,,,Art
+Q147516,magic realism,,,Art
+Q160218,New Objectivity,,,Art
+Q186030,contemporary art,,,Art
+Q808561,Baroque painting,1600-01-01T00:00:00Z,,Art
+Q21061634,North Sea Magical Realists,,,Art
+Q22676303,Odvaha,2015-01-01T00:00:00Z,Czech Republic,Art
+Q124830493,Madonna,1500-01-01T00:00:00Z,,Art
+Q519443,Orphism,1912-01-01T00:00:00Z,,Art
+Q109260,Peredvizhniki,1863-01-01T00:00:00Z,,Art
+Q3959046,Nul,1960-01-01T00:00:00Z,Netherlands,Art
+Q7548994,SoFlo Superflat,1990-01-01T00:00:00Z,United States,Art
+Q117035,The Blue Rider,1911-01-01T00:00:00Z,German Empire,Art
+Q120752397,Portrait of Antoni Ambroziewicz,1929-05-03T00:00:00Z,,Art
+Q2275355,Abbaye de Créteil,1906-01-01T00:00:00Z,France,Art
+Q132625863,Q132625863,1940-01-01T00:00:00Z,,Art
+Q143357,Barbizon school,1825-01-01T00:00:00Z,,Art
+Q166593,Fauvism,1904-01-01T00:00:00Z,,Art
+Q113634561,Portrait of Leon Reynel,1928-05-01T00:00:00Z,,Art
+Q173436,Minimalism,,,Art
+Q189594,Islamic art,,,Art
+Q751880,Japonisme,,,Art
+Q177725,abstract expressionism,,,Art
+Q189458,academic art,,,Art
+Q221375,Hellenistic art,,,Art
+Q842183,shin-hanga,1915-01-01T00:00:00Z,Japan,Art
+Q7920022,"Venise, La Piazetta",1840-01-01T00:00:00Z,,Art
+Q211884,Byzantine art,,Byzantine Empire,Art
+Q7876490,Ubermorgen,1995-01-01T00:00:00Z,,Art
+Q1518145,sōsaku-hanga,1904-01-01T00:00:00Z,Empire of Japan,Art
+Q185905,ukiyo-e,1700-01-01T00:00:00Z,Japan,Art
+Q160438,Deutscher Werkbund,1907-10-06T00:00:00Z,Germany,Art
+Q182331,op art,1960-01-01T00:00:00Z,,Art
+Q113512299,Q113512299,,,Art
+Q194100,transhumanism,1980-01-01T00:00:00Z,,Art
+Q106936770,Madonna with the Child and Saint Francis,1731-01-01T00:00:00Z,,Art
+Q200034,pointillism,,,Art
+Q106249635,Portrait of a Woman,1930-04-01T00:00:00Z,,Art
+Q106049263,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q11396176,Bunriha,1920-01-01T00:00:00Z,Japan,Art
+Q20672521,Serpentine rouge,2008-01-01T00:00:00Z,France,Art
+Q333316,Abstraction-Création,1931-01-01T00:00:00Z,,Art
+Q108659662,Portrait of Mrs. Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q208758,Las Meninas,1656-01-01T00:00:00Z,Spain,Art
+Q2394116,postminimalism,1960-01-01T00:00:00Z,,Art
+Q265581,fin de siècle,,,Art
+Q1066218,Ottonian art,1000-01-01T00:00:00Z,,Art
+Q252801,Kanō school,1500-01-01T00:00:00Z,Japan,Art
+Q189772,Brazilian academic art,,Brazil,Art
+Q17153088,post-conceptual,,,Art
+Q17001528,Death and Fire,1940-01-01T00:00:00Z,,Art
+Q969107,postgenderism,,,Art
+Q114145811,"Non-Violent, No-Victim Crime",1972-01-01T00:00:00Z,,Art
+Q217213,action painting,1940-01-01T00:00:00Z,,Art
+Q184814,Pre-Raphaelite Brotherhood,1848-01-01T00:00:00Z,,Art
+Q122354684,Male Portrait,1930-04-01T00:00:00Z,,Art
+Q116994701,Portrait of a crying woman,1930-04-01T00:00:00Z,,Art
+Q644106,The Daughters of Edward Darley Boit,1882-01-01T00:00:00Z,United States,Art
+Q6867771,Minjung art,,South Korea,Art
+Q4317200,Neo-conceptual art,1980-01-01T00:00:00Z,,Art
+Q107426501,Portrait of Maria Gałyńska in a landscape with monsters,1929-08-14T00:00:00Z,,Art
+Q46805,Romanesque art,,,Art
+Q118127222,Portrait of Janina Turowska-Leszczyńska,1930-04-01T00:00:00Z,,Art
+Q2876208,Novgorod school,1100-01-01T00:00:00Z,Novgorod Republic,Art
+Q306537,Österreichischer Werkbund,1912-01-01T00:00:00Z,Austria,Art
+Q6546135,Light and Space,1960-01-01T00:00:00Z,United States,Art
+Q114242595,Portrait of Bohdan Filipowski,1929-10-12T00:00:00Z,,Art
+Q326478,land art,,,Art
+Q121815743,Portrait of Edmund Strażyski,1928-12-01T00:00:00Z,,Art
+Q114583231,Portrait of Teodor Białynicki-Birula,1929-08-25T00:00:00Z,,Art
+Q121815748,Portrait of Maria Strażyska,1929-05-01T00:00:00Z,,Art
+Q121827223,"Portrait of Stefan Szuman, leaning on his arm",1929-08-25T00:00:00Z,,Art
+Q16639232,Glasgow Boys,,United Kingdom,Art
+Q105950710,Portrait of Nena Stachurska,1929-10-12T00:00:00Z,,Art
+Q105949918,Portrait of Colonel Janusz de Beaurain,1929-05-11T00:00:00Z,,Art
+Q106049917,Portrait of Nena Stachurska,1929-09-10T00:00:00Z,,Art
+Q106049219,Portrait of Aleksandra Totwenowa,1930-04-26T00:00:00Z,,Art
+Q106049794,Double Portrait of Halina Judt and Michał Choromański,1930-01-01T00:00:00Z,,Art
+Q106049710,Portrait of Zofia Bylczyńska,1929-10-12T00:00:00Z,,Art
+Q106049763,Portrait of Louis de Laveaux,1929-01-01T00:00:00Z,,Art
+Q106107390,Portrait of Stefan Glass,1929-08-25T00:00:00Z,,Art
+Q106107352,Portrait of Stanisław Bielatowicz,1929-10-13T00:00:00Z,,Art
+Q330369,Arts and Crafts movement,,,Art
+Q106412542,Portrait of Stefan Glass,1929-07-28T00:00:00Z,,Art
+Q122354682,"Portrait of Alexandra Totwenova, giraffe praying",1930-04-26T00:00:00Z,,Art
+Q106249603,Napoleon's Grenadier - Portrait of Teodor Białynicki-Birula,1929-08-25T00:00:00Z,,Art
+Q106569582,Portrait of Nena Stachurska,1930-01-01T00:00:00Z,,Art
+Q121827226,Female portrait,1930-01-01T00:00:00Z,,Art
+Q3758072,art of Gandhara,,Gandhara,Art
+Q4358397,Transhumanist art,,,Art
+Q120175098,Portrait of Helena Białynicka-Birula,1929-07-01T00:00:00Z,,Art
+Q106787386,Portrait of Nena Stachurska,1929-10-12T00:00:00Z,,Art
+Q106787431,Portrait of Nena Stachurska,1929-10-12T00:00:00Z,,Art
+Q106872494,Portrait of Tadeusz Boy-Żeleński,1929-05-01T00:00:00Z,,Art
+Q106478100,"Portrait of Teodor Białynicki-Birula, with tail flying",1929-07-01T00:00:00Z,,Art
+Q106479356,"Portrait of Janusz Kotarbiński, ""angel over mountains""",1929-01-17T00:00:00Z,,Art
+Q2902629,Dynamism of a Dog on a Leash,1915-01-01T00:00:00Z,,Art
+Q106589333,Portrait of prof. Stefan Szuman,1931-04-01T00:00:00Z,,Art
+Q106569605,Figure after the first dose of mescaline,1929-09-10T00:00:00Z,,Art
+Q106569607,Peyote drawing,1928-12-03T00:00:00Z,,Art
+Q49303880,"Nike or Winged Goddess of Victory, Yale University Art Gallery, inv. 1929.288",http://www.wikidata.org/.well-known/genid/733f6e37012e06ad8a7bf66bd0ab16b9,United States,Art
+Q106645083,Portrait of Janusz de Beaurain,1929-10-12T00:00:00Z,,Art
+Q107376250,Portrait of Nena Stachurska,1929-08-25T00:00:00Z,,Art
+Q106879246,Portrait of Zofia Szumanowa née Szczepanowska,1929-09-10T00:00:00Z,,Art
+Q106833083,Metaphysical Fly ...,1928-06-25T00:00:00Z,,Art
+Q106865509,Drawing from a narcotic session with mescaline,1929-09-10T00:00:00Z,,Art
+Q106865546,Count Gadon hid behind the horizon,1929-09-10T00:00:00Z,,Art
+Q106875925,The most beautiful smile of Zosia (Portrait of  Zofia Szumanowa?),1929-06-01T00:00:00Z,,Art
+Q107333516,Peyote drawing,1928-06-01T00:00:00Z,,Art
+Q113640318,Peyote Drawing,1928-06-01T00:00:00Z,,Art
+Q122236229,Double Portrait,1920-01-01T00:00:00Z,,Art
+Q121827225,Portrait of Nena Stachurska,1930-01-01T00:00:00Z,,Art
+Q108335657,Portrait of Stefan Szuman,1929-09-10T00:00:00Z,,Art
+Q121815744,Portrait of Nena Stachurska,1929-01-01T00:00:00Z,,Art
+Q2407355,Hasegawa school,1600-01-01T00:00:00Z,Japan,Art
+Q108499929,Portrait of Helena Białynicka-Birula,1929-10-12T00:00:00Z,,Art
+Q121836512,Portrait of Teodor Białynicki-Birula,1930-04-27T00:00:00Z,,Art
+Q107311642,The Perversions of the Peyote Sea Monsters are Beginning,1929-08-08T00:00:00Z,,Art
+Q107311697,Imbecitos Zegiestoviensis ...,1928-07-18T00:00:00Z,,Art
+Q107347928,Ms. Nena seen under influence of  Merck's mescaline,1929-08-01T00:00:00Z,,Art
+Q107340731,In memory of the Peyote day,1928-12-01T00:00:00Z,,Art
+Q132594391,Q132594391,1684-01-01T00:00:00Z,,Art
+Q122236227,Portrait of Michał Białynicki-Birula,1929-08-25T00:00:00Z,,Art
+Q122236226,Portrait of Nena Stachurska,1929-08-14T00:00:00Z,,Art
+Q117249299,"Portrait of Stanisław Totwen, Scorpionescu",1930-04-26T00:00:00Z,,Art
+Q318394,art of ancient Egypt,,Ancient Egypt,Art
+Q120754866,Portrait of Eugenia Stopkowa,1931-05-28T00:00:00Z,,Art
+Q114242594,"Portrait of Nena Stachurska, Lizard",1929-08-25T00:00:00Z,,Art
+Q114241523,"Portrait of Edmund Strążyski, wearing a turban",1929-05-01T00:00:00Z,,Art
+Q121837348,Portrait of Zofia Szumanowa,1931-04-01T00:00:00Z,,Art
+Q120943327,Portrait of Ms. Żukowska,1929-10-12T00:00:00Z,,Art
+Q113648437,Portrait of Teodor Białynicki-Birula,1929-10-12T00:00:00Z,,Art
+Q3937468,Portrait of Barbara Holper,1490-01-01T00:00:00Z,,Art
+Q113677130,Portrait of Artur Schroeder,1931-04-26T00:00:00Z,,Art
+Q460501,Historicism,,,Art
+Q4321401,Nimrod,1939-01-01T00:00:00Z,,Art
+Q3484823,simultanism,1910-01-01T00:00:00Z,,Art
+Q3866622,Movimento di Cooperazione Educativa,1951-11-04T00:00:00Z,Italy,Art
+Q132599169,Q132599169,1626-01-01T00:00:00Z,,Art
+Q106111573,Portrait of Bohdan Filipowski,1928-01-01T00:00:00Z,,Art
+Q2763408,Baroque sculpture,,,Art
+Q126486816,Q126486816,1840-01-01T00:00:00Z,,Art
+Q443153,Early Netherlandish painting,,Habsburg Netherlands,Art
+Q122390988,Portrait of Jan Leszczyński [?],1931-08-01T00:00:00Z,,Art
+Q122389296,Portrait of Hanka Moesówna,1931-01-11T00:00:00Z,,Art
+Q386302,African art,,,Art
+Q428995,Hellenistic period,,,Art
+Q429811,early Christian art and architecture,,,Art
+Q558875,Wu School,,,Art
+Q65939509,British black arts movement,1982-01-01T00:00:00Z,,Art
+Q340808,Eight Eccentrics of Yangzhou,,People's Republic of China,Art
+Q382056,Pont-Aven School,1850-01-01T00:00:00Z,,Art
+Q528648,La Pléiade,,France,Art
+Q110262804,Posturbanism,2000-01-01T00:00:00Z,,Art
+Q106833058,Portrait of Janina Turowska,1931-08-01T00:00:00Z,,Art
+Q109226381,"A fabulous story about prince La-Fi-Czan, about the soldier Soju and the girl Kio",1918-04-13T00:00:00Z,,Art
+Q108659661,Portrait of a woman,1930-04-03T00:00:00Z,,Art
+Q120946166,Portrait of Janina Turowska-Leszczyńska,1931-08-02T00:00:00Z,,Art
+Q683274,Bal du moulin de la Galette,1876-01-01T00:00:00Z,,Art
+Q3230385,The Farewell of Telemachus and Eucharis,1818-01-01T00:00:00Z,,Art
+Q108499935,Portrait of Jadwiga Skibińska née Niedźwiecka,1931-10-18T00:00:00Z,,Art
+Q576913,Arte Povera,1967-01-01T00:00:00Z,Italy,Art
+Q120755275,Portrait of Jadwiga Niedźwiedzka-Skibińska,1931-10-18T00:00:00Z,,Art
+Q122390989,Portrait of Janina Turowska-Leszczyńska,1931-10-12T00:00:00Z,,Art
+Q1167213,Landscape with bathing women,1620-01-01T00:00:00Z,,Art
+Q2907232,Antropophagia,1920-01-01T00:00:00Z,Brazil,Art
+Q531329,The Embarkation for Cythera,1717-01-01T00:00:00Z,,Art
+Q120910195,"Portrait of Krystyna Ejbol-Manowicz, basic",1931-07-01T00:00:00Z,,Art
+Q574985,Macchiaioli,1850-01-01T00:00:00Z,,Art
+Q503708,Les Nabis,1888-01-01T00:00:00Z,,Art
+Q910199,Les Demoiselles d'Avignon,1907-01-01T00:00:00Z,,Art
+Q132594697,Q132594697,,,Art
+Q112123872,African Jazz-Art Society & Studios,1956-01-01T00:00:00Z,,Art
+Q2828843,aizuri-e,1820-01-01T00:00:00Z,,Art
+Q938616,Italian art,,Italy,Art
+Q577622,Coptic art,,,Art
+Q614082,Carolingian art,,,Art
+Q829895,Harlem Renaissance,,,Art
+Q1061035,The Treachery of Images,1929-01-01T00:00:00Z,United States,Art
+Q132599179,Q132599179,1637-01-01T00:00:00Z,,Art
+Q132599584,Q132599584,1635-01-01T00:00:00Z,,Art
+Q132599069,Q132599069,1497-01-01T00:00:00Z,,Art
+Q132598147,Q132598147,1629-01-01T00:00:00Z,,Art
+Q44458664,"Studio, Lafayette Street",1923-01-01T00:00:00Z,United States,Art
+Q132597225,Q132597225,1764-01-01T00:00:00Z,,Art
+Q60185235,art in occupied France,,German Reich,Art
+Q572916,found object,,,Art
+Q617166,Russian Futurism,,,Art
+Q612118,Insular art,0700-01-01T00:00:00Z,,Art
+Q660383,Panic Movement,1962-01-01T00:00:00Z,France,Art
+Q846933,renaissance humanism,,,Art
+Q106390539,The convex mirror,1916-01-01T00:00:00Z,,Art
+Q929402,Korean art,,,Art
+Q28868614,aesthetic dress,,,Art
+Q692924,Madí,1944-01-01T00:00:00Z,Argentina,Art
+Q724976,Ashcan School,1910-01-01T00:00:00Z,United States,Art
+Q1055111,Madonna and Child,1460-01-01T00:00:00Z,Italy,Art
+Q2107376,Antwerp school,1600-01-01T00:00:00Z,Belgium,Art
+Q42907814,dandyism,,,Art
+Q131830354,Q131830354,1956-01-01T00:00:00Z,,Art
+Q699319,Self-portrait in a Convex Mirror,1523-01-01T00:00:00Z,,Art
+Q132594422,Q132594422,1702-01-01T00:00:00Z,,Art
+Q132598411,Q132598411,1700-01-01T00:00:00Z,,Art
+Q17334394,Reclining Venus,1550-01-01T00:00:00Z,Netherlands,Art
+Q860129,Charging Bull,1989-01-01T00:00:00Z,United States,Art
+Q689057,art of the Third Reich,,German Reich,Art
+Q132596667,Q132596667,1693-01-01T00:00:00Z,,Art
+Q603399,Japanese art,,Japan,Art
+Q132594436,Q132594436,1684-01-01T00:00:00Z,,Art
+Q3213778,Madonna and Child with Saint John the Baptist and Two Angels,1470-01-01T00:00:00Z,Italy,Art
+Q516316,Young British Artists,1988-01-01T00:00:00Z,United Kingdom,Art
+Q20191821,Florence Davey,1914-08-01T00:00:00Z,,Art
+Q22043770,Man Entering a Room,1927-01-01T00:00:00Z,Latvia,Art
+Q132594353,Q132594353,1665-01-01T00:00:00Z,,Art
+Q3628259,The Victorious Athlete,1813-01-01T00:00:00Z,,Art
+Q132598957,Q132598957,1663-01-01T00:00:00Z,,Art
+Q132599026,Q132599026,,,Art
+Q132599719,Q132599719,,,Art
+Q132692007,Q132692007,,,Art
+Q132598096,Q132598096,1658-01-01T00:00:00Z,,Art
+Q4689456,AfriCOBRA,1968-01-01T00:00:00Z,,Art
+Q727875,Venus of Urbino,1538-01-01T00:00:00Z,,Art
+Q677739,Freeze,,,Art
+Q848365,primitivism,,,Art
+Q878985,modernism,,,Art
+Q914395,Celtic art,,,Art
+Q958255,Anglo-Saxon art,,,Art
+Q1268134,Beaux-Arts,,,Art
+Q1091532,Pre-Columbian art,,,Art
+Q540807,Photo-Secession,1902-01-01T00:00:00Z,United States,Art
+Q938864,Mexican muralism,,Mexico,Art
+Q1133779,Renaissance art,,,Art
+Q1142000,Southern School,,,Art
+Q50736854,The Spirit of the drought,1896-01-01T00:00:00Z,,Art
+Q1147263,lyrical abstraction,1940-01-01T00:00:00Z,,Art
+Q688909,Armory Show,1913-01-01T00:00:00Z,United States,Art
+Q1132127,hip hop culture,1970-01-01T00:00:00Z,,Art
+Q1391488,Figuration Libre,,,Art
+Q1133329,Young Poland,1890-01-01T00:00:00Z,Poland,Art
+Q1569950,internet art,,,Art
+Q1951304,Mozarabic art,,,Art
+Q2388965,Self-Portrait,1498-01-01T00:00:00Z,,Art
+Q2159947,Robinson Group,,,Art
+Q2185042,Flemish painting,,,Art
+Q943853,Hudson River school,,United States,Art
+Q1247086,Greek art,,Greece,Art
+Q2045726,The Battle of Anghiari,1503-01-01T00:00:00Z,Italy,Art
+Q5358332,electronic art,,,Art
+Q744738,encyclopédistes,,,Art
+Q947129,Gothic painting,,,Art
+Q982897,lubok,,,Art
+Q852377,New Culture Movement,,China,Art
+Q846553,Clube da Esquina,,Brazil,Art
+Q124341492,Q124341492,1879-01-01T00:00:00Z,,Art
+Q756615,Chinese art,,People's Republic of China,Art
+Q1404472,Italian Renaissance,,Italy,Art
+Q1232633,Hague School,1860-01-01T00:00:00Z,Netherlands,Art
+Q135286600,"Our Lady of Loreto, Saint John the Baptist and Holy Bishop",1700-01-01T00:00:00Z,Italy,Art
+Q2422003,Job Triptych,1500-01-01T00:00:00Z,,Art
+Q753683,metaphysical painting,1917-01-01T00:00:00Z,,Art
+Q1164982,Color Field,1940-01-01T00:00:00Z,,Art
+Q20166944,Portrait of a Young Woman,1490-01-01T00:00:00Z,,Art
+Q947955,The Residents,1972-01-01T00:00:00Z,,Art
+Q107579760,Q107579760,,,Art
+Q891532,Bolognese school,1500-01-01T00:00:00Z,Italy,Art
+Q1267893,Ginevra de' Benci,1476-01-01T00:00:00Z,,Art
+Q98398331,Edinburgh Arts 72,1972-07-03T00:00:00Z,,Art
+Q132600330,Q132600330,,,Art
+Q953124,Jake and Dinos Chapman,,United Kingdom,Art
+Q1760825,Schools of Sint-Martens-Latem,1900-01-01T00:00:00Z,Belgium,Art
+Q17341997,A Mother's Duty,1660-01-01T00:00:00Z,Netherlands,Art
+Q2316866,geometric abstraction,,,Art
+Q1580216,Noucentisme,,,Art
+Q63801214,Dordtse impressionisten,,Netherlands,Art
+Q2642826,Realism,,,Art
+Q6865348,minimalism,,,Art
+Q2757526,Groupe Nervia,1928-01-01T00:00:00Z,Belgium,Art
+Q132594440,Spring Comes to the Lake. Hanging scroll painting,1676-01-01T00:00:00Z,,Art
+Q10857409,realism,,,Art
+Q10822316,concrete art,,,Art
+Q5421183,Experiments in Art and Technology,1967-01-01T00:00:00Z,,Art
+Q2297997,Movimento Spaziale,1947-01-01T00:00:00Z,,Art
+Q2577030,The Clique,,,Art
+Q644856,The Triumph of Death,1560-01-01T00:00:00Z,,Art
+Q1520921,Nahda,,,Art
+Q3399573,Asian art,,,Art
+Q18619205,Dance of Time,1788-01-01T00:00:00Z,,Art
+Q135285835,Stati d'animo - Quelli che vanno 2,1911-01-01T00:00:00Z,,Art
+Q1747618,ancient Greek art,,,Art
+Q1879488,Russian symbolism,,,Art
+Q1935489,Scapigliatura,,,Art
+Q2864672,Art of Al-Andalus,,al-Andalus,Art
+Q2414771,Ghetto Fabulous Gang,,,Art
+Q2477112,German Romanticism,,,Art
+Q7577721,Spiral,1963-01-01T00:00:00Z,United States,Art
+Q2826174,africanism,,,Art
+Q2864612,Oceanian art,,,Art
+Q2877183,BMPT,,,Art
+Q3515741,Amsterdamse Joffers,,Netherlands,Art
+Q67220538,The Grief of the Pasha,1885-01-01T00:00:00Z,,Art
+Q3071677,Figuration narrative,,,Art
+Q3374347,Byzantine icon painting,,,Art
+Q3504923,Supports/Surfaces,,,Art
+Q3577704,Shijō school,,,Art
+Q3667535,Chiarismo,,,Art
+Q3683985,combat folk,,,Art
+Q20936218,Anti-form,1960-01-01T00:00:00Z,United States,Art
+Q5393562,Brigada Ramona Parra,,Chile,Art
+Q3354732,Roman art,,Ancient Rome,Art
+Q3191943,Kaigetsudō school,1700-01-01T00:00:00Z,Japan,Art
+Q4920294,Black Arts Movement,,,Art
+Q1755539,City Beautiful movement,1890-01-01T00:00:00Z,United States,Art
+Q5095653,Chicago Imagists,,,Art
+Q5165033,Contemporary Realism,,,Art
+Q1808635,Jack of Diamonds,,Russian Empire,Art
+Q19759562,Wall Relief: Maquette No. 1,1955-01-01T00:00:00Z,,Art
+Q19759563,Wall Relief: Maquette No. 3,1955-01-01T00:00:00Z,,Art
+Q2584646,fundamentele kunst,,Belgium,Art
+Q7059995,Northwest Coast art,,United States,Art
+Q4142290,Blue Rose,1906-01-01T00:00:00Z,Russian Empire,Art
+Q115829935,Farmer at work,1908-01-01T00:00:00Z,,Art
+Q3066195,Torii school,1680-01-01T00:00:00Z,Japan,Art
+Q5876876,Generación del 13,1913-01-01T00:00:00Z,,Art
+Q2914470,Italian Renaissance painting,,Italy,Art
+Q124635311,Portrait of a Bridegroom,1495-01-01T00:00:00Z,,Art
+Q113033240,Hills with trees,1910-01-01T00:00:00Z,,Art
+Q2566149,relational art,1996-01-01T00:00:00Z,,Art
+Q5095938,Chicano art movement,,United States,Art
+Q9396869,Saint Matthew and the Angel,1661-01-01T00:00:00Z,,Art
+Q7593626,St John's Wood Clique,,United Kingdom,Art
+Q5475328,Four Masters of the Yuan Dynasty,,Yuan dynasty,Art
+Q3636299,The Battle of the Amazons,1618-01-01T00:00:00Z,,Art
+Q3814745,Feasting and dancing peasants,1635-01-01T00:00:00Z,,Art
+Q15874380,"Job, visited on the dunghill by demons, is being berated by his wife",1550-01-01T00:00:00Z,,Art
+Q5506977,Fuck Off,,People's Republic of China,Art
+Q1606128,The Linked Ring,1892-01-01T00:00:00Z,United Kingdom,Art
+Q2477787,American Impressionism,1880-01-01T00:00:00Z,United States,Art
+Q5173827,Cos Cob Art Colony,1890-01-01T00:00:00Z,United States,Art
+Q132602537,Q132602537,1541-01-01T00:00:00Z,,Art
+Q897054,Migration Period art,0400-01-01T00:00:00Z,,Art
+Q132594367,Q132594367,1671-01-01T00:00:00Z,,Art
+Q2513438,A Dance to the Music of Time,1635-01-01T00:00:00Z,United Kingdom,Art
+Q119186964,Eve of St Agnes (Pensive Whilst She Dreams),1920-01-01T00:00:00Z,United Kingdom,Art
+Q1413061,tropicália,1967-01-01T00:00:00Z,,Art
+Q5251082,Defastenism,,Ireland,Art
+Q3483628,Signalism,1959-01-01T00:00:00Z,Serbia,Art
+Q52153932,"William John Montagu Watson-Armstrong, 2nd Baron Armstrong of Bamburgh and Cragside (1892-1972), as a young boy",1902-01-01T00:00:00Z,United Kingdom,Art
+Q4917608,Bishop John Carroll,1912-05-04T00:00:00Z,United States,Art
+Q1048478,shunga,,,Art
+Q11522568,Q11522568,,,Art
+Q134481377,Justinian and Theodora,,,Art
+Q87453032,Q87453032,1757-01-01T00:00:00Z,,Art
+Q134475701,The Siren (Green Abyss),1893-01-01T00:00:00Z,Italy,Art
+Q126890834,Q126890834,,France,Art
+Q64995085,Paul Wesenberg - Miracle Pictures,2019-01-01T00:00:00Z,Italy,Art
+Q135727239,The Little Montcuquois,2004-01-01T00:00:00Z,France,Art
+Q17457983,St. Matthew,1625-01-01T00:00:00Z,,Art
+Q1583346,Liu Dao,2006-01-01T00:00:00Z,,Art
+Q19883765,Wall Relief no. 1,1955-01-01T00:00:00Z,Netherlands,Art
+Q15885248,Renaissance painting,,,Art
+Q17068342,manosphere,,,Art
+Q52153921,"William Henry Cecil John Robin Watson-Armstrong, 3rd Baron Armstrong of Bamburgh and Cragside (1919-1987), as a young boy",1930-01-01T00:00:00Z,United Kingdom,Art
+Q5328177,East Country Yard Show,,,Art
+Q107486133,Fallen angel,1847-01-01T00:00:00Z,,Art
+Q28028469,King George V (1865-1936),1911-01-01T00:00:00Z,United Kingdom,Art
+Q135707731,"Collection ""Nineteen : Fallen angels"" (1992)",,,Art
+Q9097429,Zaj,1959-01-01T00:00:00Z,,Art
+Q5157413,Computer Arts Society,1968-01-01T00:00:00Z,,Art
+Q132602177,Q132602177,1449-01-01T00:00:00Z,,Art
+Q111674540,The Fisherman and the Syren,1858-01-01T00:00:00Z,,Art
+Q16675384,Société des artistes décorateurs,1901-01-01T00:00:00Z,France,Art
+Q18010742,Odalisque à l'esclave,1839-01-01T00:00:00Z,,Art
+Q64528910,The Forge,,,Art
+Q17276054,Mother Delousing her Child’s Hair,1652-01-01T00:00:00Z,,Art
+Q67166118,Environmental Communications,1969-01-01T00:00:00Z,,Art
+Q11811815,New Sculpture,,United Kingdom,Art
+Q57206175,Useful Art Association,,,Art
+Q135726803,Manneken Pis of Montcuq,1955-01-01T00:00:00Z,France,Art
+Q135268034,Neapolitan painting of the 19th century,,Kingdom of the Two Sicilies,Art
+Q111663785,Brâncovenesc style,,,Art
+Q111919284,French Impressionism,,,Art
+Q19826789,The Depths of the Sea,1887-01-01T00:00:00Z,,Art
+Q19335232,Germanic animal ornamentation,0500-01-01T00:00:00Z,,Art
+Q132600345,Q132600345,,,Art
+Q132625198,Q132625198,,,Art
+Q133080401,Q133080401,,,Art
+Q133868310,Q133868310,,,Art
+Q127427711,King George V (1865-1936),1922-01-01T00:00:00Z,United Kingdom,Art

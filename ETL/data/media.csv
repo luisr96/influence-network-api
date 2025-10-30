@@ -1,0 +1,599 @@
+id:ID,name,publication_date,author,director,genre,:LABEL
+Q498442,Spaceballs,1987-06-26T00:00:00Z,,Mel Brooks,science fiction film,Media
+Q130284179,Sentimental Value,2025-10-23T00:00:00Z,,Joachim Trier,comedy film,Media
+Q494,Beakman's World,,,,comedy television series,Media
+Q11621,E.T. the Extra-Terrestrial,1982-06-11T00:00:00Z,,Steven Spielberg,drama film,Media
+Q127149,Lolita,1955-01-01T00:00:00Z,Vladimir Nabokov,,editorial fiction,Media
+Q886,The Simpsons,,,,satire,Media
+Q3511565,Tears of the Prodigal Son,1622-01-01T00:00:00Z,Ivan Gundulić,,religious art,Media
+Q8773991,El pelegrí apassionat,,Joan Puig i Ferreter,,,Media
+Q337881,Johnny English,2003-01-01T00:00:00Z,,Peter Howitt,action film,Media
+Q7759730,The Reason of State,1589-01-01T00:00:00Z,Giovanni Botero,,essay,Media
+Q2085,Twin Peaks,,,Mark Frost,surrealist fiction,Media
+Q11341980,Mizzurna Falls,,,,mystery fiction,Media
+Q109828410,Signalis,2022-10-27T00:00:00Z,,,survival horror,Media
+Q12639787,Pjesni pokorne kralja Davida,1621-01-01T00:00:00Z,Ivan Gundulić,,religious poem,Media
+Q131826609,Q131826609,2024-10-04T00:00:00Z,,,horror video game,Media
+Q844,James Bond,,Ian Fleming,,,Media
+Q1375,Dungeons & Dragons,1974-01-01T00:00:00Z,Gary Gygax,,fantasy,Media
+Q135215,"I, Claudius",1934-01-01T00:00:00Z,Robert Graves,,historical fiction,Media
+Q462,Q462,,,,,Media
+Q1344,opera,,,,,Media
+Q1107,anime,,,,,Media
+Q64706258,Prosopopée,2012-01-01T00:00:00Z,Frédéric Sintes,,tabletop role-playing game,Media
+Q22661586,Karel J. Robot,,Joseph Bergin,,,Media
+Q5493,Nobilis,1999-01-01T00:00:00Z,,,tabletop role-playing game,Media
+Q105364059,Exalted (2nd edition),2006-01-01T00:00:00Z,,,tabletop role-playing game,Media
+Q108857815,Loi My Buddha statue,,,,,Media
+Q108892983,Bảo Ninh Sùng Phúc stele,,,,,Media
+Q109068935,Three statues of Buddhas,,,,,Media
+Q1060323,The Legend of Zelda: Link's Awakening,1993-12-01T00:00:00Z,,Takashi Tezuka,action-adventure game,Media
+Q40895,Dumbo,1941-10-23T00:00:00Z,,Bill Roberts,melodrama,Media
+Q1217941,The Best of Youth,2003-05-20T00:00:00Z,,Marco Tullio Giordana,melodrama,Media
+Q23829,The Office,,,,mockumentary,Media
+Q6511,Ulysses,1922-02-02T00:00:00Z,James Joyce,,serialized fiction,Media
+Q326909,Buddenbrooks,1901-01-01T00:00:00Z,Thomas Mann,,bildungsroman,Media
+Q39946,The Hidden Fortress,1958-12-25T00:00:00Z,,Akira Kurosawa,drama film,Media
+Q2845214,Analyse des Infiniment Petits pour l'Intelligence des Lignes Courbes,1696-01-01T00:00:00Z,Guillaume de l'Hôpital,,,Media
+Q131426928,Q131426928,,John Jones,,,Media
+Q1328064,Batrachomyomachia,-0600-01-01T00:00:00Z,Pseudo-Homer,,parody,Media
+Q135003775,Kavindra Kalpadruma,,Kavindracharya,,poetry,Media
+Q19089,GoldenEye,1995-12-26T00:00:00Z,,Martin Campbell,action film,Media
+Q69760490,The Enchanted Fortune,1936-01-01T00:00:00Z,,Pierre Charbonnier,live-action/animated film,Media
+Q7813,Universal Declaration of Human Rights,1940-01-01T00:00:00Z,United Nations Universal Declaration of Human Rights Drafting Committee,,legal act,Media
+Q8275,Iliad,,Homer,,epic poem,Media
+Q2071747,Q2071747,1929-01-01T00:00:00Z,Hans Henny Jahnn,,,Media
+Q17025594,Midnight Special,2016-02-18T00:00:00Z,,Jeff Nichols,drama film,Media
+Q12393,The Legend of Zelda,1986-02-21T00:00:00Z,,,action role-playing game,Media
+Q1004,comics,,,,,Media
+Q9184,Book of Genesis,,,,religious text,Media
+Q23916,adventure video game,,,,,Media
+Q11859,The Little Mermaid,1837-04-07T00:00:00Z,Hans Christian Andersen,,literary fairy tale,Media
+Q123347274,feeld,2018-08-14T00:00:00Z,Jos Charles,,experimental poetry,Media
+Q5399452,Book of Giants,,http://www.wikidata.org/.well-known/genid/e8376f652dad5f2bc446e7700c65f5ce,,,Media
+Q47703,The Godfather,1972-09-27T00:00:00Z,,Francis Ford Coppola,historical drama film,Media
+Q47075,Scarface,1984-03-09T00:00:00Z,,Brian De Palma,crime drama film,Media
+Q16438,The Decameron,,Giovanni Boccaccio,,novella,Media
+Q47089834,Hebdomeros,1929-01-01T00:00:00Z,Giorgio de Chirico,,epic literature,Media
+Q96400437,"Puffs, or Seven Increasingly Eventful Years at a Certain School of Magic and Magic",,,,,Media
+Q116845947,Bronze Age Mindset,2018-06-06T00:00:00Z,Bronze Age Pervert,,,Media
+Q30078205,The New Wittgenstein,2000-01-01T00:00:00Z,Alice Crary,,non-fiction,Media
+Q29334,Septuagint,,,,Bible translation,Media
+Q115557905,Donjon & Cie,2022-01-01T00:00:00Z,Éric Nieudan,,tabletop role-playing game,Media
+Q15228,The Lord of the Rings,1954-01-01T00:00:00Z,J. R. R. Tolkien,,fantasy,Media
+Q94507257,Weaving Tides,2021-05-27T00:00:00Z,,,action game,Media
+Q13911,A Prayer for Owen Meany,1989-03-01T00:00:00Z,John Irving,,bildungsroman,Media
+Q26193,The Protocols of the Elders of Zion,1903-01-01T00:00:00Z,Matvei Golovinski,,antisemitic trope,Media
+Q106654819,Devi Goddess,,,,,Media
+Q106690145,Tan Hiep Vishnu statue,,,,,Media
+Q108852147,Statue of Surya,,,,,Media
+Q109425804,Long An Vishnu statue,,,,,Media
+Q109908071,Durga Goddess statue,,,,,Media
+Q36393,Quotations from Chairman Mao Tse-tung,1964-01-01T00:00:00Z,Mao Zedong,,,Media
+Q83495,The Matrix,1999-06-17T00:00:00Z,,Lana Wachowski,science fiction film,Media
+Q73622,Futurama,,,,science fiction comedy,Media
+Q17738,Star Wars: Episode IV – A New Hope,1977-05-25T00:00:00Z,,George Lucas,adventure film,Media
+Q70784,Journey to the West,1592-01-01T00:00:00Z,Wu Cheng'en,,adventure fiction,Media
+Q74287,The Hobbit,1937-09-21T00:00:00Z,J. R. R. Tolkien,,fairy tale,Media
+Q3362516,Afrofuturism,,,,,Media
+Q24255787,Checker and the Derailleurs,1988-01-01T00:00:00Z,Lionel Shriver,,,Media
+Q50948,Eugene Onegin,1825-01-01T00:00:00Z,Alexander Pushkin,,verse novel,Media
+Q123185887,Anora,2024-10-18T00:00:00Z,,Sean Baker,comedy drama,Media
+Q103474,2001: A Space Odyssey,1968-04-02T00:00:00Z,,Stanley Kubrick,epic film,Media
+Q42040,Book of Revelation,,John of Patmos,,epistle,Media
+Q12018,8½,1963-05-23T00:00:00Z,,Federico Fellini,drama film,Media
+Q463108,The Neverending Story,1979-01-01T00:00:00Z,Q76498,,literary fairy tale,Media
+Q117396,CSI: Crime Scene Investigation,,,,thriller television series,Media
+Q18411,Juliet of the Spirits,1965-01-01T00:00:00Z,,Federico Fellini,comedy film,Media
+Q40591,The Communist Manifesto,1848-02-21T00:00:00Z,Karl Marx,,political manifesto,Media
+Q40831,comedy,,,,,Media
+Q191663,The Canterbury Tales,1387-01-01T00:00:00Z,Geoffrey Chaucer,,English literature,Media
+Q46802,Bhagavad Gita,,Vyasa,,religious poem,Media
+Q40185,The Divine Comedy,,Q1067,,epic poem,Media
+Q72206346,solarpunk,,,,,Media
+Q18813,New Testament,,,,religious literature,Media
+Q134773,Forrest Gump,1994-07-06T00:00:00Z,,Robert Zemeckis,romantic comedy,Media
+Q133654,The Silence of the Lambs,1991-04-11T00:00:00Z,,Jonathan Demme,crime thriller film,Media
+Q170564,Terminator 2: Judgment Day,1991-10-24T00:00:00Z,,James Cameron,thriller film,Media
+Q92640,Alice's Adventures in Wonderland,1865-01-01T00:00:00Z,Lewis Carroll,,children's book,Media
+Q507461,Equilibrium,2003-03-14T00:00:00Z,,Kurt Wimmer,action film,Media
+Q91931,Blame!,,Tsutomu Nihei,,post-apocalyptic manga,Media
+Q12454409,Shekhar: Ek Jivani,,Sachchidananda Vatsyayan,,,Media
+Q151599,Metropolis,1927-05-06T00:00:00Z,,Fritz Lang,science fiction film,Media
+Q899334,The Tin Drum,1959-01-01T00:00:00Z,Günter Grass,,magic realist fiction,Media
+Q627787,Roza Mira,1991-01-01T00:00:00Z,Daniil Andreyev,,religious philosophy,Media
+Q137034,The Fugitive,,,,crime television series,Media
+Q82375,kanazōshi,,,,,Media
+Q120300,Crayon Shin-chan,,Yoshito Usui,,comedy anime and manga,Media
+Q83799,We,1924-01-01T00:00:00Z,Yevgeny Zamyatin,,alternate history,Media
+Q1848882,This is Horosho,2010-10-16T00:00:00Z,,,humor,Media
+Q13417189,Interstellar,2025-02-26T00:00:00Z,,Christopher Nolan,drama film,Media
+Q174555,Q174555,2005-05-27T00:00:00Z,,Eric Darnell,buddy film,Media
+Q180214,Black Swan,2011-01-20T00:00:00Z,,Darren Aronofsky,horror film,Media
+Q169672,samurai cinema,,,,,Media
+Q5893298,Honest to God,1963-01-01T00:00:00Z,John Robinson,,Christian apologetics,Media
+Q181795,Star Wars: Episode V – The Empire Strikes Back,1980-01-01T00:00:00Z,,Irvin Kershner,action film,Media
+Q136482045,Letter to Philipp Melanchthon,1543-01-01T00:00:00Z,Antonio Eparco,,,Media
+Q143931,The Kingdom of God Is Within You,,Leo Tolstoy,,essay,Media
+Q131546,Gospel of Thomas,0100-01-01T00:00:00Z,,,apocryphal gospel,Media
+Q184768,The Godfather Part II,1974-12-12T00:00:00Z,,Francis Ford Coppola,thriller film,Media
+Q187726,"Monsters, Inc.",2001-11-02T00:00:00Z,,Lee Unkrich,fantasy film,Media
+Q182692,Apocalypse Now,1979-01-01T00:00:00Z,,Francis Ford Coppola,drama film,Media
+Q200437,Stalker,1979-05-25T00:00:00Z,,Andrei Tarkovsky,arthouse science fiction film,Media
+Q131144,Tom and Jerry,,,William Hanna,children's television series,Media
+Q200092,horror film,,,,,Media
+Q1127281,Dark City,1998-08-27T00:00:00Z,,Alex Proyas,film noir,Media
+Q161531,War and Peace,1869-01-01T00:00:00Z,Leo Tolstoy,,romantic fiction,Media
+Q190643,Platoon,1987-04-30T00:00:00Z,,Oliver Stone,war film,Media
+Q185867,film noir,,,,,Media
+Q204670,An Inconvenient Truth,2006-01-24T00:00:00Z,,Davis Guggenheim,documentary film,Media
+Q152267,White Fang,1906-05-01T00:00:00Z,Jack London,,adventure fiction,Media
+Q118532278,Q118532278,2023-01-21T00:00:00Z,,Benjamin Lehrer,crime comedy film,Media
+Q17053448,The Ages of the World,,Friedrich Wilhelm Joseph Schelling,,,Media
+Q167835,Fallout,,,,post-apocalyptic video game,Media
+Q4423228,Sled,2007-09-03T00:00:00Z,,,,Media
+Q245227,The Prince of Egypt,1998-12-19T00:00:00Z,,Simon Wells,coming-of-age film,Media
+Q192864,Science,,,,,Media
+Q199701,kabuki,,,,,Media
+Q191760,theatre of the absurd,,,,,Media
+Q185029,first-person shooter,,,,,Media
+Q1218888,Love and Death,1975-10-01T00:00:00Z,,Woody Allen,parody film,Media
+Q226730,silent film,,,,,Media
+Q185143,Detective Conan,,,,,Media
+Q251559,The Treasure of the Sierra Madre,1948-01-24T00:00:00Z,,John Huston,contemporary Western film,Media
+Q206503,Ishmael,1991-01-01T00:00:00Z,Daniel Quinn,,philosophical novel,Media
+Q183565,Twenty Thousand Leagues Under the Sea,1869-03-20T00:00:00Z,Jules Verne,,merveilleux scientifique,Media
+Q191890,commedia dell'arte,,,,,Media
+Q191949,Brave New World,1932-01-01T00:00:00Z,Aldous Huxley,,political fiction,Media
+Q212781,Spaghetti Western,,,,,Media
+Q165318,Crime and Punishment,1866-01-01T00:00:00Z,Fyodor Dostoyevsky,,psychological fiction,Media
+Q217352,Strange Case of Dr Jekyll and Mr Hyde,1886-01-01T00:00:00Z,Robert Louis Stevenson,,sensation fiction,Media
+Q82386,ukiyozōshi,,,,,Media
+Q213683,Q213683,1982-07-15T00:00:00Z,,Alan Parker,musical film,Media
+Q16142740,The Intelligence of Faith,2006-01-01T00:00:00Z,Mateus Soares de Azevedo,,essay,Media
+Q199774,Thus Spoke Zarathustra,1885-01-01T00:00:00Z,Friedrich Nietzsche,,philosophical novel,Media
+Q202009,Fahrenheit 451,1953-01-01T00:00:00Z,Ray Bradbury,,philosophical novel,Media
+Q190192,Dune,1965-01-01T00:00:00Z,Frank Herbert,,planetary romance,Media
+Q216843,Oggy and the Cockroaches,,,Olivier Jean-Marie,slapstick,Media
+Q206959,Sanremo Music Festival,,,,entertainment television program,Media
+Q114614312,Cataclysm: Bright Nights,2020-06-18T00:00:00Z,,,simulation video game,Media
+Q183157,The Brothers Karamazov,1880-01-01T00:00:00Z,Fyodor Dostoyevsky,,serialized fiction,Media
+Q223341,League of Legends,2009-10-27T00:00:00Z,,,multiplayer online battle arena,Media
+Q236821,Silent Hill,,,,survival horror,Media
+Q1175156,Max Payne,2001-12-06T00:00:00Z,,,neo-noir video game,Media
+Q136528516,Xiangqi Master,,,,spokon,Media
+Q125448958,Armida,,Ivan Gundulić,,,Media
+Q208460,Nineteen Eighty-Four,1949-01-01T00:00:00Z,George Orwell,,political fiction,Media
+Q210784,The Idiot,1869-01-01T00:00:00Z,Fyodor Dostoyevsky,,,Media
+Q211035,Calvin and Hobbes,,Bill Watterson,,,Media
+Q25493967,LitRPG,,,,,Media
+Q85800478,Settlers: The Mythology of the White Proletariat,1983-01-01T00:00:00Z,J. Sakai,,,Media
+Q118114298,The Excessive Subject: A New Theory of Social Change,,Molly Anne Rothenberg,,,Media
+Q190525,Q190525,2000-09-09T00:00:00Z,,Christopher Nolan,thriller film,Media
+Q320588,Close Encounters of the Third Kind,1978-02-24T00:00:00Z,,Steven Spielberg,drama film,Media
+Q135447250,Q135447250,,,,slapstick,Media
+Q217305,The New Yorker,,,,,Media
+Q248810,Dwarf Fortress,2022-12-06T00:00:00Z,,,text-based video game,Media
+Q49740,Minecraft,2011-11-18T00:00:00Z,,,construction and management simulation,Media
+Q327427,Whity,1971-06-01T00:00:00Z,,Rainer Werner Fassbinder,melodrama,Media
+Q215983,The Grapes of Wrath,1939-04-14T00:00:00Z,John Steinbeck,,historical fiction,Media
+Q2345410,The Fruits of the Earth,1897-01-01T00:00:00Z,André Gide,,prose poetry,Media
+Q261281,Solaris,1961-01-01T00:00:00Z,Stanisław Lem,,metaphysical science fiction,Media
+Q15911132,science chinese magazine,,,,,Media
+Q696973,Hoshin Engi,,Ryu Fujisaki,,action anime and manga,Media
+Q21162257,The Sympathizer,2015-04-07T00:00:00Z,Viet Thanh Nguyen,,historical fiction,Media
+Q268211,The Pilgrim's Progress,1678-01-01T00:00:00Z,John Bunyan,,allegory,Media
+Q28865125,Karel the Robot,,,,,Media
+Q281056,Champions,1981-01-01T00:00:00Z,,,tabletop role-playing game,Media
+Q7238096,Praise Song for the Day,,Elizabeth Alexander,,,Media
+Q220331,Through the Looking-Glass,1871-01-01T00:00:00Z,Lewis Carroll,,fantasy,Media
+Q223688,The Gambler,1867-01-01T00:00:00Z,Fyodor Dostoyevsky,,,Media
+Q264714,Poetics,,Aristotle,,treatise,Media
+Q114313118,Omega Strikers,2023-04-27T00:00:00Z,,,sports video game,Media
+Q494085,MASH,1970-05-27T00:00:00Z,,Robert Altman,war film,Media
+Q493807,Angel Heart,1987-09-03T00:00:00Z,,Alan Parker,mystery film,Media
+Q466333,The Robbers,1782-01-01T00:00:00Z,Friedrich Schiller,,drama fiction,Media
+Q466101,La Haine,1995-09-01T00:00:00Z,,Mathieu Kassovitz,crime film,Media
+Q537407,Mulan,1998-06-19T00:00:00Z,,Tony Bancroft,musical film,Media
+Q421615,Les Aventures de Télémaque,1699-01-01T00:00:00Z,François Fénelon,,didactic novel,Media
+Q452075,Amadis de Gaula,1508-01-01T00:00:00Z,Infante Henry of Castile,,found manuscript,Media
+Q471005,The Mysterious Island,1874-01-01T00:00:00Z,Jules Verne,,speculative fiction,Media
+Q125543613,Nauk karstjanski kratak,1628-01-01T00:00:00Z,Rafael Levaković,,,Media
+Q428680,Fun Home,2006-06-08T00:00:00Z,Alison Bechdel,,gay comics,Media
+Q510699,The Coming Race,,Edward Bulwer-Lytton,,utopian literature,Media
+Q646426,Kids,1995-01-01T00:00:00Z,,Larry Clark,coming-of-age fiction,Media
+Q135441456,Scratch Fusion,,,,boss game,Media
+Q307408,Non-no,,,,,Media
+Q7613591,Steve Perrin's Quest Rules,2008-01-01T00:00:00Z,Steve Perrin,,tabletop role-playing game,Media
+Q577754,Morocco,1930-11-14T00:00:00Z,,Josef von Sternberg,romance film,Media
+Q132719667,Base Notes: the Scents of a Life,2025-02-13T00:00:00Z,Adelle Stripe,,memoir,Media
+Q374098,Atlas Shrugged,1957-10-10T00:00:00Z,Ayn Rand,,mystery fiction,Media
+Q653447,Smoke,1995-06-09T00:00:00Z,,Wayne Wang,drama film,Media
+Q543810,Ali: Fear Eats the Soul,1974-03-05T00:00:00Z,,Rainer Werner Fassbinder,romance film,Media
+Q33053961,Q33053961,1918-01-01T00:00:00Z,Rainer Maria Rilke,,,Media
+Q52160351,Q52160351,1935-01-01T00:00:00Z,Salvador Espriu,,,Media
+Q477990,Il pastor fido,1590-01-01T00:00:00Z,Giovanni Battista Guarini,,pastoral drama,Media
+Q463999,The Cosby Show,,,,comedy television series,Media
+Q465087,The Jazz Singer,1929-07-02T00:00:00Z,,Alan Crosland,musical film,Media
+Q362307,Science and Health with Key to the Scriptures,1875-01-01T00:00:00Z,Mary Baker Eddy,,,Media
+Q545333,Meteor Garden,,,,Taiwanese television drama,Media
+Q429433,Doonesbury,,Garry Trudeau,,,Media
+Q506074,Q506074,,,Paul Alter,game show,Media
+Q382108,Team Fortress 2,2007-10-10T00:00:00Z,,,first-person shooter,Media
+Q509209,The State and Revolution,1918-01-01T00:00:00Z,Vladimir Lenin,,social criticism,Media
+Q486844,MythBusters,,,,factual television program,Media
+Q710850,The Dam Busters,1955-01-01T00:00:00Z,,Michael Anderson,drama film,Media
+Q1130664,Far from Heaven,2002-11-08T00:00:00Z,,Todd Haynes,drama film,Media
+Q658009,Village of the Damned,1960-11-14T00:00:00Z,,Wolf Rilla,film based on a novel,Media
+Q777629,Presumed Innocent,1990-01-01T00:00:00Z,,Alan J. Pakula,crime film,Media
+Q677274,Journey,2015-07-21T00:00:00Z,,Jenova Chen,walking simulator,Media
+Q662029,Neuromancer,1984-07-01T00:00:00Z,William Gibson,,science fiction,Media
+Q595950,Mortal Engines,2001-11-16T00:00:00Z,Philip Reeve,,science fiction,Media
+Q696870,He-Man and the Masters of the Universe,,,Hal Sutherland,fantasy television series,Media
+Q591623,Silent Spring,1962-09-27T00:00:00Z,Rachel Carson,,essay,Media
+Q742103,The Twilight Zone,,,,science fiction television program,Media
+Q790192,experimental film,,,,,Media
+Q10911302,Q10911302,,,,,Media
+Q853630,slasher film,,,,,Media
+Q652928,Q652928,,,,racing video game,Media
+Q588666,minstrel show,,,,,Media
+Q638565,Fafhrd and the Gray Mouser,,Fritz Leiber,,fantasy,Media
+Q668433,Theatre of Cruelty,,,,,Media
+Q481315,absurdist literature,,,,,Media
+Q571579,Please Save My Earth,,Saki Hiwatari,,drama anime and manga,Media
+Q822524,Wile E. Coyote and the Road Runner,,,,,Media
+Q601409,Tiny Wings,2011-02-18T00:00:00Z,,,action game,Media
+Q658288,Nausea,1938-01-01T00:00:00Z,Jean-Paul Sartre,,philosophical novel,Media
+Q1170086,Phantom of the Paradise,1975-04-28T00:00:00Z,,Brian De Palma,drama film,Media
+Q1160186,Death Becomes Her,1992-07-31T00:00:00Z,,Robert Zemeckis,fantasy film,Media
+Q1167736,Home from the Hill,1960-01-01T00:00:00Z,,Vincente Minnelli,romance film,Media
+Q1061541,A Prophet,2009-11-12T00:00:00Z,,Jacques Audiard,gangster film,Media
+Q85870984,Quiz 100nin-ni kikimashita,,,,,Media
+Q577646,High School Musical,2006-01-01T00:00:00Z,,Kenny Ortega,teen film,Media
+Q821157,bullet hell,,,,,Media
+Q19824579,Alto's Adventure,2015-01-01T00:00:00Z,,,endless runner game,Media
+Q677915,Seventeen,,,,,Media
+Q951384,Total Annihilation,1997-09-30T00:00:00Z,,,science fiction video game,Media
+Q118107041,The Prince Charming Revue,1982-01-01T00:00:00Z,,,musical film,Media
+Q1044635,Bewitched,,,William Asher,fantasy television program,Media
+Q611356,The World Without Us,2007-01-01T00:00:00Z,Alan Weisman,,essay,Media
+Q46034734,Carnival Row,,,Andy Goddard,detective television series,Media
+Q170583,Pride and Prejudice,1813-01-28T00:00:00Z,Jane Austen,,psychological fiction,Media
+Q641423,The Secret,2006-11-26T00:00:00Z,Rhonda Byrne,,self-help,Media
+Q810662,Bastion,2012-04-26T00:00:00Z,,,action role-playing game,Media
+Q816528,Ben-Hur: A Tale of the Christ,1880-11-12T00:00:00Z,Lew Wallace,,historical fiction,Media
+Q715768,Arthurian romance,,,,,Media
+Q714760,Slam Dunk,,Takehiko Inoue,,sports manga,Media
+Q922635,The Day of the Triffids,,,Q13602305,science fiction television program,Media
+Q955910,Three Men in a Boat,1889-01-01T00:00:00Z,Jerome K. Jerome,,humorous fiction,Media
+Q784683,The Urantia Book,1955-01-01T00:00:00Z,http://www.wikidata.org/.well-known/genid/44e111ecd7d3f8327b99c975a05619bd,,Q5890359,Media
+Q1194413,The Tree of Wooden Clogs,1979-03-30T00:00:00Z,,Ermanno Olmi,drama film,Media
+Q1031053,The Monkees,,,,American television sitcom,Media
+Q778221,Ausbund,,,,hymnal,Media
+Q655794,Orbis Pictus,1658-01-01T00:00:00Z,John Amos Comenius,,,Media
+Q633210,Generation X: Tales for an Accelerated Culture,1991-01-01T00:00:00Z,Douglas Coupland,,postmodern fiction,Media
+Q136451692,Ars veterinaria (Veterinary Art),,Pelagonius,,treatise,Media
+Q1034675,Cyberpunk 2020,1990-01-01T00:00:00Z,,,cyberpunk,Media
+Q1325034,Jeremiah Johnson,1972-05-07T00:00:00Z,,Sydney Pollack,film based on a novel,Media
+Q848517,Roadside Picnic,1972-01-01T00:00:00Z,Arkady and Boris Strugatsky,,psychological fiction,Media
+Q1545458,Syndicate,1993-06-06T00:00:00Z,,,science fiction video game,Media
+Q1198633,The Futurological Congress,1971-01-01T00:00:00Z,Stanisław Lem,,science fiction,Media
+Q627333,The Time Machine,1895-01-01T00:00:00Z,H. G. Wells,,science fiction,Media
+Q125511090,Pisma visokorođenom gospodinu baronu Juri Rožiću,,Tituš Brezovački,,,Media
+Q122791012,bullet heaven,,,,,Media
+Q1195668,The Man Without Qualities,1932-01-01T00:00:00Z,Robert Musil,,philosophical fiction,Media
+Q1198152,Taiko no Tatsujin,2001-02-21T00:00:00Z,,,rhythm game,Media
+Q1812267,Weekend,1967-01-01T00:00:00Z,,Jean-Luc Godard,dystopian film,Media
+Q1147199,Sefer Yetzirah,,Abraham,,,Media
+Q1200647,Desidera,,Max Ehrmann,,,Media
+Q1409627,Shadows of Forgotten Ancestors,1965-01-01T00:00:00Z,,Sergei Parajanov,art film,Media
+Q1189206,multiplayer online battle arena,,,,,Media
+Q861876,Vivi,,,,,Media
+Q1047005,The Secret Doctrine,1888-01-01T00:00:00Z,Helena Blavatsky,,religious text,Media
+Q1199309,life simulation game,,,,,Media
+Q836841,The Glass Bead Game,1943-01-01T00:00:00Z,Hermann Hesse,,developmental novel,Media
+Q1215852,Ubu roi,1895-04-25T00:00:00Z,Alfred Jarry,,comedy,Media
+Q1170769,The Essence of Christianity,1841-01-01T00:00:00Z,Ludwig Feuerbach,,,Media
+Q17019466,Siege,1992-01-01T00:00:00Z,James Mason,,non-fiction,Media
+Q1341009,Starman,1984-01-01T00:00:00Z,,John Carpenter,romance film,Media
+Q1198580,Dr. Mario,1990-07-27T00:00:00Z,,,falling block puzzle game,Media
+Q1305106,Looking Backward,1888-01-01T00:00:00Z,Edward Bellamy,,futuristic fiction,Media
+Q655710,Spiritual Exercises of Ignatius of Loyola,1548-01-01T00:00:00Z,Ignatius of Loyola,,,Media
+Q1195945,Osu! Tatakae! Ouendan,2005-07-28T00:00:00Z,,,music video game,Media
+Q1053359,The Birth of Tragedy,1872-01-01T00:00:00Z,Friedrich Nietzsche,,dramatic theory,Media
+Q1290328,Kolchak: The Night Stalker,,,,suspense film,Media
+Q2744,The X-Files,,,Rob Bowman,science fiction television program,Media
+Q5455032,Fishing and Fishermen's Talk,1556-01-01T00:00:00Z,Petar Hektorović,,,Media
+Q1196429,Elite Beat Agents,2006-11-06T00:00:00Z,,,music video game,Media
+Q915809,The Evolution of Cooperation,1984-04-01T00:00:00Z,Robert Axelrod,,philosophy,Media
+Q937861,Papillon,1969-01-01T00:00:00Z,Henri Charrière,,memoir,Media
+Q863534,Walden,1854-08-09T00:00:00Z,Henry David Thoreau,,diary,Media
+Q67799891,Barbarians of Lemuria,2004-01-01T00:00:00Z,,,tabletop role-playing game,Media
+Q2141477,Isis Unveiled,1877-01-01T00:00:00Z,Helena Blavatsky,,religious text,Media
+Q85864461,Assoluto Racing,2016-06-27T00:00:00Z,,,racing video game,Media
+Q125845072,"Il Cristiano raggiustato ne’ concetti, e costumi",1711-01-01T00:00:00Z,Benedetto Rogacci,,,Media
+Q76446582,Storulio sapnas,,,Stasys Ušinskas,puppet film,Media
+Q1199684,The Marriage of Figaro,1778-01-01T00:00:00Z,Pierre Beaumarchais,,comedy,Media
+Q1218394,The Final Circle of Paradise,1965-01-01T00:00:00Z,Arkady and Boris Strugatsky,,science fiction,Media
+Q973382,The Art of Loving,1959-01-01T00:00:00Z,Erich Fromm,,essay,Media
+Q1063587,The Stars My Destination,1956-01-01T00:00:00Z,Alfred Bester,,science fiction,Media
+Q1215953,A Gentle Creature,1876-01-01T00:00:00Z,Fyodor Dostoyevsky,,,Media
+Q1215261,Guzmán de Alfarache,1599-01-01T00:00:00Z,Mateo Alemán,,picaresque novel,Media
+Q1229963,The Twelve Caesars,,Suetonius,,treatise,Media
+Q1650420,Alley Oop,1969-01-01T00:00:00Z,V. T. Hamlin,,,Media
+Q1590481,Replay,1986-01-01T00:00:00Z,Ken Grimwood,,fantasy,Media
+Q2137133,Enchiridion of Epictetus,,Epictetus,,philosophy,Media
+Q96247255,Stray,2023-08-10T00:00:00Z,,,science fiction video game,Media
+Q17008213,New Amazonia,1889-01-01T00:00:00Z,Elizabeth Burgoyne Corbett,,feminist science fiction,Media
+Q1339270,Macunaíma,1928-01-01T00:00:00Z,Mário de Andrade,,fantasy,Media
+Q1135155,Hippocratic Corpus,,Hippocrates,,,Media
+Q110622667,Alcarràs,2022-12-08T00:00:00Z,,Carla Simón,rural drama,Media
+Q2438494,In Living Color,,,,sketch show,Media
+Q1450279,Flying Shark,2023-08-24T00:00:00Z,,,vertically scrolling shooter,Media
+Q1809250,Mario Paint,1992-07-14T00:00:00Z,,,video game art,Media
+Q1412856,Liero,1998-01-01T00:00:00Z,,,side-scrolling video game,Media
+Q1197966,The Road to Wigan Pier,1937-03-08T00:00:00Z,George Orwell,,autobiography,Media
+Q1328330,hardboiled,,,,,Media
+Q1215940,The Legend of the Ice People,1982-01-01T00:00:00Z,Margit Sandemo,,speculative fiction,Media
+Q2000356,Lyonesse,1983-04-01T00:00:00Z,Jack Vance,,fantasy,Media
+Q1601739,heroic poetry,,,,,Media
+Q1772945,Opera dei Pupi,,,,,Media
+Q27624863,Orbis pictus v řeči české a německé,,František Patočka,,,Media
+Q1336310,Investiture of the Gods,,Xu Zhonglin,,gods and demons fiction,Media
+Q2292320,sexploitation film,,,,,Media
+Q2513907,Madouc,1989-11-01T00:00:00Z,Jack Vance,,fantasy,Media
+Q2856498,Band of Angels,1957-01-01T00:00:00Z,,Raoul Walsh,romance film,Media
+Q1637108,Ulysses 31,,,,comedy anime and manga,Media
+Q65738708,The Evolution of Trust,2017-07-01T00:00:00Z,,,browser game,Media
+Q2435697,O Dragão da Maldade Contra o Santo Guerreiro,1969-05-20T00:00:00Z,,Glauber Rocha,Western film,Media
+Q815739,Q815739,,,,massively multiplayer online role-playing game,Media
+Q1780267,Mother,1994-08-27T00:00:00Z,,,Japanese role-playing video game,Media
+Q123570778,Dictionnaire de conscience révolutionnaire,2023-01-01T00:00:00Z,Pierre de Brague,,biographical dictionary,Media
+Q1573878,Pitfall!,1982-04-20T00:00:00Z,,,platform game,Media
+Q2249908,High-Rise,1975-01-01T00:00:00Z,J. G. Ballard,,thriller,Media
+Q1082871,The Blazing World,1666-01-01T00:00:00Z,"Margaret Cavendish, Duchess of Newcastle-upon-Tyne",,science fiction,Media
+Q2485195,The Bat,1926-01-01T00:00:00Z,,Roland West,silent film,Media
+Q1786006,Scorched Earth,1991-01-01T00:00:00Z,,,artillery game,Media
+Q5604045,The Green Pearl,1985-06-01T00:00:00Z,Jack Vance,,fantasy,Media
+Q1462368,Jeeves and Wooster,,,,drama television series,Media
+Q2167095,Oz book series,,L. Frank Baum,,fantasy,Media
+Q1210343,Dictionary of National Biography,1885-01-01T00:00:00Z,various authors,,national biographical dictionary,Media
+Q1692598,Micro Machines,,,,racing video game,Media
+Q1501981,Story of O,1954-01-01T00:00:00Z,Anne Desclos,,BDSM-themed literature,Media
+Q1538485,Tony Hawk's Pro Skater 2,2000-09-20T00:00:00Z,,,skateboarding video game,Media
+Q106506225,Beyond All Reason,2019-12-15T00:00:00Z,,,real-time strategy,Media
+Q2106121,Belfagor arcidiavolo,1527-01-01T00:00:00Z,Niccolò Machiavelli,,,Media
+Q61745035,Q61745035,1654-01-01T00:00:00Z,János Apáczai Csere,,,Media
+Q117727989,Q117727989,,Meir Lamberski,,comics,Media
+Q1539995,The Tales of Ise,,http://www.wikidata.org/.well-known/genid/4ef51bea3166e3cfeaffe261c3d24208,,uta monogatari,Media
+Q125371911,Stereophonic,,David Adjmi,,,Media
+Q488655,Groundhog Day,1993-01-01T00:00:00Z,,Harold Ramis,romantic comedy,Media
+Q5966849,I'm Telling You for the Last Time,1999-01-01T00:00:00Z,,Marty Callner,stand-up comedy,Media
+Q1784288,Invisible Man,1952-04-14T00:00:00Z,Ralph Ellison,,science fiction,Media
+Q2414449,The Story of Joanna,1976-10-01T00:00:00Z,,Gerard Damiano,drama film,Media
+Q11331851,Fighting Hawk,2007-01-25T00:00:00Z,,,vertically scrolling shooter,Media
+Q114764053,The Blazing World,2014-03-13T00:00:00Z,Siri Hustvedt,,,Media
+Q124973056,cozy game,,,,,Media
+Q3824799,Revenge of Black Eagle,1951-01-01T00:00:00Z,,Riccardo Freda,adventure film,Media
+Q1027525,Left Behind,,Jerry B. Jenkins,,Christian fiction,Media
+Q2609497,F-Zero X,1998-07-14T00:00:00Z,,Tadashi Sugiyama,racing video game,Media
+Q3019070,Tol'able David,1921-01-01T00:00:00Z,,Henry King,silent film,Media
+Q1901441,Mak yong,,,,,Media
+Q2581523,Fez,2012-04-13T00:00:00Z,,,platform game,Media
+Q119409477,Pitfall II: The Lost Caverns,1985-01-01T00:00:00Z,,,,Media
+Q2577334,"Aradia, or the Gospel of the Witches",1899-07-01T00:00:00Z,Charles Godfrey Leland,,essay,Media
+Q7205918,Plättchen Twist 'n' Paint,2008-09-12T00:00:00Z,,,puzzle video game,Media
+Q604532,Soldat,2002-05-09T00:00:00Z,,,run and gun,Media
+Q4353715,Magic Pengel: The Quest for Color,2003-01-01T00:00:00Z,,,role-playing video game,Media
+Q4752686,Pilgrim at Tinker Creek,1974-01-01T00:00:00Z,Annie Dillard,,non-fiction,Media
+Q2746450,Chip's Challenge,1989-01-01T00:00:00Z,,,puzzle video game,Media
+Q1638194,The Road to Serfdom,1944-01-01T00:00:00Z,Friedrich Hayek,,non-fiction,Media
+Q3478589,Sens Hexalogie,2010-01-01T00:00:00Z,Romaric Briand,,tabletop role-playing game,Media
+Q1447521,The Perennial Philosophy,1944-01-01T00:00:00Z,Aldous Huxley,,essay,Media
+Q4424338,Deadly Prey,1987-01-01T00:00:00Z,,David A. Prior,action film,Media
+Q2789783,Starblade,1991-09-01T00:00:00Z,,,shoot 'em up,Media
+Q1736876,Cat's Eye,1988-09-01T00:00:00Z,Margaret Atwood,,,Media
+Q1406618,The Most Dangerous Game,1924-01-01T00:00:00Z,Richard Connell,,thriller,Media
+Q2708254,Meteos,2005-09-23T00:00:00Z,,,puzzle video game,Media
+Q3262052,Populous,,,,god game,Media
+Q2379240,Dubrovsky,1841-01-01T00:00:00Z,Alexander Pushkin,,,Media
+Q307441,osu!,2007-09-16T00:00:00Z,,,rhythm game,Media
+Q2405233,The Law,1850-01-01T00:00:00Z,Frédéric Bastiat,,essay,Media
+Q104830011,hero shooter,,,,,Media
+Q1643098,Sailor Moon,1991-12-28T00:00:00Z,Naoko Takeuchi,,magical girl,Media
+Q1668666,The Human Cycle,,Aurobindo Ghosh,,,Media
+Q3041291,Dune,1992-01-01T00:00:00Z,,,real-time strategy,Media
+Q2375684,Surya Siddhanta,,Lāṭadeva,,,Media
+Q2287584,Reflections on the Revolution in France,1790-11-01T00:00:00Z,Edmund Burke,,essay,Media
+Q10716445,Wither,2012-01-01T00:00:00Z,,Sonny Laguna,horror film,Media
+Q5609215,Grim the Collier of Croydon,,http://www.wikidata.org/.well-known/genid/0de37bf5127ec5ed6cfb5d700fc60348,,,Media
+Q3809524,Teen Titans Go!,,,Careen Ingle,slapstick,Media
+Q35494772,The Next Penelope,2015-01-01T00:00:00Z,,,action game,Media
+Q107917727,Roses in the desert,2020-10-21T00:00:00Z,Suraj Sani,,,Media
+Q1699649,National Review,,,,,Media
+Q3525782,Thongor of Lemuria,1966-01-01T00:00:00Z,Lin Carter,,fantasy,Media
+Q2916018,Things: A Story of the Sixties,1965-01-01T00:00:00Z,Georges Perec,,,Media
+Q5029026,CanCam,1981-11-23T00:00:00Z,,,,Media
+Q2778220,Super Smash Bros.,,,,action game,Media
+Q3153816,Q3153816,1935-01-01T00:00:00Z,Maxence Van Der Meersch,,,Media
+Q3576767,Roughing It,1872-01-01T00:00:00Z,Q7245,,travel literature,Media
+Q11124801,Takeda Shingen,,,,,Media
+Q3979131,Syndicate,,,,cyberpunk video game,Media
+Q9095556,Wario Land,,,,,Media
+Q17164955,Super Mario Maker,2015-09-10T00:00:00Z,,,side-scrolling video game,Media
+Q13422621,Kannywood,,,,,Media
+Q4801289,Artistry of the Mentally Ill,1922-01-01T00:00:00Z,Hans Prinzhorn,,non-fiction,Media
+Q3153504,Internazionale,,,,,Media
+Q945230,The Kid Brother,1927-01-01T00:00:00Z,,Lewis Milestone,comedy film,Media
+Q15847804,Emerald City,,,,,Media
+Q10673425,The Sun Egg,,Elsa Beskow,,,Media
+Q1326889,Star Fox,1993-02-21T00:00:00Z,,Katsuya Eguchi,rail shooter,Media
+Q4051602,Tornado Jockey,,,,,Media
+Q4573375,Bloom County,,,,,Media
+Q3587963,Élise ou la vraie vie,1967-01-01T00:00:00Z,Claire Etcherelli,,,Media
+Q10351063,Sexual Politics,1970-01-01T00:00:00Z,Kate Millett,,literary criticism,Media
+Q5057772,Celebrity Sweepstakes,1974-04-01T00:00:00Z,,,,Media
+Q4786600,Archie,,Bob Montana,,,Media
+Q7751999,The Money Programme,,,,,Media
+Q1937847,Rage of Angels,1980-01-01T00:00:00Z,Sidney Sheldon,,thriller,Media
+Q11614318,A Castle in Italy,2013-05-20T00:00:00Z,,Valeria Bruni-Tedeschi,drama film,Media
+Q3208596,La Famille Fenouillard,1893-01-01T00:00:00Z,Georges Colomb,,,Media
+Q17109871,The Odd Couple,,,,sitcom,Media
+Q3533335,Periya Puranam,,Sekkizhar,,,Media
+Q3640801,Blackmoor,,,,tabletop role-playing game,Media
+Q7811290,To the Moon and Beyond,1964-01-01T00:00:00Z,,,,Media
+Q3569282,Windosill,2009-01-01T00:00:00Z,,,puzzle video game,Media
+Q56056818,Inextricable,2005-01-01T00:00:00Z,Paul Allgood,,,Media
+Q11298442,Quiz $ Millionaire,2000-04-20T00:00:00Z,,,,Media
+Q15553298,Monument Valley,2014-04-03T00:00:00Z,,,puzzle video game,Media
+Q107978284,Thorns in the desert,2021-02-14T00:00:00Z,Suraj Sani,,,Media
+Q3330940,House of Cards,,,David Fincher,political drama,Media
+Q64495821,"São Paulo no ano 2000, ou, Regeneração nacional",1909-01-01T00:00:00Z,Godofredo Emerson Barnsley,,futuristic fiction,Media
+Q5236350,La Hora Chanante,,,,comedy,Media
+Q3085613,Les Orientales,1829-01-01T00:00:00Z,Victor Hugo,,poetry,Media
+Q3823408,La Nuit juste avant les forêts,,Bernard-Marie Koltès,,theatre art,Media
+Q4048311,Rifts: Promise of Power,2005-09-10T00:00:00Z,,,tactical role-playing game,Media
+Q12803846,This Merry Day or Matiček's Wedding,1790-01-01T00:00:00Z,Anton Tomaž Linhart,,,Media
+Q3874640,Nencia da Barberino,,Lorenzo de' Medici,,poetry,Media
+Q120690350,Q120690350,,,,,Media
+Q3232508,Les Facéties du sapeur Camember,,Georges Colomb,,,Media
+Q3052537,The Monkey Wrench Gang,1975-08-01T00:00:00Z,Edward Abbey,,thriller,Media
+Q3837179,They and I,1909-01-01T00:00:00Z,Jerome K. Jerome,,,Media
+Q114094589,sword and soul,,,,,Media
+Q107750578,Hazmat Hijinks,2018-08-01T00:00:00Z,,,puzzle video game,Media
+Q5210090,Dakshinamurti Stotra,,Ādi Shankara,,stotra,Media
+Q3905832,Pitfall II: Lost Caverns,1984-01-01T00:00:00Z,,,platform game,Media
+Q7993566,Whicker's World,,,,television documentary,Media
+Q1354541,Yamato Monogatari,,http://www.wikidata.org/.well-known/genid/1ad40cbdcb5dbeda9312e1048396d25b,,uta monogatari,Media
+Q88180486,On the Diseases and Cures of Women,0400-01-01T00:00:00Z,Metrodora,,medical literature,Media
+Q121602298,poechenelle,,,,,Media
+Q116590057,Pizza Tower,2024-08-27T00:00:00Z,,,comedy video game,Media
+Q3107329,The Hitchhiker's Guide to the Galaxy,1979-10-12T00:00:00Z,Douglas Adams,,science fiction,Media
+Q19631660,Outer Wilds,2019-05-28T00:00:00Z,,,Metroidbrainia,Media
+Q63352729,I Lost My Body,2019-11-22T00:00:00Z,,Q16028340,comedy drama,Media
+Q11829,Hansel and Gretel,1812-01-01T00:00:00Z,Brothers Grimm,,fairy tale,Media
+Q6203021,Jirel of Joiry,,Catherine Lucile Moore,,,Media
+Q136342449,Beca da Dicomano,,Luigi Pulci,,pastoral,Media
+Q6527158,Q6527158,,,Vladimir Alexandrovich Orlov,thriller television series,Media
+Q135166893,Crystal Lake,,,,slasher film,Media
+Q20715415,Archie,,,,,Media
+Q120016070,Antonblast,2024-11-12T00:00:00Z,,,platform game,Media
+Q7766240,The Stanley Parable,2013-10-17T00:00:00Z,,,adventure video game,Media
+Q7687748,Tasty Planet,2018-01-01T00:00:00Z,,,action game,Media
+Q7691755,Tearaway,2015-09-08T00:00:00Z,,,platform game,Media
+Q3264135,Love Among the Ruins,1855-01-01T00:00:00Z,Robert Browning,,,Media
+Q16267696,Satellite Reign,2015-08-27T00:00:00Z,,,tactical role-playing game,Media
+Q5557059,Ghost Blows Out the Light,2006-10-01T00:00:00Z,Tianxia Bachang,,fantasy,Media
+Q64584915,"Dungeons & Dragons (original edition, 1st print)",1974-01-01T00:00:00Z,Gary Gygax,,tabletop role-playing game,Media
+Q5384167,Equality,1897-01-01T00:00:00Z,Edward Bellamy,,utopian literature,Media
+Q111317530,Universal and Particular Diets,,Constantine the African,,,Media
+Q69303989,Another Round,2020-10-14T00:00:00Z,,Thomas Vinterberg,comedy film,Media
+Q4154349,Far Rainbow,1963-01-01T00:00:00Z,Arkady Strugatsky,,science fiction,Media
+Q1571408,Totor,1926-01-01T00:00:00Z,Hergé,,,Media
+Q17131035,Polaris,2009-01-01T00:00:00Z,Ben Lehman,,tabletop role-playing game,Media
+Q5255573,The Hunt for Red October,1984-10-01T00:00:00Z,Tom Clancy,,techno-thriller,Media
+Q7565689,Mega Man,1987-12-17T00:00:00Z,,,action game,Media
+Q7115636,Peanuts,,Charles M. Schulz,,,Media
+Q5375730,Encyclopedia of the Brethren of Purity,1000-01-01T00:00:00Z,Brethren of Purity,,,Media
+Q11324199,NicoPuchi,,,,fashion magazine,Media
+Q20008407,Poliscena,1478-01-01T00:00:00Z,Leonardo della Serrata,,humanistic comedy,Media
+Q7732639,The Eve of St. Agnes,,John Keats,,,Media
+Q7824171,Toonerville Folks,,Fontaine Fox,,,Media
+Q3974015,Geschichte der Kunst des Alterthums,1763-01-01T00:00:00Z,Johann Joachim Winckelmann,,essay,Media
+Q56245763,Magic for Humans,,,,,Media
+Q5973935,nocola,1997-07-01T00:00:00Z,,,,Media
+Q3338050,Nennillo and Nennella,1634-01-01T00:00:00Z,Giambattista Basile,,,Media
+Q15036769,Shanghai,1986-10-01T00:00:00Z,,,mahjong solitaire video game,Media
+Q19902809,The Reign of Quantity and the Signs of the Times,1945-01-01T00:00:00Z,René Guénon,,,Media
+Q47212805,Q47212805,2008-06-05T00:00:00Z,,,role-playing video game,Media
+Q133138730,Q133138730,,,,,Media
+Q7735457,The Fundamentals,,Robert Elliott Speer,,essay,Media
+Q105475134,soulslike,,,,,Media
+Q19523829,Buddhism as a religion,,K. Śrī Dhammānanda,,,Media
+Q132395428,TRAMCITY HAKODATE,2024-01-04T00:00:00Z,,,simulation video game,Media
+Q111737259,Father & Soldier,2023-01-04T00:00:00Z,,Mathieu Vadepied,drama film,Media
+Q13132472,The Last Day,1976-01-01T00:00:00Z,Owain Owain,,science fiction genre,Media
+Q21233635,S/lay w/Me,2009-01-01T00:00:00Z,,,tabletop role-playing game,Media
+Q21117729,Elric saga,1961-01-01T00:00:00Z,Michael Moorcock,,fantasy,Media
+Q19848664,StarTalk,,,,talk show,Media
+Q273585,Rapunzel,1812-01-01T00:00:00Z,Brothers Grimm,,fairy tale,Media
+Q17116315,L'armata dei sonnambuli,2014-01-01T00:00:00Z,Wu Ming,,,Media
+Q106246123,Magic for Humans by Mago Pop,,,Mag Lari,reality television,Media
+Q3924121,Prosperity Without Growth,2009-01-01T00:00:00Z,Tim Jackson,,essay,Media
+Q11836446,Two little savages,1904-01-01T00:00:00Z,Ernest Thompson Seton,,,Media
+Q116790461,3D platform game,,,,,Media
+Q18202464,Infiniminer,2009-04-29T00:00:00Z,,,,Media
+Q7730063,The Dialectic of Sex,,Shulamith Firestone,,,Media
+Q18762331,Conan canonical works,,Robert E. Howard,,sword and sorcery,Media
+Q7847758,Trump: The Art of the Deal,1987-11-01T00:00:00Z,Donald Trump,,non-fiction,Media
+Q19505991,Q19505991,,Safi Al-Din Al-Hilli Altaie,,,Media
+Q7740012,The Holocaust in American Life,1999-01-01T00:00:00Z,Peter Novick,,history book,Media
+Q18378873,Breaking the Ice,2005-01-01T00:00:00Z,Emily Care Boss,,tabletop role-playing game,Media
+Q77075935,In a Wicked Age,2007-01-01T00:00:00Z,Vincent Baker,,tabletop role-playing game,Media
+Q3514288,Takeda Shingen,1989-07-28T00:00:00Z,,,historical video game,Media
+Q51072059,ski safari,2012-12-17T00:00:00Z,,,action-adventure game,Media
+Q8027900,Witchcraft Today,1954-01-01T00:00:00Z,Gerald Gardner,,non-fiction,Media
+Q7908918,Vaja-Pshavela,2011-01-01T00:00:00Z,Miho Mosulishvili,,biography,Media
+Q7760921,The Rising Tide of Color Against White World-Supremacy,1920-04-01T00:00:00Z,Lothrop Stoddard,,,Media
+Q16000543,12:01 PM,1973-12-01T00:00:00Z,Richard A. Lupoff,,science fiction,Media
+Q99015944,parkour video game,,,,,Media
+Q107610606,Persinette,1698-01-01T00:00:00Z,Charlotte-Rose de Caumont La Force,,fairy tale,Media
+Q7179114,Petrosinella,1634-01-01T00:00:00Z,Giambattista Basile,,fairy tale,Media
+Q118592120,JBMod,2004-12-01T00:00:00Z,,,first-person shooter,Media
+Q38072107,fiction literature,,,,,Media
+Q7634490,Sufferings in Africa,1817-01-01T00:00:00Z,James Riley,,memoir,Media
+Q134531061,The World We Left Behind,2024-10-28T00:00:00Z,Samantha Leigh,,,Media
+Q19643088,Metroidvania,,,,,Media
+Q7531252,Sisterhood is Powerful,1970-01-01T00:00:00Z,Robin Morgan,,,Media
+Q3819549,The Scent of the Night,1998-09-08T00:00:00Z,,Claudio Caligari,drama film,Media
+Q50658496,Storia della scultura dal suo risorgimento in Italia sino al secolo di Napoleone per servire di continuazione alle opere di Winckelmann e di d'Agincourt,,Leopoldo Cicognara,,treatise,Media
+Q17986048,Brak the Barbarian,1968-01-01T00:00:00Z,John Jakes,,,Media
+Q30012225,Q30012225,,Bai Juyi,,Tang poetry,Media
+Q7752830,The Mysteries of Harris Burdick,1984-01-01T00:00:00Z,Chris Van Allsburg,,fantasy,Media
+Q6649249,Little Boy Blue,1888-04-07T00:00:00Z,Eugene Field,,,Media
+Q13132545,Ymddiddan Myrddin a Thaliesin,1100-01-01T00:00:00Z,,,dialogue,Media
+Q30347815,twin-stick shooter,,,,,Media
+Q7756256,The Passing of the Great Race,,Madison Grant,,,Media
+Q7754865,The Old Law,,Philip Massinger,,,Media
+Q62117182,Personal Dream Space,2021-01-01T00:00:00Z,,Giovanni Morassutti,documentary film,Media
+Q257839,Creature Comforts,,,Nick Park,mockumentary,Media
+Q74015708,Dota,,,,,Media
+Q19169213,Der gestiefelte Kater,1812-01-01T00:00:00Z,Brothers Grimm,,fairy tale,Media
+Q583705,La Celestina,1500-01-01T00:00:00Z,Fernando de Rojas,,tragicomedy,Media
+Q96401967,Riddles of Dunash ben Labrat,0900-01-01T00:00:00Z,Dunash ben Labrat,,riddle,Media
+Q837923,Garry's Mod,2010-09-23T00:00:00Z,,,first-person shooter,Media
+Q1768389,The Holocaust Industry,2000-01-01T00:00:00Z,Norman Finkelstein,,essay,Media
+Q129695809,horde shooter,,,,,Media
+Q25184337,The African,1967-01-01T00:00:00Z,Harold Courlander,,fiction,Media
+Q130541818,movement shooter,,,,,Media
+Q134714811,Rolf in the Woods,1911-01-01T00:00:00Z,Ernest Thompson Seton,,,Media
+Q18762328,Conan the Barbarian,,,,,Media
+Q120669834,Puss in Boots,1695-01-01T00:00:00Z,Charles Perrault,,,Media
+Q17928402,blog post,,,,,Media
+Q98123557,de 8 en Opbouw,,,,,Media
+Q11609971,Q11609971,,Shūhei Fujisawa,,,Media
+Q1957782,Consumer Reports,,,,,Media
+Q42869428,Mahjong Titans,,,,mahjong video game,Media
+Q5966784,Q5966784,1974-01-15T00:00:00Z,Antonio Buero Vallejo,,,Media
+Q124336533,Tattoos on the Heart: The Power of Boundless Compassion,2009-03-09T00:00:00Z,Greg Boyle,,,Media
+Q20669574,creative nonfiction,,,,,Media
+Q21530858,Rusalka,1826-01-01T00:00:00Z,Alexander Pushkin,,,Media
+Q631890,Frascati Manual,1963-01-01T00:00:00Z,,,,Media
+Q27134782,The Beauty Sleeping in the Wood,1696-01-01T00:00:00Z,Charles Perrault,,fairy tale,Media
+Q743223,Roots: The Saga of an American Family,1976-08-17T00:00:00Z,Alex Haley,,historical fiction,Media
+Q96050776,"Universidad, convivencia en interculturalidad y estrategias de permanencia",2018-01-01T00:00:00Z,,,,Media
+Q61037566,La Salute è in voi!,1900-01-01T00:00:00Z,http://www.wikidata.org/.well-known/genid/e4c1950e6ceaa13fa6dd475c45f4f7d3,,handbook,Media
+Q42187988,Clemens Brentanos Frühlingskranz,1844-01-01T00:00:00Z,Bettina von Arnim,,,Media
+Q115682990,Q115682990,1973-01-01T00:00:00Z,José Martínez Ruiz,,,Media
+Q115766933,The Ideal,1935-01-01T00:00:00Z,Stanley G. Weinbaum,,,Media
+Q7735196,The Free Besieged,,Dionysios Solomos,,,Media
+Q134714347,The Tracker,1978-01-01T00:00:00Z,Tom Brown Jr.,,,Media
+Q104889690,Q104889690,,,,,Media
+Q1244674,Vita Merlini,1148-01-01T00:00:00Z,Geoffrey of Monmouth,,epic poem,Media
+Q1132319,Creative Evolution,1907-01-01T00:00:00Z,Henri Bergson,,essay,Media
+Q109598322,roguevania,,,,,Media
+Q109603400,soulsvania,,,,,Media
+Q105722325,Wilhelm Meister,,Johann Wolfgang von Goethe,,,Media
+Q99196467,Théodora,,Victorien Sardou,,,Media
+Q106255137,Eski Anadoluda Kadın,,Muhibbe Darga,,,Media
+Q7734312,The Fixed Period,1882-01-01T00:00:00Z,Anthony Trollope,,futuristic fiction,Media

@@ -1,0 +1,231 @@
+id:ID,name,inception,:LABEL
+Q889766,Brahmanism,,Ideology
+Q106687,Unitarianism,,Ideology
+Q425381,Hanif,,Ideology
+Q9268,Judaism,-0500-01-01T00:00:00Z,Ideology
+Q101849,Reformed Christianity,1519-01-11T00:00:00Z,Ideology
+Q1527782,Proto-Indo-Iranian religion,,Ideology
+Q194497,Historical Vedic religion,,Ideology
+Q59774,Wicca,1954-01-01T00:00:00Z,Ideology
+Q837605,Tengrism,,Ideology
+Q42042,shamanism,,Ideology
+Q9598,Taoism,,Ideology
+Q9601,Zoroastrianism,,Ideology
+Q9581,Confucianism,,Ideology
+Q161696,Catharism,1100-01-01T00:00:00Z,Ideology
+Q170208,Quakers,1652-01-01T00:00:00Z,Ideology
+Q748,Buddhism,http://www.wikidata.org/.well-known/genid/773771617a6bd6932df3429addcc4dac,Ideology
+Q582451,Dianic Wicca,1971-12-21T00:00:00Z,Ideology
+Q9089,Hinduism,http://www.wikidata.org/.well-known/genid/12a13eb52fd0671473ebf210b3c062c6,Ideology
+Q179235,phenomenology,,Ideology
+Q331563,transcendentalism,,Ideology
+Q131505,esotericism,,Ideology
+Q207103,Constructivism,,Ideology
+Q267932,Post-structuralism,,Ideology
+Q460501,Historicism,,Ideology
+Q192933,hermeticism,,Ideology
+Q1515134,Krausism,,Ideology
+Q2119946,posthumanism,,Ideology
+Q2420841,Black feminism,,Ideology
+Q3008160,cyberfeminism,,Ideology
+Q3303170,Mazzinianism,,Ideology
+Q3567204,material feminism,,Ideology
+Q485459,Cynicism,,Ideology
+Q17001577,decoloniality,,Ideology
+Q657488,perennial philosophy,,Ideology
+Q647114,postmodern philosophy,,Ideology
+Q651205,sensationism,,Ideology
+Q697205,Yangmingism,,Ideology
+Q737560,Neo-Kantianism,,Ideology
+Q854807,Christian philosophy,,Ideology
+Q32411443,intersectional feminism,,Ideology
+Q38066,existentialism,,Ideology
+Q8069107,Zenith Applied Philosophy,1974-01-01T00:00:00Z,Ideology
+Q162145,Neoplatonism,0245-01-01T00:00:00Z,Ideology
+Q93191,Baptists,,Ideology
+Q4743690,American Episcopal Church,1968-03-01T00:00:00Z,Ideology
+Q159318,Moravian Church,,Ideology
+Q1050725,Holiness movement,,Ideology
+Q159108,Independent Catholicism,,Ideology
+Q194253,Evangelicalism,,Ideology
+Q1841,Catholicism,0033-01-01T00:00:00Z,Ideology
+Q3333484,Eastern Orthodoxy,,Ideology
+Q2125785,Radical Pietism,,Ideology
+Q2142143,Seventh Day Baptists,,Ideology
+Q2302742,British Israelism,,Ideology
+Q303985,Molokans,,Ideology
+Q3425524,Charismatic Christianity,,Ideology
+Q23540,Protestantism,1517-11-10T00:00:00Z,Ideology
+Q483978,Pentecostalism,,Ideology
+Q855941,Restorationism,,Ideology
+Q7049261,nondenominational Christianity,,Ideology
+Q869110,New Apostolic Reformation,,Ideology
+Q9592,Catholic Church,,Ideology
+Q6739460,Pentecostal Assemblies of the World,1906-01-01T00:00:00Z,Ideology
+Q104319,Seventh-day Adventist Church,1863-05-21T00:00:00Z,Ideology
+Q1412016,Shtundists,1860-01-01T00:00:00Z,Ideology
+Q585110,Stone–Campbell Movement,1832-01-01T00:00:00Z,Ideology
+Q131015,positivism,,Ideology
+Q829348,spiritualism,,Ideology
+Q183308,New Age,,Ideology
+Q178671,Theosophy,,Ideology
+Q242517,Orphism,,Ideology
+Q1028344,Cambridge Platonists,,Ideology
+Q1547741,Group of Seven,,Ideology
+Q624477,Christian Science,1866-01-01T00:00:00Z,Ideology
+Q1359326,Order of Nine Angles,,Ideology
+Q151843,Frankfurt School,,Ideology
+Q1944060,Monarchomachs,,Ideology
+Q2142745,history of religions school,,Ideology
+Q327625,Theosophical Society,1875-11-17T00:00:00Z,Ideology
+Q336241,Annales school,1920-01-01T00:00:00Z,Ideology
+Q557532,Newlyn School,,Ideology
+Q4393569,Roerichism,,Ideology
+Q1972942,New York School,1950-01-01T00:00:00Z,Ideology
+Q208238,Vienna Circle,1924-01-01T00:00:00Z,Ideology
+Q6199,anarchism,,Ideology
+Q539918,Ash'ari,0900-01-01T00:00:00Z,Ideology
+Q742779,Russian formalism,1915-01-01T00:00:00Z,Ideology
+Q2400211,Moorish Science Temple of America,1913-01-01T00:00:00Z,Ideology
+Q133207,Muslim Brotherhood,1928-03-22T00:00:00Z,Ideology
+Q940573,New Thought,1846-01-01T00:00:00Z,Ideology
+Q1370167,Shakers,1740-01-01T00:00:00Z,Ideology
+Q184719,anthroposophy,1913-01-01T00:00:00Z,Ideology
+Q204128,Bábism,1844-05-23T00:00:00Z,Ideology
+Q128267,Joseph,,Ideology
+Q193664,Pietism,,Ideology
+Q328804,John the Evangelist,,Ideology
+Q4346808,Christian,,Ideology
+Q1637332,Huna,,Ideology
+Q199993,traditionalist Catholicism,,Ideology
+Q1939951,Sant Mat,,Ideology
+Q9603,Sufism,,Ideology
+Q345,Mary,,Ideology
+Q40662,John the Baptist,,Ideology
+Q302,Jesus Christ,,Ideology
+Q9077,Moses,,Ideology
+Q48221,Malikism,,Ideology
+Q4007573,Valdesians,1535-01-01T00:00:00Z,Ideology
+Q1075460,Khlysts,1700-01-01T00:00:00Z,Ideology
+Q48124,sedevacantism,,Ideology
+Q6497067,Latter Rain,1948-01-01T00:00:00Z,Ideology
+Q101462,Rastafari,,Ideology
+Q137073,Puritans,,Ideology
+Q578881,Christian fundamentalism,,Ideology
+Q842254,machismo,,Ideology
+Q1084152,Christian Zionism,,Ideology
+Q463934,Athaliah,,Ideology
+Q2917160,Feri Tradition,1960-01-01T00:00:00Z,Ideology
+Q1144579,Doukhobors,,Ideology
+Q685812,Plymouth Brethren,,Ideology
+Q131372,Hussites,,Ideology
+Q1258552,Celtic Christianity,,Ideology
+Q1344318,Shaykhism,,Ideology
+Q1523459,Stregheria,,Ideology
+Q208171,Ebionites,,Ideology
+Q178169,Presbyterianism,,Ideology
+Q202261,social Darwinism,,Ideology
+Q204603,Valentinianism,,Ideology
+Q2055449,Evangelical Christians (Prokhanovs),,Ideology
+Q907453,Mennonite Brethren Church,1860-01-06T00:00:00Z,Ideology
+Q2252195,rape culture,,Ideology
+Q1331657,Elcesaites,0250-01-01T00:00:00Z,Ideology
+Q4763544,Anglican Province of America,1995-01-01T00:00:00Z,Ideology
+Q2356772,Gardnerian Wicca,,Ideology
+Q4732465,Alliance of Renewal Churches,2002-01-01T00:00:00Z,Ideology
+Q877877,Evangelical Christians-Baptists,1944-01-01T00:00:00Z,Ideology
+Q3144420,Hypsistarians,,Ideology
+Q16039034,Ancestrality,,Ideology
+Q16050852,Gonabadi Dervish,,Ideology
+Q447131,religion of ancient Egypt,,Ideology
+Q477317,Christian Identity,,Ideology
+Q7893955,Universal Foundation for Better Living,1974-01-01T00:00:00Z,Ideology
+Q4016589,Louisiana Voodoo,,Ideology
+Q603176,Darius the Mede,,Ideology
+Q632691,Qutbism,,Ideology
+Q20481000,Christian ecology,,Ideology
+Q6673892,Longhouse Religion,,Ideology
+Q834462,Nichiren Shōshū,,Ideology
+Q847493,Yogacara,,Ideology
+Q7485854,Yarsanism,,Ideology
+Q4356357,Godbeites,1870-01-01T00:00:00Z,Ideology
+Q5603611,green urbanism,,Ideology
+Q9232,Jainism,-0500-01-01T00:00:00Z,Ideology
+Q6757958,Marcosians,0150-01-01T00:00:00Z,Ideology
+Q7252,feminism,,Ideology
+Q7260,imperialism,,Ideology
+Q1859,True Jesus Church,1917-01-01T00:00:00Z,Ideology
+Q2096707,structural Marxism,1975-01-01T00:00:00Z,Ideology
+Q737685,Chabad Lubavitch,1772-01-01T00:00:00Z,Ideology
+Q1622507,Unitarian Universalism,1961-05-01T00:00:00Z,Ideology
+Q5116819,Church of Aphrodite,1938-01-01T00:00:00Z,Ideology
+Q97738262,Unity of the Brethren,1880-01-01T00:00:00Z,Ideology
+Q5680594,Āḏar Kayvānī,1600-01-01T00:00:00Z,Ideology
+Q9141448,Seventh-day Adventism,1863-01-01T00:00:00Z,Ideology
+Q2801788,dulcinian,1300-01-01T00:00:00Z,Ideology
+Q124767564,Psychedelic Venus Church,1970-01-01T00:00:00Z,Ideology
+Q60831391,"Sabbatarian Pentecostalists, Ukraine",,Ideology
+Q302729,Haitian Vodou,1800-01-01T00:00:00Z,Ideology
+Q111943110,Seven Mountain Mandate,,Ideology
+Q1276913,Novatianism,0251-01-01T00:00:00Z,Ideology
+Q4780618,Apostolic Christian Church of America,1847-01-01T00:00:00Z,Ideology
+Q183493,Darwinism,,Ideology
+Q2107503,Q2107503,,Ideology
+Q193589,Platonism,,Ideology
+Q179541,Epicureanism,,Ideology
+Q191359,Pythagoreanism,,Ideology
+Q1076026,evolutionism,,Ideology
+Q1058263,Neo-Marxism,,Ideology
+Q314079,Berneuchen Movement,1922-01-01T00:00:00Z,Ideology
+Q10875810,Q10875810,,Ideology
+Q2512051,Vedanta,,Ideology
+Q1147651,neopythagoreanism,,Ideology
+Q362438,Plowshares Movement,1980-01-01T00:00:00Z,Ideology
+Q1197987,Lysenkoism,,Ideology
+Q178540,Pre-Socratic philosophy,,Ideology
+Q25495304,Q25495304,,Ideology
+Q1690672,Joachimites,,Ideology
+Q185802,Falun Gong,,Ideology
+Q214577,Eleatics,,Ideology
+Q275595,eco-socialism,,Ideology
+Q3488148,society of ideologues,,Ideology
+Q3510523,sedeprivationism,,Ideology
+Q3577786,Calgary School,,Ideology
+Q477243,Cārvāka,,Ideology
+Q592832,integralism,,Ideology
+Q63106352,Sri Krishna Chaitanya Mission,1966-01-01T00:00:00Z,Ideology
+Q5116601,Church Growth,,Ideology
+Q5186753,critical race theory,,Ideology
+Q716920,illuminationism,,Ideology
+Q125916831,Pia Unio Sancti Pauli Apostoli,2005-01-01T00:00:00Z,Ideology
+Q790625,Averroism,,Ideology
+Q6474159,Laissez-faire racism,,Ideology
+Q2125638,Radha Soami,1861-01-01T00:00:00Z,Ideology
+Q30078205,The New Wittgenstein,,Ideology
+Q7165968,People of Praise,1971-01-01T00:00:00Z,Ideology
+Q50685643,Traditionalist School,,Ideology
+Q42907814,dandyism,,Ideology
+Q5885540,Holy Flesh movement,1890-01-01T00:00:00Z,Ideology
+Q48235,stoicism,-0300-01-01T00:00:00Z,Ideology
+Q123509272,effective accelerationism,2022-05-31T00:00:00Z,Ideology
+Q4347290,Reclaiming,1979-01-01T00:00:00Z,Ideology
+Q107112033,Unity of the Brethren in Texas,1903-01-01T00:00:00Z,Ideology
+Q190193,International Society for Krishna Consciousness,1967-07-13T00:00:00Z,Ideology
+Q6189929,Jewish Science,1916-01-01T00:00:00Z,Ideology
+Q97315603,AllatRa,2011-01-01T00:00:00Z,Ideology
+Q134719966,Q134719966,,Ideology
+Q8058126,Young Friends General Meeting,1900-01-01T00:00:00Z,Ideology
+Q18635291,International Pure Bhakti Yoga Society,2004-01-01T00:00:00Z,Ideology
+Q1258217,Rodnovery,,Ideology
+Q11684128,Abiasaph,,Ideology
+Q12410621,Mizrahi feminism,,Ideology
+Q5165003,Contemporary Sant Mat movements,1861-01-01T00:00:00Z,Ideology
+Q59587893,Sri Gopinatha Gaudiya Math,1989-01-01T00:00:00Z,Ideology
+Q4460020,neo-Toltec,,Ideology
+Q16238470,Tribe of Ben-Hur,1894-01-09T00:00:00Z,Ideology
+Q60242786,Sri Chaitanya Gaudiya Math,1953-01-01T00:00:00Z,Ideology
+Q22080033,The Satanic Temple,2013-01-01T00:00:00Z,Ideology
+Q22679,Baháʼí Faith,http://www.wikidata.org/.well-known/genid/8afec07b963c74a7bb690ec4122c32b9,Ideology
+Q111006127,World Vaisnava Association,1994-01-01T00:00:00Z,Ideology
+Q60851498,Sri Gaudiya Vedanta Samiti,1940-01-01T00:00:00Z,Ideology
+Q124336341,Charis Foundation for New Monasticism & Interspirituality,2015-02-04T00:00:00Z,Ideology

@@ -1,0 +1,1607 @@
+id:ID,name,inception,genre,country_of_origin,:LABEL
+Q396,U2,1976-01-01T00:00:00Z,soft rock,Ireland,MusicalGroup
+Q125603,The Clash,1976-01-01T00:00:00Z,reggae,United Kingdom,MusicalGroup
+Q18852,Lostprophets,1997-01-01T00:00:00Z,nu metal,United Kingdom,MusicalGroup
+Q116762464,The Busker,2012-10-01T00:00:00Z,folk rock,Malta,MusicalGroup
+Q738110,Legião Urbana,1982-01-01T00:00:00Z,alternative rock,Brazil,MusicalGroup
+Q72092,Rage Against the Machine,1991-01-01T00:00:00Z,rap rock,United States,MusicalGroup
+Q1299,The Beatles,1960-01-01T00:00:00Z,rock and roll,United Kingdom,MusicalGroup
+Q10708,Red Hot Chili Peppers,1982-01-01T00:00:00Z,funk rock,United States,MusicalGroup
+Q134393110,Sons of Albion,,post-grunge,England,MusicalGroup
+Q1407424,The Jimi Hendrix Experience,1966-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q134233,Jonas Brothers,2005-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q217025,Manic Street Preachers,1986-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q277551,Panic! at the Disco,2005-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q7083804,Old Crow Medicine Show,1998-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q178549,Counting Crows,1991-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q202314,Thin Lizzy,1969-01-01T00:00:00Z,traditional heavy metal,Ireland,MusicalGroup
+Q14159626,The War on Drugs,2005-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1155385,Third Eye Blind,1993-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q17091884,Southern Backtones,,rock and roll,United States,MusicalGroup
+Q1374009,SR-71,1998-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q2845440,Anarbor,2003-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q1543686,The Divine Comedy,1989-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q261,Linkin Park,1996-01-01T00:00:00Z,rap rock,United States,MusicalGroup
+Q1668512,Lush,1988-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q128220,The Jezabels,2007-01-01T00:00:00Z,indie pop,Australia,MusicalGroup
+Q4019781,Wild Nothing,,indie pop,United States,MusicalGroup
+Q47871,Green Day,1982-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q111417483,Wu Ming Contingent,2012-10-01T00:00:00Z,post-rock,Italy,MusicalGroup
+Q5118436,Chvrches,2011-01-01T00:00:00Z,indietronica,United Kingdom,MusicalGroup
+Q472595,OutKast,1992-01-01T00:00:00Z,Southern hip-hop,United States,MusicalGroup
+Q841514,Tonic,1993-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q845790,Lifehouse,1999-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1076,Lawson,2009-01-01T00:00:00Z,pop rock,United Kingdom,MusicalGroup
+Q484255,Alice in Chains,1987-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q178095,The Police,1977-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q483802,Nickelback,1995-01-01T00:00:00Z,hard rock,Canada,MusicalGroup
+Q188464,Pixies,1986-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q15042553,The Vamps,2012-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q608208,ANOHNI and the Johnsons,1998-01-01T00:00:00Z,baroque pop,United States,MusicalGroup
+Q107290639,Maluks,2019-01-01T00:00:00Z,dancehall,,MusicalGroup
+Q1612406,Belladonna,2005-01-01T00:00:00Z,,Italy,MusicalGroup
+Q740434,Smash Mouth,1994-01-01T00:00:00Z,ska punk,United States,MusicalGroup
+Q1381972,Everclear,1992-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q689,Bastille,2010-01-01T00:00:00Z,synth-pop,United Kingdom,MusicalGroup
+Q2893681,Beep Beep,2001-01-01T00:00:00Z,,United States,MusicalGroup
+Q135013271,FIM,,,United States,MusicalGroup
+Q16630137,Drunksouls,,reggae,France,MusicalGroup
+Q14557360,London Grammar,2012-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q35681697,Calacas Jazz Band,2006-01-01T00:00:00Z,Dixieland jazz,Mexico,MusicalGroup
+Q382890,Oasis,1991-01-01T00:00:00Z,indie pop,United Kingdom,MusicalGroup
+Q7773439,The Wannadies,1998-01-01T00:00:00Z,alternative rock,Sweden,MusicalGroup
+Q16628361,Deluxe,2007-01-01T00:00:00Z,electro swing,France,MusicalGroup
+Q1068713,Cheap Trick,1974-01-01T00:00:00Z,rock and roll,United States,MusicalGroup
+Q29788531,Servicentro,2011-08-01T00:00:00Z,rock music,Chile,MusicalGroup
+Q730046,Goo Goo Dolls,1986-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q11904,Eels,1995-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q483718,Foo Fighters,1995-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q101505,Deep Purple,1968-01-01T00:00:00Z,traditional heavy metal,United Kingdom,MusicalGroup
+Q142701,Pearl Jam,1990-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q3051556,Elmer Food Beat,1986-01-01T00:00:00Z,rock music,France,MusicalGroup
+Q17140,Backstreet Boys,1993-01-01T00:00:00Z,contemporary R&B,United States,MusicalGroup
+Q2331,Led Zeppelin,1968-01-01T00:00:00Z,classic rock,England,MusicalGroup
+Q1976152,Igor & The Red Elvises,1995-01-01T00:00:00Z,funk rock,United States,MusicalGroup
+Q93346,The Who,1964-02-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q16800947,Ibeyi,2013-01-01T00:00:00Z,soul,France,MusicalGroup
+Q4299,Coheed and Cambria,1995-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q135651269,Q135651269,2021-01-01T00:00:00Z,metal music,France,MusicalGroup
+Q1888903,Midtown,1998-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q124179,Kiss,1973-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q217360,Florence + the Machine,2007-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q134969,R.E.M.,1980-04-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q1002101,Buffalo Tom,1986-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q40585,30 Seconds to Mars,1998-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q940536,The Damned,1976-01-01T00:00:00Z,gothic rock,United Kingdom,MusicalGroup
+Q5378413,English Words,2005-01-01T00:00:00Z,new wave,,MusicalGroup
+Q734756,Tegan and Sara,1995-01-01T00:00:00Z,indie pop,Canada,MusicalGroup
+Q4787402,Arckid,,glam rock,United Kingdom,MusicalGroup
+Q421794,The Darkness,2000-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q279105,Volbeat,2001-10-01T00:00:00Z,heavy metal,Denmark,MusicalGroup
+Q11895,Guns 'N Roses,1985-01-01T00:00:00Z,hard rock,,MusicalGroup
+Q914489,Magma,1969-01-01T00:00:00Z,Zeuhl,France,MusicalGroup
+Q110572800,Le Petit Bayreuth,1885-01-01T00:00:00Z,,,MusicalGroup
+Q1071154,Finger Eleven,1990-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q3338929,New Deal String Band,,bluegrass music,,MusicalGroup
+Q112659793,Пане-браце,,rock music,Byelorussian Soviet Socialist Republic,MusicalGroup
+Q924993,The Orb,1988-01-01T00:00:00Z,ambient techno,United Kingdom,MusicalGroup
+Q2715339,Raspberries,1970-01-01T00:00:00Z,power pop,United States,MusicalGroup
+Q101788657,Los Marañones,1987-01-01T00:00:00Z,blues rock,,MusicalGroup
+Q126096871,Q126096871,2020-01-01T00:00:00Z,electro-folk,Spain,MusicalGroup
+Q925481,Planet Funk,,house music,Italy,MusicalGroup
+Q125844419,Instructions For Song,2020-01-01T00:00:00Z,experimental rock,,MusicalGroup
+Q106928114,Jeff and Jane Hudson,1980-01-01T00:00:00Z,no wave,United States,MusicalGroup
+Q7736862,The Go,1998-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q3038450,Dr Phibes & the House of Wax Equations,1990-01-01T00:00:00Z,psychedelic rock,,MusicalGroup
+Q24579017,Ladylike Dragons,,rock music,,MusicalGroup
+Q22121775,The Palace Guards,,garage rock,United States,MusicalGroup
+Q1242174,Pooh,1966-01-01T00:00:00Z,progressive rock,Italy,MusicalGroup
+Q70341504,Psychedelic Porn Crumpets,,psychedelic rock,,MusicalGroup
+Q25449109,Sargento Pimenta,2010-01-01T00:00:00Z,,,MusicalGroup
+Q115179184,Lóci játszik,,rock music,,MusicalGroup
+Q11318391,Tulip,,new music,Japan,MusicalGroup
+Q11036,The Rolling Stones,1962-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q218255,Electric Light Orchestra,1970-01-01T00:00:00Z,symphonic rock,United Kingdom,MusicalGroup
+Q221494,Quiet Riot,1973-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q208767,The Stooges,1967-01-01T00:00:00Z,proto-punk,United States,MusicalGroup
+Q44190,Radiohead,1985-01-01T00:00:00Z,art pop,United Kingdom,MusicalGroup
+Q126826,Aerosmith,1969-01-01T00:00:00Z,blues rock,United States,MusicalGroup
+Q514572,RPWL,1997-01-01T00:00:00Z,progressive rock,Germany,MusicalGroup
+Q483407,Ramones,1974-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q257876,Mostly Autumn,1996-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q798993,Badfinger,1961-01-01T00:00:00Z,power pop,United Kingdom,MusicalGroup
+Q190155,Van Halen,1972-01-01T00:00:00Z,classic rock,United States,MusicalGroup
+Q15862,Queen,1970-01-01T00:00:00Z,heavy metal,United Kingdom,MusicalGroup
+Q678410,Marillion,1979-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q203871,Rush,1968-01-01T00:00:00Z,progressive rock,Canada,MusicalGroup
+Q11649,Nirvana,1987-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q3394814,La Banda Trapera del Río,1976-01-01T00:00:00Z,rock music,Spain,MusicalGroup
+Q485039,Deftones,1988-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q2413972,The Roches,1973-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q3183680,Ningen Isu,1987-01-01T00:00:00Z,doom metal,Japan,MusicalGroup
+Q1478077,Living Colour,1984-01-01T00:00:00Z,funk metal,United States,MusicalGroup
+Q1066813,Cheech & Chong,,comedy film,,MusicalGroup
+Q818377,Gym Class Heroes,1997-01-01T00:00:00Z,alternative hip-hop,United States,MusicalGroup
+Q524822,Cobra Starship,2003-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q20012445,The Tide,2015-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q182223,Maroon 5,1994-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q1035286,Carabao,1976-01-01T00:00:00Z,blues,Thailand,MusicalGroup
+Q2412660,Fuel,1989-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q21468763,Tűzkerék xT,,blues rock,Hungary,MusicalGroup
+Q17631411,Kel Assouf,2006-01-01T00:00:00Z,rock music,Belgium,MusicalGroup
+Q93710964,Red Vox,2015-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q92990314,The Dives,2012-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q550602,Poison,1980-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q587184,Kix,1977-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q74822578,The Electric Alley,2014-01-01T00:00:00Z,,Spain,MusicalGroup
+Q31283512,Bala,2014-01-01T00:00:00Z,grunge,Spain,MusicalGroup
+Q18151740,GoGo Penguin,2012-01-01T00:00:00Z,jazz,United Kingdom,MusicalGroup
+Q117767711,Outsiders,2017-01-01T00:00:00Z,rock music,New Zealand,MusicalGroup
+Q1582829,P-Square,2003-01-01T00:00:00Z,hip-hop,,MusicalGroup
+Q11898,Einstürzende Neubauten,1980-01-01T00:00:00Z,experimental music,Germany,MusicalGroup
+Q11647,Nine Inch Nails,1988-01-01T00:00:00Z,ambient music,United States,MusicalGroup
+Q9619,Tame Impala,2007-01-01T00:00:00Z,dream pop,Australia,MusicalGroup
+Q10682,Sœurs Goadec,,kan ha diskan,France,MusicalGroup
+Q486688,Mötley Crüe,1981-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q174817,Soundgarden,1984-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q82545,Sex Pistols,1975-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q23471,Lordi,1992-01-01T00:00:00Z,pop metal,Finland,MusicalGroup
+Q14528,Fine Young Cannibals,1984-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q669033,Fiction Plane,,rock music,,MusicalGroup
+Q184217,The Smashing Pumpkins,1988-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q19697,Motörhead,1975-01-01T00:00:00Z,heavy metal,United Kingdom,MusicalGroup
+Q207472,Toto,1977-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q15136158,A Great Big World,2011-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q1256943,Peter and Gordon,1963-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q2306,Pink Floyd,1964-01-01T00:00:00Z,acid rock,United Kingdom,MusicalGroup
+Q25177,Rammstein,1994-01-04T00:00:00Z,industrial metal,Germany,MusicalGroup
+Q27593,AC/DC,1973-12-31T00:00:00Z,rock and roll,Australia,MusicalGroup
+Q28974,"Earth, Wind & Fire",1970-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q25507,Accept,1968-01-01T00:00:00Z,heavy metal,Germany,MusicalGroup
+Q154454,NSYNC,1995-01-01T00:00:00Z,teen pop,United States,MusicalGroup
+Q22151,Muse,1994-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q277230,98 Degrees,1996-01-01T00:00:00Z,contemporary R&B,United States,MusicalGroup
+Q18233,ABBA,1970-01-01T00:00:00Z,pop rock,Sweden,MusicalGroup
+Q18557,Opeth,1990-01-01T00:00:00Z,death metal,Sweden,MusicalGroup
+Q462380,Queensrÿche,1982-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q56285567,Wedlock,,,United States,MusicalGroup
+Q240767,Limp Bizkit,1994-01-01T00:00:00Z,rapcore,United States,MusicalGroup
+Q3422677,Red Cardell,1992-01-01T00:00:00Z,world music,France,MusicalGroup
+Q918511,Scandal,2006-08-21T00:00:00Z,pop-punk,Japan,MusicalGroup
+Q2070724,Atoll,1972-01-01T00:00:00Z,progressive rock,,MusicalGroup
+Q126855011,Q126855011,2018-01-01T00:00:00Z,alternative rock,Spain,MusicalGroup
+Q134403613,Nyjah Music & Zyah Rhythm,2024-01-01T00:00:00Z,,United States,MusicalGroup
+Q18719134,Twin Peaks,2009-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q7382487,Rustic Overtones,1993-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q16679474,The Celtic Social Club,2013-01-01T00:00:00Z,rock music,,MusicalGroup
+Q60751936,Kagoule,2010-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q16414,Death Cab for Cutie,1997-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q16005,Rainbow,1975-01-01T00:00:00Z,neo-classical metal,United Kingdom,MusicalGroup
+Q7758619,The Protomen,2003-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q15920,Metallica,1981-10-28T00:00:00Z,heavy metal,United States,MusicalGroup
+Q136464169,The Smashing Pixels,,hard rock,United States,MusicalGroup
+Q4894689,Skatalà,1985-01-01T00:00:00Z,oi!,Spain,MusicalGroup
+Q136334016,Yes Factory,2016-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q41176090,Second Alibi,2014-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q40586,Gipsy Kings,1978-01-01T00:00:00Z,flamenco,France,MusicalGroup
+Q156523,Sodom,1982-01-01T00:00:00Z,thrash metal,Germany,MusicalGroup
+Q55393127,Speedwolf,,speed metal,United States,MusicalGroup
+Q895463,Bowling for Soup,1994-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q16645748,Jesus Volt,,rock music,,MusicalGroup
+Q1777698,Evanescence,1994-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q725469,Stone Sour,1992-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q741801,Sevendust,1994-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q28799862,Sweet Eve,,,United States,MusicalGroup
+Q123568555,Apollo Bebop,2015-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q79318422,The Phone Call Damage,2018-04-01T00:00:00Z,rock music,Italy,MusicalGroup
+Q42299127,Jesus Loves Junkies,,post-metal,United States,MusicalGroup
+Q109538607,Pinkshift,2019-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q483558,Sum 41,1996-01-01T00:00:00Z,punk rock,Canada,MusicalGroup
+Q175097,3 Doors Down,1996-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q1045827,Cartel,2003-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q214237,The All-American Rejects,1999-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q485825,Simple Plan,1999-01-01T00:00:00Z,pop-punk,Canada,MusicalGroup
+Q133176560,Too Snoozed,2017-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q482477,Blink-182,1992-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q157041,The Offspring,1984-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q20687383,Thou,2005-01-01T00:00:00Z,doom metal,United States,MusicalGroup
+Q1521915,Ghost of the Robot,2002-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q25172022,Medusa,,rock music,United Kingdom,MusicalGroup
+Q74445376,Saïm,2015-01-01T00:00:00Z,,,MusicalGroup
+Q165193,Avenged Sevenfold,1999-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q100269171,Complex Numbers,1996-01-01T00:00:00Z,audiobook,Russia,MusicalGroup
+Q13379099,Alejandro Silva Power Cuarteto,1999-01-01T00:00:00Z,thrash metal,Chile,MusicalGroup
+Q104921573,A.I.(d),2010-01-01T00:00:00Z,djent,France,MusicalGroup
+Q14072091,Oberschlesien,,industrial rock,Poland,MusicalGroup
+Q126858310,Q126858310,,indie rock,Spain,MusicalGroup
+Q4938685,Bojo,2006-01-01T00:00:00Z,rock music,Philippines,MusicalGroup
+Q28226507,Quimere,,heavy metal,Brazil,MusicalGroup
+Q21157838,Squealer,1984-01-01T00:00:00Z,heavy metal,France,MusicalGroup
+Q97206561,Q97206561,2019-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q209956,Weezer,1992-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q55815169,Mt. Eddy,2015-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q837141,The Emotions,1968-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q42482,Iron Maiden,1975-01-01T00:00:00Z,new wave of British heavy metal,United Kingdom,MusicalGroup
+Q408139,Airbourne,2003-01-01T00:00:00Z,hard rock,Australia,MusicalGroup
+Q29068119,Rat-zinger,,,Spain,MusicalGroup
+Q59773470,DeafBrood,2017-04-03T00:00:00Z,heavy metal,France,MusicalGroup
+Q89063842,Vended,2018-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q106937897,Komando Moriles,,2 tone,Catalan countries,MusicalGroup
+Q125391991,Paper Divers,2020-01-01T00:00:00Z,alternative rock,Singapore,MusicalGroup
+Q113336119,Abandoned Stars,2010-06-15T00:00:00Z,progressive metal,Scotland,MusicalGroup
+Q43267,The Jackson 5,1964-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q461269,Skid Row,1986-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q43259,No Doubt,1986-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q44892,Kraftwerk,1970-01-01T00:00:00Z,Krautrock,Germany,MusicalGroup
+Q44637,Hollywood Undead,2005-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q135012592,Smashing Horizon,2025-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q52463,Wu-Tang Clan,1992-01-01T00:00:00Z,East Coast hip-hop,United States,MusicalGroup
+Q136441504,Inder Tracks,,pop-punk,United Kingdom,MusicalGroup
+Q72349,Krewella,2010-01-01T00:00:00Z,electronic dance music,United States,MusicalGroup
+Q1353720,Shadows Fall,1995-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q65969348,FADES,2022-01-01T00:00:00Z,urbano music,Mallorca,MusicalGroup
+Q484885,Erasure,1985-01-01T00:00:00Z,synth-pop,United Kingdom,MusicalGroup
+Q48304,The Pogues,1982-01-01T00:00:00Z,punk rock,Ireland,MusicalGroup
+Q47670,Black Sabbath,1968-01-01T00:00:00Z,doom metal,United Kingdom,MusicalGroup
+Q45354,The Doors,1965-01-01T00:00:00Z,blues rock,United States,MusicalGroup
+Q134395746,Turbogeist,,pop-punk,England,MusicalGroup
+Q58381,Duran Duran,1978-01-01T00:00:00Z,electronic rock,United Kingdom,MusicalGroup
+Q45165,System of a Down,1995-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q61113,Foster the People,2009-01-01T00:00:00Z,indie pop,United States,MusicalGroup
+Q50040,Dire Straits,1977-01-01T00:00:00Z,blues rock,United Kingdom,MusicalGroup
+Q45650,Free,1972-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q1578262,Megan and Liz,2007-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q58608,Arcade Fire,2001-01-01T00:00:00Z,chamber pop,Canada,MusicalGroup
+Q45752,LCD Soundsystem,2001-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q49724,Hoobastank,1994-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q45188,Coldplay,1999-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q1361805,Second Hand Rose,2000-01-01T00:00:00Z,rock music,People's Republic of China,MusicalGroup
+Q73597,Frankie Goes to Hollywood,1980-01-01T00:00:00Z,synth-pop,United Kingdom,MusicalGroup
+Q72608,Big Star,1971-01-01T00:00:00Z,power pop,United States,MusicalGroup
+Q464476,Black Flag,1976-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q55641,Spice Girls,1994-01-01T00:00:00Z,girl band,United Kingdom,MusicalGroup
+Q1568465,Mafia K-1 Fry,,French hip-hop,France,MusicalGroup
+Q10346039,Patati Patatá,,children's music,Brazil,MusicalGroup
+Q51118,AKB48,2005-01-01T00:00:00Z,bubblegum music,Japan,MusicalGroup
+Q1370588,New Edition,1978-01-01T00:00:00Z,new jack swing,United States,MusicalGroup
+Q3399109,Startijenn,,music of Brittany,France,MusicalGroup
+Q118176928,Fetus,,garage punk,Spain,MusicalGroup
+Q122643415,Premier Métro,,pop music,France,MusicalGroup
+Q11942096,Plowshare,2002-01-01T00:00:00Z,heavy metal,Spain,MusicalGroup
+Q42562680,American Sixgun,2009-04-01T00:00:00Z,southern rock,United States,MusicalGroup
+Q1027492,The Dø,,folk rock,Finland,MusicalGroup
+Q125055833,The Sound Of Eddy,,trip hop,Canada,MusicalGroup
+Q266549,iamamiwhoami,2009-01-01T00:00:00Z,synth-pop,Sweden,MusicalGroup
+Q482964,Depeche Mode,1980-01-01T00:00:00Z,industrial music,United Kingdom,MusicalGroup
+Q106369977,Q106369977,2019-01-01T00:00:00Z,synth-pop,Netherlands,MusicalGroup
+Q1180841,dead prez,1996-01-01T00:00:00Z,political hip-hop,United States,MusicalGroup
+Q827788,Wisdom,2001-01-01T00:00:00Z,power metal,Hungary,MusicalGroup
+Q3539315,Trio EDF,,chanson,,MusicalGroup
+Q916973,Funeral for a Friend,2001-01-01T00:00:00Z,emo,United Kingdom,MusicalGroup
+Q134403731,Very Nice Person,2021-01-01T00:00:00Z,,United States,MusicalGroup
+Q131231,Slayer,1981-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q2975394,Q2975394,2000-01-01T00:00:00Z,music of Ireland,France,MusicalGroup
+Q128678361,Los Monstruitos,,proletarian rock,Spain,MusicalGroup
+Q3378704,Phenix,,heavy metal,France,MusicalGroup
+Q125391883,Maneloren,2019-01-01T00:00:00Z,alternative rock,Singapore,MusicalGroup
+Q826255,Suede,1989-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q121438470,Animal Triste,,indie rock,France,MusicalGroup
+Q81509,Minor Threat,1980-12-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q4039076,Future World Music,2004-01-01T00:00:00Z,,United States,MusicalGroup
+Q80304,mejor banda de EE.UU,1993-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q3349220,Odezenne,,hip-hop,France,MusicalGroup
+Q22080821,Fuzz,2011-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q47500365,Faceplant,2013-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q28441348,Story Untold,2009-01-01T00:00:00Z,pop-punk,Canada,MusicalGroup
+Q15982430,Blues Pills,2011-01-01T00:00:00Z,blues rock,Sweden,MusicalGroup
+Q485811,Fall Out Boy,2001-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q254138,Slipknot,1994-01-01T00:00:00Z,groove metal,United States,MusicalGroup
+Q1402704,Pentagram,1971-01-01T00:00:00Z,doom metal,United States,MusicalGroup
+Q116115723,Falç de Metzinera,,doom metal,Spain,MusicalGroup
+Q1651057,Omega Massif,,sludge metal,Germany,MusicalGroup
+Q83468,Judas Priest,1969-01-01T00:00:00Z,traditional heavy metal,United Kingdom,MusicalGroup
+Q83431,Megadeth,1983-01-01T00:00:00Z,speed metal,United States,MusicalGroup
+Q103550,The Velvet Underground,1965-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q3753043,Inadaptats,1990-01-01T00:00:00Z,hardcore punk,Spain,MusicalGroup
+Q110579,Energy 52,1991-01-01T00:00:00Z,trance,Germany,MusicalGroup
+Q109871,Anthrax,1981-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q83814,Agent Orange,1979-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q124147,Scorpions,,heavy metal,Germany,MusicalGroup
+Q109393457,Zeidun,1999-01-01T00:00:00Z,indie rock,,MusicalGroup
+Q65079531,Munnycat,,hip-hop,United States,MusicalGroup
+Q973760,Skindred,1998-01-01T00:00:00Z,heavy metal,United Kingdom,MusicalGroup
+Q136472433,Upon Stone,2013-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q23592958,BNK48,2017-01-01T00:00:00Z,J-pop,Thailand,MusicalGroup
+Q106648,Fleetwood Mac,1967-07-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q133405,Bee Gees,1958-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q503205,Rouge,2002-01-01T00:00:00Z,zouk,Brazil,MusicalGroup
+Q30927930,Conexão Baixada,2002-01-01T00:00:00Z,rock music,Brazil,MusicalGroup
+Q182032,JKT48,2011-01-01T00:00:00Z,Indo pop,Indonesia,MusicalGroup
+Q6134983,Subterranean Kids,1985-01-01T00:00:00Z,hardcore punk,Spain,MusicalGroup
+Q29532947,Situació Extrema,1988-01-01T00:00:00Z,rock music,Spain,MusicalGroup
+Q228148,Zuco 103,1999-01-01T00:00:00Z,electronic music,Netherlands,MusicalGroup
+Q151012,Genesis,1967-01-01T00:00:00Z,soft rock,United Kingdom,MusicalGroup
+Q137758,Wishbone Ash,1969-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q118966,Black Oak Arkansas,1970-01-01T00:00:00Z,southern rock,United States,MusicalGroup
+Q17300304,Booze & Glory,,oi!,United Kingdom,MusicalGroup
+Q117684,The Exploited,1979-01-01T00:00:00Z,hardcore punk,United Kingdom,MusicalGroup
+Q1191761,Spacemen 3,1982-01-01T00:00:00Z,drone music,United Kingdom,MusicalGroup
+Q259381,The Dream Syndicate,1981-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q117669,Street Dogs,2002-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q117328207,dumb belles,2021-01-01T00:00:00Z,,United States,MusicalGroup
+Q134396919,The Witty Featherstones,2010-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q14957024,The Temperance Movement,2011-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q3005697,Cry Babies,,rock music,France,MusicalGroup
+Q172763,Joy Division,1976-01-01T00:00:00Z,post-punk,United Kingdom,MusicalGroup
+Q136521690,Feed the Beast,,funk metal,United States,MusicalGroup
+Q1549224,Kortatu,1984-01-01T00:00:00Z,ska,Spain,MusicalGroup
+Q5660219,Agua Bendita,1990-01-01T00:00:00Z,ska,Spain,MusicalGroup
+Q2465263,SHeDAISY,1999-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q124412677,QWER,,K-pop,South Korea,MusicalGroup
+Q959100,Sham 69,1975-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1271726,Dün,1976-01-01T00:00:00Z,progressive rock,France,MusicalGroup
+Q128010,Fear Factory,1989-01-01T00:00:00Z,industrial metal,United States,MusicalGroup
+Q131422,The Animals,1962-01-01T00:00:00Z,British blues,United Kingdom,MusicalGroup
+Q134541,Black Eyed Peas,1995-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q106928056,Jason Bennett & the Resistance,2005-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q136591,ZZ Top,1969-01-01T00:00:00Z,rock and roll,United States,MusicalGroup
+Q122898,The System,,contemporary R&B,United States,MusicalGroup
+Q154129,Gamma Ray,1988-01-01T00:00:00Z,speed metal,Germany,MusicalGroup
+Q129050,The Shangri-Las,1963-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q17639569,Sudden Death of Stars,,psychedelic rock,,MusicalGroup
+Q3546264,Tyran' Pace,,heavy metal,Germany,MusicalGroup
+Q153926,Alphaville,1982-01-01T00:00:00Z,synth-pop,Germany,MusicalGroup
+Q142636,The Chicks,1989-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q126852,America,1970-01-01T00:00:00Z,folk rock,United Kingdom,MusicalGroup
+Q159329,Fugees,2004-01-01T00:00:00Z,alternative hip-hop,United States,MusicalGroup
+Q5659477,Sobrinus,1995-01-01T00:00:00Z,rock music,Spain,MusicalGroup
+Q151634,Ace of Base,1990-01-01T00:00:00Z,synth-pop,Sweden,MusicalGroup
+Q2868712,AtOmsk,,rock music,France,MusicalGroup
+Q323187,Above & Beyond,2000-01-01T00:00:00Z,trance,United Kingdom,MusicalGroup
+Q152540,Blind Guardian,1984-01-01T00:00:00Z,power metal,Germany,MusicalGroup
+Q159351,Run-DMC,1981-01-01T00:00:00Z,rap rock,United States,MusicalGroup
+Q157327,Silverchair,1992-01-01T00:00:00Z,grunge,Australia,MusicalGroup
+Q158462,Lynyrd Skynyrd,1964-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q158895,Helloween,1984-01-01T00:00:00Z,power metal,Germany,MusicalGroup
+Q156872,Slade,1966-01-01T00:00:00Z,glam rock,United Kingdom,MusicalGroup
+Q3179668,Todos Tus Muertos,1985-01-01T00:00:00Z,punk rock,Argentina,MusicalGroup
+Q1161836,The Pointer Sisters,1969-01-01T00:00:00Z,soul,United States,MusicalGroup
+Q696050,Warlock,1982-01-01T00:00:00Z,heavy metal,Germany,MusicalGroup
+Q183048,The Beach Boys,1961-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q181874,Neu!,1971-01-01T00:00:00Z,Krautrock,Germany,MusicalGroup
+Q5494459,Ha*Ash,2002-04-23T00:00:00Z,country pop,United States,MusicalGroup
+Q166006,The Lemonheads,1986-01-01T00:00:00Z,college rock,United States,MusicalGroup
+Q7228997,Pop Evil,2001-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q165846,Operation Ivy,1987-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q41544316,Zuruckspulen,2013-01-01T00:00:00Z,synth-pop,United States,MusicalGroup
+Q170599,Arctic Monkeys,2002-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q151241,Westlife,1998-07-03T00:00:00Z,blue-eyed soul,Ireland,MusicalGroup
+Q146027,One Direction,2010-07-23T00:00:00Z,teen pop,United Kingdom,MusicalGroup
+Q153056,Destiny's Child,1990-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q20108759,Ràbia Positiva,1993-01-01T00:00:00Z,hardcore punk,Spain,MusicalGroup
+Q615471,M83,2001-01-01T00:00:00Z,synth-pop,France,MusicalGroup
+Q18747269,Síntesis,,progressive rock,Cuba,MusicalGroup
+Q153616,Tangerine Dream,1967-09-01T00:00:00Z,electronic music,Germany,MusicalGroup
+Q21426164,Ten Commando,,grunge,,MusicalGroup
+Q816079,Belly,1991-01-01T00:00:00Z,dream pop,United States,MusicalGroup
+Q28869470,The Anti-Patiks,2010-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q121501067,La Élite,2016-01-01T00:00:00Z,synth-punk,,MusicalGroup
+Q170132,Can,1968-01-01T00:00:00Z,Krautrock,Germany,MusicalGroup
+Q169472,Zebrahead,1996-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q180598,The Smiths,1984-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q185828,Daft Punk,1993-01-01T00:00:00Z,house music,France,MusicalGroup
+Q158419,Little Mix,2011-01-01T00:00:00Z,contemporary R&B,United Kingdom,MusicalGroup
+Q162586,Dream Theater,1985-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q180880,Pantera,1981-01-01T00:00:00Z,groove metal,United States,MusicalGroup
+Q169316,Plain White T's,1997-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q182890,Def Leppard,1977-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q163819,"10,000 Maniacs",1981-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q188713,The Kinks,1964-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q62266267,Hürlement,2003-01-01T00:00:00Z,traditional heavy metal,France,MusicalGroup
+Q176457,Supertramp,1969-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q176430,The Presidents of the United States of America,1993-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q178134,The Isley Brothers,1954-01-01T00:00:00Z,soul,United States,MusicalGroup
+Q175044,12 Stones,2000-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q165714,Live,1988-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q334652,Stereolab,1990-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q156049,Manowar,1980-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q152066,Take That,1990-01-01T00:00:00Z,funk,United Kingdom,MusicalGroup
+Q65065254,Judicator,2012-01-01T00:00:00Z,traditional heavy metal,United States,MusicalGroup
+Q192725,The Yardbirds,1963-01-01T00:00:00Z,rhythm and blues,United Kingdom,MusicalGroup
+Q192463,Creedence Clearwater Revival,1968-01-01T00:00:00Z,roots rock,United States,MusicalGroup
+Q192861,Venom,1979-01-01T00:00:00Z,speed metal,United Kingdom,MusicalGroup
+Q192486,Kings of Leon,1999-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q186318,Four Year Strong,2001-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q188626,Sonic Youth,1981-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q188407,Snow Patrol,1994-01-01T00:00:00Z,alternative rock,Scotland,MusicalGroup
+Q19798483,Blowfuse,2013-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q135211833,The Finz,,,United States,MusicalGroup
+Q107103185,Les Buch,2017-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q191352,Portishead,1991-01-01T00:00:00Z,experimental rock,United Kingdom,MusicalGroup
+Q112061524,SEES,2007-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q136514496,Avant Zoom,2024-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q63546531,Emmy & The Emmys,1980-01-01T00:00:00Z,post-punk,United States,MusicalGroup
+Q97657092,Dehd,2016-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q205001,Talking Heads,1975-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q184827,Tool,1990-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q184386,Yes,1968-01-01T00:00:00Z,symphonic rock,United Kingdom,MusicalGroup
+Q189991,Gorillaz,1998-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q192915,The Corrs,1990-01-01T00:00:00Z,alternative rock,Ireland,MusicalGroup
+Q192353,Jethro Tull,1967-12-01T00:00:00Z,psychedelic rock,United Kingdom,MusicalGroup
+Q617627,Spock's Beard,1992-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q136334199,The Audio Cartel,2007-01-01T00:00:00Z,,United States,MusicalGroup
+Q189635,Eagles,1971-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q189965,Whitesnake,1978-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q204289,Boston,1976-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q2893328,Beautiful Sin,2005-01-01T00:00:00Z,heavy metal,Sweden,MusicalGroup
+Q62027119,Gruesome,2014-01-01T00:00:00Z,death metal,,MusicalGroup
+Q126095445,Q126095445,2022-01-01T00:00:00Z,melodic hardcore,,MusicalGroup
+Q202741,Blondie,1974-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q203736,Cream,1966-01-01T00:00:00Z,jam band music,United Kingdom,MusicalGroup
+Q214039,Beastie Boys,1981-07-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q192983,TVXQ,2003-01-01T00:00:00Z,pop music,South Korea,MusicalGroup
+Q484839,Placebo,1994-01-01T00:00:00Z,Britpop,United Kingdom,MusicalGroup
+Q331790,Interpol,1997-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q11242779,Vanilla Beans,2007-01-01T00:00:00Z,J-pop,Japan,MusicalGroup
+Q76076474,Las Ultrasónicas,1996-01-01T00:00:00Z,surf music,Mexico,MusicalGroup
+Q3025814,Diabologum,1990-01-01T00:00:00Z,indie rock,,MusicalGroup
+Q113509592,Desechables,1981-01-01T00:00:00Z,,,MusicalGroup
+Q7231470,Portal,1994-01-01T00:00:00Z,black metal,Australia,MusicalGroup
+Q1513716,Wild Beasts,2002-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q189382,King Crimson,1968-01-01T00:00:00Z,art rock,United Kingdom,MusicalGroup
+Q207306,Godsmack,1995-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q199125,Love of Lesbian,1997-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q201669,Bad Religion,1980-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q211768,The Kooks,2004-01-01T00:00:00Z,post-punk revival,United Kingdom,MusicalGroup
+Q214990,New Order,1980-01-01T00:00:00Z,alternative dance,United Kingdom,MusicalGroup
+Q211965,The Moody Blues,1964-05-01T00:00:00Z,rhythm and blues,United Kingdom,MusicalGroup
+Q214486,Procol Harum,1967-01-01T00:00:00Z,art rock,United Kingdom,MusicalGroup
+Q212533,Grateful Dead,1965-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q221021,Yo La Tengo,1984-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q209182,Public Enemy,1986-01-01T00:00:00Z,East Coast hip-hop,United States,MusicalGroup
+Q185226,Nogizaka46,2011-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q212464,New Kids on the Block,1984-01-01T00:00:00Z,contemporary R&B,United States,MusicalGroup
+Q211277,The Mamas & the Papas,1965-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q211526,The Byrds,1964-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q220730,The Killers,2001-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q192843,Death,1983-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q223768,McFly,2004-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q224565,311,1988-01-01T00:00:00Z,funk rock,United States,MusicalGroup
+Q135826704,All American Boys,2025-01-01T00:00:00Z,ska punk,United States,MusicalGroup
+Q951819,Scratch Acid,1982-01-01T00:00:00Z,noise rock,United States,MusicalGroup
+Q223736,Velvet Revolver,2002-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q483285,My Chemical Romance,2001-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q24883151,Dynamic Rockers,2004-01-01T00:00:00Z,funk,Canada,MusicalGroup
+Q2872627,Automato,1995-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q105886167,La La Love You,,pop-punk,Spain,MusicalGroup
+Q19278215,Die Nerven,,post-punk,Germany,MusicalGroup
+Q222628,Small Faces,,psychedelic rock,United Kingdom,MusicalGroup
+Q208211,Dead Kennedys,1978-06-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q208507,The Chemical Brothers,1989-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q207706,Eurythmics,1980-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q207938,Owl City,2007-01-01T00:00:00Z,synth-pop,United States,MusicalGroup
+Q135683594,Q135683594,2021-01-01T00:00:00Z,shoegaze,United States,MusicalGroup
+Q2670460,Normaal,1975-01-01T00:00:00Z,dialect music,Netherlands,MusicalGroup
+Q136464306,Settle Your Scores,2014-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q202041,Jamiroquai,1992-01-01T00:00:00Z,funk,United Kingdom,MusicalGroup
+Q2412893,The Moonchild Trio,,hardcore punk,United States,MusicalGroup
+Q201918,Every Avenue,2003-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q3538020,Transwave,,psychedelic trance,,MusicalGroup
+Q16733086,My Excuse,,alternative rock,Greece,MusicalGroup
+Q270019,7 Seconds,1980-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q268160,The White Stripes,1997-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q265222,NOFX,1983-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q268359,Hatebreed,1994-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q263632,Platero y Tú,1989-01-01T00:00:00Z,rock and roll,Spain,MusicalGroup
+Q3532677,Total Eclipse,,psychedelic trance,,MusicalGroup
+Q651146,The Ditty Bops,2004-01-01T00:00:00Z,bluegrass music,United States,MusicalGroup
+Q114900526,667,,French hip-hop,France,MusicalGroup
+Q19606588,Babylone,2012-01-01T00:00:00Z,,,MusicalGroup
+Q277865,Fugazi,1987-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q277479,Leftfield,1990-01-01T00:00:00Z,electronic music,United Kingdom,MusicalGroup
+Q259254,Bon Jovi,1983-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q258546,In Flames,1990-01-01T00:00:00Z,melodic death metal,Sweden,MusicalGroup
+Q262317,Tinariwen,1979-01-01T00:00:00Z,desert blues,Algeria,MusicalGroup
+Q254371,Papa Roach,1993-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q278406,High on Fire,1998-01-01T00:00:00Z,stoner metal,United States,MusicalGroup
+Q225422,Men Without Hats,2003-01-01T00:00:00Z,rock music,Canada,MusicalGroup
+Q218837,The Supremes,1958-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q120187122,Q120187122,,punk subculture,Spain,MusicalGroup
+Q11859341,Faction,1967-01-01T00:00:00Z,rock music,Finland,MusicalGroup
+Q3273352,MXD,,crossover,,MusicalGroup
+Q124362995,Siroll!,2008-01-01T00:00:00Z,death metal,,MusicalGroup
+Q108199456,Zombi Pujol,2012-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q21569166,The Capaces,1999-01-01T00:00:00Z,garage rock,Spain,MusicalGroup
+Q3520798,The Experimental Tropic Blues Band,1999-01-01T00:00:00Z,rock and roll,Belgium,MusicalGroup
+Q116290936,Telethon,2014-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q111525544,Ratpenat,2018-01-01T00:00:00Z,doom metal,,MusicalGroup
+Q655648,Boys Like Girls,2005-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q273171,"Emerson, Lake & Palmer",1970-01-01T00:00:00Z,jazz rock,England,MusicalGroup
+Q272239,Twisted Sister,1972-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q250421,Killing Joke,1979-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q285108,Suicide,1970-01-01T00:00:00Z,electronic music,United States,MusicalGroup
+Q282925,The Hollies,1962-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q283487,Taking Back Sunday,1999-01-01T00:00:00Z,post-punk,United States,MusicalGroup
+Q283835,Carcass,1985-01-01T00:00:00Z,death metal,United Kingdom,MusicalGroup
+Q286792,Boysetsfire,1994-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q281894,Converge,1990-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q287690,The Hives,1989-01-01T00:00:00Z,garage rock,Sweden,MusicalGroup
+Q246352,Rise Against,1999-01-01T00:00:00Z,melodic hardcore,United States,MusicalGroup
+Q300935,Lukas Graham,2011-01-01T00:00:00Z,pop rock,Denmark,MusicalGroup
+Q21087582,The Suicide of Western Culture,,noise music,Spain,MusicalGroup
+Q3365077,Tages,1963-01-01T00:00:00Z,pop music,Sweden,MusicalGroup
+Q1514140,Mayday Parade,2005-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q300602,A Tribe Called Quest,1985-01-01T00:00:00Z,jazz rap,United States,MusicalGroup
+Q126540956,Ben and The Biorhythms,2008-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q116319937,Fado Bicha,2017-01-01T00:00:00Z,fado,Portugal,MusicalGroup
+Q300348,A Certain Ratio,1977-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q211770,T. Rex,1967-01-01T00:00:00Z,folk rock,United Kingdom,MusicalGroup
+Q301142,Descendents,1978-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q216856,N.W.A.,1986-01-01T00:00:00Z,gangsta rap,United States,MusicalGroup
+Q211583,The Strokes,1998-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q290750,ADX,1982-01-01T00:00:00Z,speed metal,France,MusicalGroup
+Q271984,Breaking Benjamin,1999-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q308816,Creed,1994-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q288918,Focus,1969-01-01T00:00:00Z,art rock,Netherlands,MusicalGroup
+Q292061,AFI,1991-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q246749,The Equals,1965-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q300386,A Day to Remember,2003-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q300519,A Perfect Circle,1999-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q221101,MxPx,1992-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q247949,Bush,1992-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q307319,W-inds,2001-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q294453,All,1987-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q309001,Morbid Angel,1984-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q247237,Q247237,1987-01-01T00:00:00Z,glitch,United Kingdom,MusicalGroup
+Q457731,Vision of Disorder,2008-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q456058,The Bled,2001-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q374747,Skillet,1996-01-01T00:00:00Z,symphonic metal,United States,MusicalGroup
+Q391348,Imagine Dragons,2008-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q135458550,Q135458550,2018-01-01T00:00:00Z,electronic pop,,MusicalGroup
+Q376035,American Hi-Fi,1998-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q339430,Simply Red,1984-01-01T00:00:00Z,jazz fusion,United Kingdom,MusicalGroup
+Q130486583,Q130486583,2022-01-01T00:00:00Z,traditional folk song,,MusicalGroup
+Q269091,Tears for Fears,1981-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q271283,808 State,1987-01-01T00:00:00Z,acid house,United Kingdom,MusicalGroup
+Q390590,Rancid,1991-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q379499,Spawn of Possession,1997-01-01T00:00:00Z,technical death metal,Sweden,MusicalGroup
+Q375364,No Use for a Name,1987-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q339863,Fonky Family,,hip-hop,France,MusicalGroup
+Q788589,Baha Men,1991-01-01T00:00:00Z,electronic dance music,The Bahamas,MusicalGroup
+Q101500239,Arsenal Mills,2019-01-01T00:00:00Z,rock music,Canada,MusicalGroup
+Q384424,Hey Violet,2008-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q110918175,Los Mambo Jambo,2009-01-01T00:00:00Z,rhythm and blues,Spain,MusicalGroup
+Q6669064,Candy Mafia,2009-01-01T00:00:00Z,pop music,,MusicalGroup
+Q383016,The Wailers,1963-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q2529057,The Pierces,2000-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q385618,Melvins,1983-01-01T00:00:00Z,sludge metal,United States,MusicalGroup
+Q360484,Adolescents,1979-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q430581,All Shall Perish,2002-01-01T00:00:00Z,deathcore,United States,MusicalGroup
+Q404317,Saigon Kick,1930-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q357418,Massive Attack,1988-01-01T00:00:00Z,trip hop,United Kingdom,MusicalGroup
+Q389364,Amparanoia,,rock music,Spain,MusicalGroup
+Q391969,MGMT,2002-01-01T00:00:00Z,neo-psychedelia,United States,MusicalGroup
+Q420023,Tony! Toni! Toné!,1988-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q431355,Modest Mouse,1993-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q405269,Cattle Decapitation,1996-01-01T00:00:00Z,deathgrind,United States,MusicalGroup
+Q357340,Bon Iver,2006-01-01T00:00:00Z,indie folk,United States,MusicalGroup
+Q426015,Wizzard,1972-01-01T00:00:00Z,glam rock,United Kingdom,MusicalGroup
+Q285966,Hawkwind,1969-01-01T00:00:00Z,psychedelic rock,United Kingdom,MusicalGroup
+Q334648,Roxy Music,1971-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q285190,Molly Hatchet,1975-01-01T00:00:00Z,southern rock,United States,MusicalGroup
+Q285481,Bôa,1993-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q112584337,Judy and The Jerks,,hardcore punk,,MusicalGroup
+Q371997,Barenaked Ladies,1988-01-01T00:00:00Z,folk rock,Canada,MusicalGroup
+Q68829640,The Remote Junkies,1999-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q467673,W.A.S.P.,1982-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q478629,The Dubliners,1962-01-01T00:00:00Z,Irish folk music,Ireland,MusicalGroup
+Q371535,Skinny Puppy,1982-01-01T00:00:00Z,industrial rock,Canada,MusicalGroup
+Q133868388,Q133868388,1997-01-01T00:00:00Z,,,MusicalGroup
+Q134737655,No Resolve,2005-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q115015633,The Representatives of Monkey Jack,2021-01-01T00:00:00Z,indie rock,Germany,MusicalGroup
+Q276460,Les Disques du Crépuscule,1980-01-01T00:00:00Z,,,MusicalGroup
+Q376283,Mad Season,1994-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q370165,Dream,1998-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q311785,Misfits,1977-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q369108,Scred Connexion,,hip-hop,France,MusicalGroup
+Q96065650,As Sublimes,1993-01-01T00:00:00Z,African-American music,Brazil,MusicalGroup
+Q482444,Matchbox Twenty,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1358175,Refused,1991-01-01T00:00:00Z,hardcore punk,Sweden,MusicalGroup
+Q584735,Les Rita Mitsouko,1980-01-01T00:00:00Z,new wave,France,MusicalGroup
+Q588820,Cocteau Twins,1979-01-01T00:00:00Z,shoegaze,United Kingdom,MusicalGroup
+Q581587,Brams,1990-01-01T00:00:00Z,reggae,Spain,MusicalGroup
+Q114963738,Q114963738,2012-01-01T00:00:00Z,pop music,Spain,MusicalGroup
+Q136648326,The Mop Tops,1985-01-01T00:00:00Z,,Sweden,MusicalGroup
+Q133802081,Maybe You're Right,2023-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q583556,Average White Band,1972-01-01T00:00:00Z,blue-eyed soul,United Kingdom,MusicalGroup
+Q591279,Squeeze,1974-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q595862,God Forbid,1996-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q141703,The Futureheads,2000-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q591691,Sublime,1988-01-01T00:00:00Z,ska punk,United States,MusicalGroup
+Q464369,American Football,1997-01-01T00:00:00Z,post-rock,United States,MusicalGroup
+Q452011,Merzbow,1979-01-01T00:00:00Z,harsh noise,Japan,MusicalGroup
+Q465862,Steppenwolf,1967-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q465198,The Plimsouls,1978-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q464036,The Monkees,1966-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q464749,Journey,1973-01-01T00:00:00Z,arena rock,United States,MusicalGroup
+Q395013,Agnostic Front,1980-01-01T00:00:00Z,crossover thrash,United States,MusicalGroup
+Q425772,Ministry,1981-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q483828,Sigur Rós,1994-01-01T00:00:00Z,post-rock,Iceland,MusicalGroup
+Q612657,Dr. Calypso,,reggae,Spain,MusicalGroup
+Q473466,Paramore,2003-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q598585,Triana,1974-01-01T00:00:00Z,psychedelic rock,Spain,MusicalGroup
+Q115246741,Juice Girls,,pop rock,Canada,MusicalGroup
+Q547272,Animal Collective,1999-01-01T00:00:00Z,psychedelic music,United States,MusicalGroup
+Q569408,Meshuggah,1987-01-01T00:00:00Z,extreme metal,Sweden,MusicalGroup
+Q612471,Camel,1971-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q609002,El Canto del Loco,2000-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q656291,The Stanley Brothers,1946-01-01T00:00:00Z,bluegrass music,United States,MusicalGroup
+Q575400,Sugar Ray,1986-01-01T00:00:00Z,funk metal,United States,MusicalGroup
+Q126093942,Q126093942,2019-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q572821,Big Black,1981-01-01T00:00:00Z,noise rock,United States,MusicalGroup
+Q614728,CoCo,1989-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q576723,Sly and Robbie,1970-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q600344,The Band,,Americana,Canada,MusicalGroup
+Q576420,Ojos de Brujo,1996-01-01T00:00:00Z,reggae,Spain,MusicalGroup
+Q110156519,Anal Hard,2000-01-01T00:00:00Z,metalcore,,MusicalGroup
+Q574663,Anti-Flag,1989-01-01T00:00:00Z,street punk,United States,MusicalGroup
+Q647370,Mercyful Fate,1981-01-01T00:00:00Z,heavy metal,Denmark,MusicalGroup
+Q107486549,Q107486549,,skate punk,,MusicalGroup
+Q600311,Cock Sparrer,1972-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q570025,Screeching Weasel,1986-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q568617,Grizzly Bear,2002-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q547438,Skids,1977-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q578270,Explosions in the Sky,1999-01-01T00:00:00Z,post-rock,United States,MusicalGroup
+Q124364994,Assot,2010-01-01T00:00:00Z,sludge metal,,MusicalGroup
+Q677115,The Slits,1976-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q653480,Four Tops,1954-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q643005,The Wallflowers,1989-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q664459,Humble Pie,1969-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q673364,Obrint Pas,,ska rock,,MusicalGroup
+Q642988,Jimmy Eat World,1993-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q4916080,Birds in Row,2009-01-01T00:00:00Z,screamo,France,MusicalGroup
+Q645980,Mogwai,1995-01-01T00:00:00Z,post-rock,United Kingdom,MusicalGroup
+Q648940,Symphony X,1994-01-01T00:00:00Z,progressive metal,United States,MusicalGroup
+Q645639,Main Source,1989-01-01T00:00:00Z,hip-hop,Canada,MusicalGroup
+Q908712,The Black Dahlia Murder,2001-01-01T00:00:00Z,melodic death metal,United States,MusicalGroup
+Q674913,Touché Amoré,2007-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q393401,Aggro Berlin,2001-01-01T00:00:00Z,crunk,,MusicalGroup
+Q841042,My Bloody Valentine,1983-01-01T00:00:00Z,dream pop,Ireland,MusicalGroup
+Q850645,New Found Glory,1997-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q840197,Candlemass,1984-01-01T00:00:00Z,epic doom metal,Sweden,MusicalGroup
+Q323834,Siouxsie and the Banshees,1976-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q858388,The Cars,1976-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q842336,Crass,1977-01-01T00:00:00Z,art rock,United Kingdom,MusicalGroup
+Q845465,Toots and the Maytals,1966-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q842156,Lagwagon,1990-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q845265,Public Image Ltd.,1978-01-01T00:00:00Z,post-punk,United Kingdom,MusicalGroup
+Q321762,Napalm Death,1981-01-01T00:00:00Z,hardcore punk,United Kingdom,MusicalGroup
+Q832086,Dave Matthews Band,1991-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q830586,New York Dolls,1971-01-01T00:00:00Z,shock rock,United States,MusicalGroup
+Q831029,Nouvelle Vague,2003-01-01T00:00:00Z,new wave,France,MusicalGroup
+Q839149,Disavowed,2000-01-01T00:00:00Z,death metal,Netherlands,MusicalGroup
+Q318452,Air,1995-01-01T00:00:00Z,electronica,France,MusicalGroup
+Q313779,Everything but the Girl,1982-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q845449,The Skatalites,,ska,,MusicalGroup
+Q845759,Temple of the Dog,1990-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q438628,Alternative Tentacles,1979-01-01T00:00:00Z,,,MusicalGroup
+Q772035,Indigo Girls,1985-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q487919,The Sweet,1968-01-01T00:00:00Z,bubblegum music,United Kingdom,MusicalGroup
+Q764483,Dope,1997-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q486825,Three Days Grace,1992-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q485820,Blur,1988-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q765243,Vanilla Fudge,1966-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q488562,Angels & Airwaves,2005-01-01T00:00:00Z,neo-prog,United States,MusicalGroup
+Q246677,Astral Projection,1989-01-01T00:00:00Z,psychedelic trance,Israel,MusicalGroup
+Q498460,My Dying Bride,1990-01-01T00:00:00Z,death-doom,United Kingdom,MusicalGroup
+Q494784,Bring Me the Horizon,2004-01-01T00:00:00Z,metalcore,United Kingdom,MusicalGroup
+Q493098,Tsunami Bomb,,punk rock,United States,MusicalGroup
+Q485893,Marilyn Manson,1989-01-01T00:00:00Z,industrial metal,United States,MusicalGroup
+Q749979,Béla Fleck and the Flecktones,1988-01-01T00:00:00Z,space rock,United States,MusicalGroup
+Q499757,Tarakany!,1991-01-01T00:00:00Z,pop-punk,Russia,MusicalGroup
+Q502894,Rockbitch,1984-01-01T00:00:00Z,alternative metal,United Kingdom,MusicalGroup
+Q489801,INXS,1977-01-01T00:00:00Z,alternative rock,Australia,MusicalGroup
+Q320499,Faith No More,1983-09-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q484918,Simon & Garfunkel,1957-01-01T00:00:00Z,folk-pop,United States,MusicalGroup
+Q502967,Art of Noise,1983-01-01T00:00:00Z,synth-pop,United Kingdom,MusicalGroup
+Q489293,The Call,1980-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q832446,Better Than Ezra,1988-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q769430,BulletBoys,1987-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q750954,Filter,1993-01-01T00:00:00Z,industrial rock,United States,MusicalGroup
+Q751814,The Sisters of Mercy,1980-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q747112,Dag Nasty,1985-01-01T00:00:00Z,melodic hardcore,United States,MusicalGroup
+Q754051,Pennywise,1988-01-01T00:00:00Z,melodic hardcore,United States,MusicalGroup
+Q752410,House of Pain,1991-01-01T00:00:00Z,hardcore hip-hop,United States,MusicalGroup
+Q770732,The Ventures,1958-01-01T00:00:00Z,surf music,United States,MusicalGroup
+Q762966,Sexion d'Assaut,2002-01-01T00:00:00Z,hip-hop,France,MusicalGroup
+Q762674,Negu Gorriak,1990-01-01T00:00:00Z,rapping,Spain,MusicalGroup
+Q749502,Five Finger Death Punch,2005-01-01T00:00:00Z,groove metal,United States,MusicalGroup
+Q1463593,Out Hud,1996-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q1622663,Hocus Pocus,,hip-hop,France,MusicalGroup
+Q768621,Hanson,1992-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q765177,The Standells,1962-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q745517,Bad Company,1973-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q750455,Astralasia,,,United Kingdom,MusicalGroup
+Q748836,Simple Minds,1977-01-01T00:00:00Z,new wave,Scotland,MusicalGroup
+Q9081459,Tag Team,1993-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q56550697,Year of the Goat,2006-01-01T00:00:00Z,occult rock,Sweden,MusicalGroup
+Q7679669,Talk Show,,alternative rock,United States,MusicalGroup
+Q56248912,Deche-Charge,1990-08-01T00:00:00Z,noisegrind,Canada,MusicalGroup
+Q122739,Bitch,1980-01-01T00:00:00Z,speed metal,United States,MusicalGroup
+Q120098022,Fox System,2016-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q485220,Good Charlotte,1996-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q606226,The Black Keys,2001-01-01T00:00:00Z,blues rock,United States,MusicalGroup
+Q478750,Dio,1982-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q593366,Collective Soul,1992-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q595705,Talk Talk,1981-01-01T00:00:00Z,post-rock,United Kingdom,MusicalGroup
+Q622944,Dinosaur Jr.,1984-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q485116,Mayhem,1984-01-01T00:00:00Z,black metal,Norway,MusicalGroup
+Q622947,Jane's Addiction,1985-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q484427,The Cure,1976-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q484595,Anal Cunt,1988-01-01T00:00:00Z,grindcore,United States,MusicalGroup
+Q622815,Grand Funk Railroad,1968-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q485231,Cannibal Corpse,1988-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q485673,Garbage,1993-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q660835,Nile,1993-01-01T00:00:00Z,technical death metal,United States,MusicalGroup
+Q670403,GUT,1991-01-01T00:00:00Z,grindcore,Germany,MusicalGroup
+Q673420,Concrete Blonde,1982-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q672432,Necrophagist,1992-01-01T00:00:00Z,technical death metal,Germany,MusicalGroup
+Q667389,The Pretenders,1978-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q1813924,La Pegatina,2003-01-01T00:00:00Z,rumba flamenca,Spain,MusicalGroup
+Q667342,Count Five,1964-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q616642,Broken Social Scene,1999-01-01T00:00:00Z,art rock,Canada,MusicalGroup
+Q664248,Love,1965-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q665979,Reel Big Fish,1992-01-01T00:00:00Z,ska punk,United States,MusicalGroup
+Q671359,Immolation,1986-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q951225,Zvuki Mu,1981-01-01T00:00:00Z,smooth jazz,Russia,MusicalGroup
+Q951348,The Rivieras,1962-01-01T00:00:00Z,rock and roll,United States,MusicalGroup
+Q943982,Rites of Spring,1984-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q950309,The B-52's,1976-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q950290,Crazyhead,,punk rock,United Kingdom,MusicalGroup
+Q947955,The Residents,1972-01-01T00:00:00Z,avant-garde,United States,MusicalGroup
+Q952245,Berri Txarrak,1994-01-01T00:00:00Z,alternative rock,Spain,MusicalGroup
+Q21426156,Feu! Chatterton,,rock music,France,MusicalGroup
+Q702634,The Monks,1964-01-01T00:00:00Z,garage rock,West Germany,MusicalGroup
+Q627269,Black Veil Brides,2006-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q687651,The Gathering,1989-01-01T00:00:00Z,progressive metal,Netherlands,MusicalGroup
+Q795030,Brujeria,1989-01-01T00:00:00Z,groove metal,United States,MusicalGroup
+Q631948,Cracker,1990-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q777302,Two Door Cinema Club,2007-01-01T00:00:00Z,electropop,United Kingdom,MusicalGroup
+Q798232,Bachman–Turner Overdrive,1973-01-01T00:00:00Z,hard rock,Canada,MusicalGroup
+Q637727,Envy,1992-01-01T00:00:00Z,alternative rock,Japan,MusicalGroup
+Q687785,The Four Seasons,1960-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q690904,At the Drive-In,1993-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q690775,Maylene and the Sons of Disaster,2004-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q798671,Bad Brains,1977-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q682021,The Groundhogs,,blues rock,United Kingdom,MusicalGroup
+Q624538,Jawbreaker,1988-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q686939,Thee Headcoatees,1991-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q623921,Drowning Pool,1996-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q685595,De La Soul,1987-01-01T00:00:00Z,jazz rap,United States,MusicalGroup
+Q637771,Wilco,1993-01-01T00:00:00Z,alternative country,United States,MusicalGroup
+Q697954,Atari Teenage Riot,1992-01-01T00:00:00Z,digital hardcore,Germany,MusicalGroup
+Q691605,The Deviants,,progressive rock,United Kingdom,MusicalGroup
+Q694170,Die Fantastischen Vier,1986-01-01T00:00:00Z,hip-hop,Germany,MusicalGroup
+Q780669,Karkwa,1998-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q783088,Inside Out,1988-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q681234,Les Cowboys Fringants,1997-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q120727626,Bdrmm,2016-01-01T00:00:00Z,shoegaze,,MusicalGroup
+Q850540,Milli Vanilli,1988-01-01T00:00:00Z,pop music,Germany,MusicalGroup
+Q858365,Biffy Clyro,1995-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q856941,Ratt,1976-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q858688,Big Brother and the Holding Company,1965-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q860153,Bikini Kill,1990-01-01T00:00:00Z,riot grrrl,United States,MusicalGroup
+Q849429,Underworld,1979-01-01T00:00:00Z,techno,United Kingdom,MusicalGroup
+Q862223,Hüsker Dü,1979-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q850290,Kool & The Gang,1964-01-01T00:00:00Z,soul,United States,MusicalGroup
+Q728049,Golden Earring,1961-09-02T00:00:00Z,classic rock,Netherlands,MusicalGroup
+Q803876,Biohazard,1987-01-01T00:00:00Z,New York hardcore,United States,MusicalGroup
+Q728958,Foals,2005-01-01T00:00:00Z,math rock,United Kingdom,MusicalGroup
+Q812073,Bay City Rollers,1966-01-01T00:00:00Z,power pop,Scotland,MusicalGroup
+Q814482,Beherit,1989-01-01T00:00:00Z,black metal,Finland,MusicalGroup
+Q826185,Busted,2000-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q808701,Baroness,2003-01-01T00:00:00Z,sludge metal,United States,MusicalGroup
+Q731721,Plastic Ono Band,1969-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q727115,Mobb Deep,1992-01-01T00:00:00Z,gangsta rap,United States,MusicalGroup
+Q728559,Quicksand,1990-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q804567,Blue Cheer,1967-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q733863,Fountains of Wayne,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q804260,Black Uhuru,1972-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q810908,Battalion of Saints,,hardcore punk,United States,MusicalGroup
+Q736089,CKY,1998-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q830316,MC5,1964-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q822462,Born Against,1989-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q728289,Toy Dolls,1979-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q741661,Spinal Tap,1982-01-01T00:00:00Z,traditional heavy metal,United States,MusicalGroup
+Q908848,Devo,1972-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q899341,Suicidal Tendencies,1981-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q904921,The Sonics,1960-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q733182,Hall & Oates,1972-01-01T00:00:00Z,blue-eyed soul,United States,MusicalGroup
+Q702361,Inside Out Music,1996-01-01T00:00:00Z,heavy metal,Germany,MusicalGroup
+Q898820,Mudhoney,1988-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q902881,Fishbone,1979-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q891829,Bombay Bicycle Club,2005-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q907540,Puddle of Mudd,1992-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q908396,Malevolent Creation,1987-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q743353,Iron Butterfly,1966-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q897754,Brand New,2000-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q474627,Amphetamine Reptile Records,1986-01-01T00:00:00Z,,,MusicalGroup
+Q844524,Gang Starr,1985-01-01T00:00:00Z,East Coast hip-hop,United States,MusicalGroup
+Q105083104,Q105083104,2018-01-01T00:00:00Z,indietronica,Netherlands,MusicalGroup
+Q10319684,Looking for an Answer,1999-01-01T00:00:00Z,death metal,Spain,MusicalGroup
+Q427469,Right Said Fred,1989-01-01T00:00:00Z,pop rock,United Kingdom,MusicalGroup
+Q1045752,Phoenix,1999-01-01T00:00:00Z,rock music,France,MusicalGroup
+Q541737,Fastball,1994-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1035697,Cardiacs,1977-01-01T00:00:00Z,experimental rock,United Kingdom,MusicalGroup
+Q1040688,Flatt and Scruggs,1948-01-01T00:00:00Z,bluegrass music,United States,MusicalGroup
+Q1052139,The Roots,1987-01-01T00:00:00Z,conscious hip-hop,United States,MusicalGroup
+Q806241,Banda Bassotti,1987-01-01T00:00:00Z,oi!,Italy,MusicalGroup
+Q1047508,Our Lady Peace,1992-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q970502,The Kingsmen,1959-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q535685,Princess Princess,1983-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q533478,The Alan Parsons Project,1975-01-01T00:00:00Z,art rock,United Kingdom,MusicalGroup
+Q542745,Angra,1991-10-23T00:00:00Z,progressive metal,Brazil,MusicalGroup
+Q895390,Bow Wow Wow,1980-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q512312,Soul Asylum,1983-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q522849,Winger,1987-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q530863,Ange,1970-01-01T00:00:00Z,progressive rock,France,MusicalGroup
+Q1052297,Puya,1988-01-01T00:00:00Z,Latin metal,United States,MusicalGroup
+Q47459173,Hańba!,2013-01-01T00:00:00Z,klezmer,Poland,MusicalGroup
+Q726773,Gnarls Barkley,2003-01-01T00:00:00Z,neo soul,United States,MusicalGroup
+Q1060468,Danity Kane,2005-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q1062152,Bump of Chicken,1994-01-01T00:00:00Z,indie rock,Japan,MusicalGroup
+Q5245712,Deadsquad,2006-01-01T00:00:00Z,death metal,,MusicalGroup
+Q1064319,Goldfinger,1994-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q1058090,Tunnels,1980-01-01T00:00:00Z,J-pop,Japan,MusicalGroup
+Q923253,D.O.A.,1978-01-01T00:00:00Z,hardcore punk,Canada,MusicalGroup
+Q915714,Bright Eyes,1995-01-01T00:00:00Z,reggae,United States,MusicalGroup
+Q925677,Broken Bells,2009-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q976882,Social Distortion,1978-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q927112,Less Than Jake,1992-01-01T00:00:00Z,ska punk,United States,MusicalGroup
+Q922528,Cameo,1974-01-01T00:00:00Z,disco,United States,MusicalGroup
+Q504090,Saxon,1975-01-01T00:00:00Z,heavy metal,United Kingdom,MusicalGroup
+Q713438,F4,,C-pop,Taiwan,MusicalGroup
+Q922155,Broadcast,1995-01-01T00:00:00Z,electronic music,United Kingdom,MusicalGroup
+Q927927,Bronski Beat,1983-01-01T00:00:00Z,dance-rock,United Kingdom,MusicalGroup
+Q5140037,Code Orange,2008-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q913662,The Distillers,1998-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q913673,Underoath,1997-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q917541,Brinsley Schwarz,1969-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q927618,The Paragons,,ska,Jamaica,MusicalGroup
+Q928304,The Fugs,1964-01-01T00:00:00Z,poetry,United States,MusicalGroup
+Q924413,24-7 Spyz,1986-01-01T00:00:00Z,funk metal,United States,MusicalGroup
+Q1074367,Chingon,,rock music,United States,MusicalGroup
+Q912909,The Raconteurs,2005-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1066024,The Replacements,1979-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q909483,Spin Doctors,1990-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q910170,Mongol800,,Japanese ska,Japan,MusicalGroup
+Q909731,All Time Low,2003-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q909810,Leningrad,1997-01-01T00:00:00Z,folk music,Russia,MusicalGroup
+Q961810,The Chariot,2003-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q957718,Wheatus,1995-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q910349,Go-Bang's,1983-01-01T00:00:00Z,rock music,Japan,MusicalGroup
+Q958875,Israel Vibration,1970-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q976991,Dashboard Confessional,1999-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q910354,Wisin & Yandel,1998-01-01T00:00:00Z,reggaeton,Puerto Rico,MusicalGroup
+Q973104,Cockney Rejects,1979-01-01T00:00:00Z,oi!,United Kingdom,MusicalGroup
+Q1068887,Inti-Illimani,1967-01-01T00:00:00Z,avant-garde music,Chile,MusicalGroup
+Q1070944,Chevelle,1995-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q1068859,Chatmonchy,2000-01-01T00:00:00Z,J-pop,Japan,MusicalGroup
+Q1075066,Chixdiggit,1991-01-01T00:00:00Z,pop-punk,Canada,MusicalGroup
+Q1089581,The Oppressed,,punk rock,United Kingdom,MusicalGroup
+Q742804,TLC,1991-01-01T00:00:00Z,new jack swing,United States,MusicalGroup
+Q329178,Justice,2003-01-01T00:00:00Z,electro house,France,MusicalGroup
+Q331016,Blue Öyster Cult,1967-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q741836,Primus,1984-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q740623,White Zombie,1985-01-01T00:00:00Z,noise rock,United States,MusicalGroup
+Q741316,The KLF,1987-01-01T00:00:00Z,house music,United Kingdom,MusicalGroup
+Q728707,Noir Désir,1980-01-01T00:00:00Z,punk rock,France,MusicalGroup
+Q736766,Wolfmother,2000-01-01T00:00:00Z,stoner rock,Australia,MusicalGroup
+Q1180791,The Dead Boys,1976-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q5807252,Dimitri Vegas & Like Mike,2007-01-01T00:00:00Z,electronic dance music,Belgium,MusicalGroup
+Q1120697,Weather Report,1970-01-01T00:00:00Z,jazz,United States,MusicalGroup
+Q1196122,Radwimps,2001-01-01T00:00:00Z,indie rock,Japan,MusicalGroup
+Q1130624,Gang of Four,1977-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1134615,Violent Femmes,1980-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q1127431,Green River,1984-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q1182111,Decrepit Birth,2001-01-01T00:00:00Z,death metal,United States,MusicalGroup
+Q1111770,Eater,1976-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1402204,Stage Bottles,1993-01-01T00:00:00Z,punk rock,Germany,MusicalGroup
+Q1122583,Indochine,1981-01-01T00:00:00Z,new wave,France,MusicalGroup
+Q1126287,Mott the Hoople,1969-01-01T00:00:00Z,glam rock,United Kingdom,MusicalGroup
+Q1133828,The Move,1965-01-01T00:00:00Z,psychedelic rock,United Kingdom,MusicalGroup
+Q1208723,Diamond Rio,1982-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q1512507,You Me at Six,2004-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q1201201,Dethklok,2006-01-01T00:00:00Z,melodic death metal,United States,MusicalGroup
+Q1184597,Delorean,2000-01-01T00:00:00Z,pop music,Spain,MusicalGroup
+Q1209174,Whiteberry,1994-01-01T00:00:00Z,J-pop,Japan,MusicalGroup
+Q7401935,Saint Motel,,indie pop,United States,MusicalGroup
+Q1183784,Del Amitri,1983-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q939139,Poison the Well,1997-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q943241,Gentle Giant,1970-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q936474,Mano Negra,1987-01-01T00:00:00Z,French rock,France,MusicalGroup
+Q943253,The Troggs,1964-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q933207,Tank,1980-01-01T00:00:00Z,new wave of British heavy metal,United Kingdom,MusicalGroup
+Q938630,Dropkick Murphys,1996-01-01T00:00:00Z,Celtic punk,United States,MusicalGroup
+Q743137,The Associates,1979-01-01T00:00:00Z,post-punk,Scotland,MusicalGroup
+Q884163,Blind Melon,1990-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q887376,The Cult,1983-01-01T00:00:00Z,post-punk,United Kingdom,MusicalGroup
+Q890064,Body Count,1990-01-01T00:00:00Z,thrash metal,United States,MusicalGroup
+Q885829,Blue October,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q931471,Sick of It All,1986-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q880805,Blackfire,1989-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q939329,Buzzcocks,1976-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q935223,Last Resort,1980-01-01T00:00:00Z,oi!,United Kingdom,MusicalGroup
+Q941662,Heart,1973-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q866698,Bisso Na Bisso,,hip-hop,France,MusicalGroup
+Q881063,Blaggers ITA,,punk rock,United Kingdom,MusicalGroup
+Q1639080,Kowloon Walled City,2007-01-01T00:00:00Z,sludge metal,United States,MusicalGroup
+Q100900626,Little Cities,2018-01-01T00:00:00Z,indie pop,,MusicalGroup
+Q129211219,Superuva,1991-01-01T00:00:00Z,,,MusicalGroup
+Q4641147,5 Seconds of Summer,2011-01-01T00:00:00Z,pop rock,Australia,MusicalGroup
+Q125187779,Q125187779,2016-01-01T00:00:00Z,pop-punk,,MusicalGroup
+Q508678,Budgie,1967-01-01T00:00:00Z,traditional heavy metal,United Kingdom,MusicalGroup
+Q929683,Brooks & Dunn,1990-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q916461,The Jam,1972-01-01T00:00:00Z,mod revival,United Kingdom,MusicalGroup
+Q504464,Pulp,1978-01-01T00:00:00Z,Britpop,United Kingdom,MusicalGroup
+Q926269,Mutemath,2003-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q133809820,Q133809820,2021-01-01T00:00:00Z,dancehall,,MusicalGroup
+Q519515,Falling in Reverse,2008-01-01T00:00:00Z,metalcore,United States,MusicalGroup
+Q722232,Switchfoot,1996-01-01T00:00:00Z,progressive rock,United States,MusicalGroup
+Q594199,Blancmange,1979-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q521396,Angelic Upstarts,1977-01-01T00:00:00Z,oi!,United Kingdom,MusicalGroup
+Q1579194,Radio Moscow,2003-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q507327,The Allman Brothers Band,1969-01-01T00:00:00Z,southern rock,United States,MusicalGroup
+Q526132,Entombed,1987-01-01T00:00:00Z,death metal,Sweden,MusicalGroup
+Q530886,The Ronettes,1959-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q1035077,Captain & Tennille,,easy listening,United States,MusicalGroup
+Q524387,The Nation of Ulysses,,hardcore punk,United States,MusicalGroup
+Q523957,Funkadelic,1968-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q1024639,C+C Music Factory,,house music,United States,MusicalGroup
+Q522463,Circle Jerks,1994-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1135391,Corrosion of Conformity,1982-01-01T00:00:00Z,stoner metal,United States,MusicalGroup
+Q1133807,Sly and the Family Stone,1967-01-01T00:00:00Z,psychedelic soul,United States,MusicalGroup
+Q992295,The Gap Band,1967-01-01T00:00:00Z,quiet storm,United States,MusicalGroup
+Q1138104,The Veer Union,2004-01-01T00:00:00Z,hard rock,Canada,MusicalGroup
+Q1138185,L7,2014-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1142016,Lit,1988-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1026652,Calexico,1996-01-01T00:00:00Z,roots rock,United States,MusicalGroup
+Q1132613,Meat Puppets,1980-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1132765,Mazzy Star,1989-01-01T00:00:00Z,dream pop,United States,MusicalGroup
+Q1141454,The Dave Clark Five,1957-01-01T00:00:00Z,pop rock,United Kingdom,MusicalGroup
+Q1138174,Cowboy Junkies,1986-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q1141238,The Guess Who,1965-01-01T00:00:00Z,progressive rock,Canada,MusicalGroup
+Q1027165,Three 6 Mafia,1991-01-01T00:00:00Z,gangsta rap,United States,MusicalGroup
+Q1001450,Finch,1999-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q1019489,Bérurier Noir,1978-01-01T00:00:00Z,punk rock,France,MusicalGroup
+Q1018174,Butthole Surfers,1981-01-01T00:00:00Z,art punk,United States,MusicalGroup
+Q1135620,Wire,1976-01-01T00:00:00Z,art punk,United Kingdom,MusicalGroup
+Q1136388,Faces,1969-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q1335689,White Lion,1983-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q1336013,Shiritsu Ebisu Chugaku,2009-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q1325248,Os Mutantes,1966-01-01T00:00:00Z,música popular brasileira,Brazil,MusicalGroup
+Q1262803,Dub War,1993-01-01T00:00:00Z,alternative metal,United Kingdom,MusicalGroup
+Q105271690,A.S.T.R.A.,,progressive rock,Italy,MusicalGroup
+Q58374492,Isák,2017-01-01T00:00:00Z,joik,Norway,MusicalGroup
+Q108911706,Memento Mori Hardcore,2010-01-01T00:00:00Z,hardcore punk,,MusicalGroup
+Q1291507,Ohio Players,1959-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q506670,The Doobie Brothers,,pop music,United States,MusicalGroup
+Q744087,Wham!,1981-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q1327973,The Mighty Mighty Bosstones,1983-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q16682638,Vigon Bamy Jay,2013-01-01T00:00:00Z,soul,France,MusicalGroup
+Q329270,Stone Temple Pilots,1989-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q1312613,Kyo,1994-01-01T00:00:00Z,pop rock,France,MusicalGroup
+Q1338793,Millencolin,1992-01-01T00:00:00Z,pop-punk,Sweden,MusicalGroup
+Q1318954,Kassav',1979-01-01T00:00:00Z,cadence rampa,France,MusicalGroup
+Q1291981,All-4-One,1993-01-01T00:00:00Z,contemporary R&B,United States,MusicalGroup
+Q1339989,The Haunted,1996-01-01T00:00:00Z,thrash metal,Sweden,MusicalGroup
+Q1333372,Els Pets,1985-12-24T00:00:00Z,pop rock,Spain,MusicalGroup
+Q1282674,Eddie and the Hot Rods,,new wave,United Kingdom,MusicalGroup
+Q1338638,Them,1964-01-01T00:00:00Z,garage rock,Northern Ireland,MusicalGroup
+Q1092848,Judy and Mary,1992-01-01T00:00:00Z,punk rock,Japan,MusicalGroup
+Q205838,Bloc Party,2003-01-01T00:00:00Z,indie rock,United Kingdom,MusicalGroup
+Q742700,Rich Kids on LSD,,hardcore punk,United States,MusicalGroup
+Q1346522,Nazz,1967-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q1355578,Ghost,2006-01-01T00:00:00Z,arena rock,Sweden,MusicalGroup
+Q1358683,Wilson Phillips,1989-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q1359424,Mount Kimbie,,electronic music,United Kingdom,MusicalGroup
+Q1157004,Generation X,1976-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1543866,Grausame Töchter,2009-01-01T00:00:00Z,electro-industrial,Germany,MusicalGroup
+Q1033047,Candlebox,1990-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q1027200,Calle 13,2004-01-01T00:00:00Z,Latin hip-hop,United States,MusicalGroup
+Q1030927,Camper Van Beethoven,1983-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1142703,Alkaline Trio,1996-01-01T00:00:00Z,emo,United States,MusicalGroup
+Q1163207,The Zombies,1961-01-01T00:00:00Z,rock music,United Kingdom,MusicalGroup
+Q1169219,Pierce the Veil,2006-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q1160206,Television,1973-01-01T00:00:00Z,post-punk,United States,MusicalGroup
+Q1147061,Mr. Bungle,1985-01-01T00:00:00Z,experimental music,United States,MusicalGroup
+Q1154614,Dirty Projectors,2002-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q1165655,Throbbing Gristle,1975-01-01T00:00:00Z,industrial music,United Kingdom,MusicalGroup
+Q1143521,Cult of Luna,1999-01-01T00:00:00Z,post-metal,Sweden,MusicalGroup
+Q1161663,Stray Cats,1980-01-01T00:00:00Z,rockabilly,United States,MusicalGroup
+Q1028582,Camera silens,1981-01-01T00:00:00Z,oi!,France,MusicalGroup
+Q110485867,Groggy Rude,2016-01-01T00:00:00Z,oi!,Spain,MusicalGroup
+Q2095846,Pink Fairies,1969-01-01T00:00:00Z,psychedelic rock,United Kingdom,MusicalGroup
+Q105279583,Chill Mafia,,trap music,Spain,MusicalGroup
+Q2860182,Archimède,,French rock,France,MusicalGroup
+Q2078198,The Brothers Johnson,1975-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q101534582,A. Armada,2004-01-01T00:00:00Z,post-rock,United States,MusicalGroup
+Q55697129,The Oath,2012-07-07T00:00:00Z,occult rock,Germany,MusicalGroup
+Q2083578,Double Trouble,1978-01-01T00:00:00Z,blues rock,United States,MusicalGroup
+Q3393170,Poetic Lover,,contemporary R&B,,MusicalGroup
+Q2000558,The Delfonics,1965-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q2064784,The Movielife,1997-01-01T00:00:00Z,melodic hardcore,United States,MusicalGroup
+Q2061582,Vertical Horizon,1991-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q2008427,The Oak Ridge Boys,1947-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q2098530,Plasmatics,1977-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q2095970,Saving Abel,2004-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q2103520,Pond,2008-01-01T00:00:00Z,pop music,Australia,MusicalGroup
+Q1664392,Slaughter,1988-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q1535105,Little Dragon,1996-01-01T00:00:00Z,synth-pop,Sweden,MusicalGroup
+Q2000167,Peter and the Test Tube Babies,1978-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q2030958,The Spinners,1954-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q2116606,The 3rd and the Mortal,1992-01-01T00:00:00Z,folk metal,Norway,MusicalGroup
+Q6049380,Oi! The Arrase,,oi!,Spain,MusicalGroup
+Q1549376,Jawbox,1989-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q1474555,Henry Cow,1968-01-01T00:00:00Z,art rock,United Kingdom,MusicalGroup
+Q1475584,Magazine,1977-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q1631669,Silicon Teens,1979-01-01T00:00:00Z,synth-pop,United Kingdom,MusicalGroup
+Q1479074,U.K. Subs,1976-01-01T00:00:00Z,hardcore punk,United Kingdom,MusicalGroup
+Q1473092,Uncle Tupelo,1987-01-01T00:00:00Z,alternative country,United States,MusicalGroup
+Q1476499,Hootie & the Blowfish,1986-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1475018,The Crystals,1961-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q1571476,Flamin' Groovies,1965-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q1622756,Siniestro Total,1981-08-20T00:00:00Z,blues rock,Spain,MusicalGroup
+Q16667975,Olli and the Bollywood Orchestra,,,,MusicalGroup
+Q1455057,Spooky Tooth,1967-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q1479960,Suprême NTM,1989-01-01T00:00:00Z,hip-hop,France,MusicalGroup
+Q1462602,The Muffs,1991-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1398604,The Gun Club,1980-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1501348,The Undertones,1974-01-01T00:00:00Z,punk rock,Northern Ireland,MusicalGroup
+Q1570297,The Vandals,1980-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1570087,X,1977-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1572584,Semisonic,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1500073,Pere Ubu,1975-01-01T00:00:00Z,art rock,United States,MusicalGroup
+Q1473255,Richard Hell and the Voidoids,1976-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1472482,The 4-Skins,1979-01-01T00:00:00Z,oi!,United Kingdom,MusicalGroup
+Q1390974,Face to Face,1991-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1467927,Sebadoh,1986-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q722960,Vildhjarta,2005-01-01T00:00:00Z,progressive metal,Sweden,MusicalGroup
+Q1361146,The Cramps,1976-01-01T00:00:00Z,garage punk,United States,MusicalGroup
+Q603579,Circa Survive,2004-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1243718,Queens of the Stone Age,1996-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1519986,Geto Boys,1986-01-01T00:00:00Z,G-funk,United States,MusicalGroup
+Q1529784,Glassjaw,1993-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q1538312,Gorilla Biscuits,1987-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1543041,The Osmonds,1959-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q1253897,Dr. Feelgood,1971-01-01T00:00:00Z,pub rock,United Kingdom,MusicalGroup
+Q1548973,Maserati,,post-rock,United States,MusicalGroup
+Q1241507,The Flamingos,1953-01-01T00:00:00Z,doo-wop,United States,MusicalGroup
+Q1534282,Ratos de Porão,1981-01-01T00:00:00Z,D-beat,Brazil,MusicalGroup
+Q1535896,The Abyssinians,1968-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q1232641,Drowningman,1997-01-01T00:00:00Z,mathcore,United States,MusicalGroup
+Q1261885,GusGus,1995-01-01T00:00:00Z,electronica,Iceland,MusicalGroup
+Q1539810,Shape of Despair,1995-01-01T00:00:00Z,doom metal,Finland,MusicalGroup
+Q1517060,Alcest,2000-01-01T00:00:00Z,black metal,France,MusicalGroup
+Q1518160,La Casa Azul,1997-01-01T00:00:00Z,electronic music,Spain,MusicalGroup
+Q1538284,Gorguts,1989-01-01T00:00:00Z,technical death metal,Canada,MusicalGroup
+Q1243743,The Quireboys,1984-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q1538935,Stiff Little Fingers,1977-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1255792,Mountain,1969-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q1231142,Fear,1977-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1536429,The Trashmen,1962-01-01T00:00:00Z,rock and roll,United States,MusicalGroup
+Q1545961,Salt-N-Pepa,1985-01-01T00:00:00Z,girl band,United States,MusicalGroup
+Q1253165,Down by Law,,punk rock,United States,MusicalGroup
+Q1542725,The Vaselines,1986-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q1544744,Terveet Kädet,,hardcore punk,Finland,MusicalGroup
+Q1546385,The Selecter,1979-01-01T00:00:00Z,ska,United Kingdom,MusicalGroup
+Q1411035,Screaming Trees,1985-01-01T00:00:00Z,grunge,United States,MusicalGroup
+Q122877720,Les Testarudes,2023-01-01T00:00:00Z,reggae,Spain,MusicalGroup
+Q1156487,Daara J,1997-01-01T00:00:00Z,rapping,,MusicalGroup
+Q117353603,Grosse Isle,,Irish folk music,,MusicalGroup
+Q193697,Sugababes,1998-01-01T00:00:00Z,contemporary R&B,United Kingdom,MusicalGroup
+Q1412029,Carter Family,1927-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q1435083,Propagandhi,1986-01-01T00:00:00Z,punk rock,Canada,MusicalGroup
+Q1429925,Los Fastidios,1991-01-01T00:00:00Z,oi!,Italy,MusicalGroup
+Q1404436,Felt,1979-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q1438730,OneRepublic,2009-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1402096,U.S. Bombs,1993-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1410117,Harmonium,1972-11-01T00:00:00Z,progressive rock,Canada,MusicalGroup
+Q1412298,Helmet,1989-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q113865963,Q113865963,2018-01-01T00:00:00Z,oi!,Spain,MusicalGroup
+Q1431678,Le Tigre,1998-01-01T00:00:00Z,electronic rock,United States,MusicalGroup
+Q1417587,The Afghan Whigs,1986-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1142295,Wink,1988-01-01T00:00:00Z,pop music,Japan,MusicalGroup
+Q1433169,Thursday,1997-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1428959,Flipper,1979-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q2811247,The 1975,2002-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q2748433,Dixebra,,rock music,Spain,MusicalGroup
+Q1676311,The Baboon Show,2003-01-01T00:00:00Z,riot grrrl,Sweden,MusicalGroup
+Q2750537,The Itals,,reggae,Jamaica,MusicalGroup
+Q2813204,1995,2008-01-01T00:00:00Z,hip-hop,France,MusicalGroup
+Q2818363,7 Notas 7 Colores,,hip-hop,Spain,MusicalGroup
+Q11939403,Oprimits,,punk rock,Spain,MusicalGroup
+Q111474093,Lion's Law,2012-01-01T00:00:00Z,oi!,,MusicalGroup
+Q1446529,Eskorbuto,1980-01-01T00:00:00Z,anarcho-punk,Spain,MusicalGroup
+Q2894627,Belladonna 9ch,1989-01-01T00:00:00Z,indie rock,France,MusicalGroup
+Q1451159,Orgy,1997-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q1442133,London,,punk rock,United Kingdom,MusicalGroup
+Q1753914,Saliva,1996-01-01T00:00:00Z,nu metal,United States,MusicalGroup
+Q1719158,"Woe, Is Me",2009-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1786810,Lords of Acid,1988-01-01T00:00:00Z,industrial music,Belgium,MusicalGroup
+Q254821,S.T.S.,,pop rock,Austria,MusicalGroup
+Q1757786,The Get Up Kids,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1789258,Om,2003-01-01T00:00:00Z,doom metal,United States,MusicalGroup
+Q1768834,Ready for the World,,new jack swing,United States,MusicalGroup
+Q1785354,MDC,1979-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1740850,Kid Creole and the Coconuts,,jazz,United States,MusicalGroup
+Q1754346,Positive Black Soul,1989-01-01T00:00:00Z,hip-hop,Senegal,MusicalGroup
+Q1783981,Negative Approach,1981-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1726843,Shai Hulud,1995-01-01T00:00:00Z,progressive metal,United States,MusicalGroup
+Q1889163,Night Ranger,1982-01-01T00:00:00Z,glam metal,United States,MusicalGroup
+Q1753105,Saves the Day,1997-01-01T00:00:00Z,emo,United States,MusicalGroup
+Q1786919,Visceral Bleeding,2000-01-01T00:00:00Z,brutal death metal,Sweden,MusicalGroup
+Q1850698,Germs,1977-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1934859,Montrose,1973-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q1777926,The Gladiators,1967-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q1773603,Codeine,1989-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q1787908,Reckless Love,2001-01-01T00:00:00Z,glam metal,Finland,MusicalGroup
+Q1789260,The Only Ones,1976-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q1780510,Pseudo Echo,1982-01-01T00:00:00Z,new wave,Australia,MusicalGroup
+Q1752700,Powerman 5000,1991-01-01T00:00:00Z,industrial metal,United States,MusicalGroup
+Q1361074,Kris Kross,1990-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q1965814,Nashville Pussy,1996-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1967686,Hapshash and the Coloured Coat,1967-01-01T00:00:00Z,psychedelic rock,United Kingdom,MusicalGroup
+Q136085739,Marie Céleste,,art rock,Canada,MusicalGroup
+Q1922274,Mes Souliers Sont Rouges,1991-01-01T00:00:00Z,Celtic folk music,France,MusicalGroup
+Q1892425,Parliament,,doo-wop,United States,MusicalGroup
+Q1939097,Mission of Burma,1979-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1927874,Youth of Today,1985-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1351122,Eric B. & Rakim,1985-01-01T00:00:00Z,East Coast hip-hop,United States,MusicalGroup
+Q1360723,8Ball & MJG,1991-01-01T00:00:00Z,gangsta rap,United States,MusicalGroup
+Q1889932,Wipers,1977-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q1889287,The Adverts,1976-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1887722,? and the Mysterians,1962-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q1974953,Non Phixion,1995-01-01T00:00:00Z,political hip-hop,United States,MusicalGroup
+Q1950423,Slum Village,,Midwest hip-hop,United States,MusicalGroup
+Q1932170,The Redskins,1982-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q1428813,Hanoi Rocks,1979-01-01T00:00:00Z,hard rock,Finland,MusicalGroup
+Q42301624,No One's Kind,,alternative metal,United States,MusicalGroup
+Q18217099,Myrkur,2014-01-01T00:00:00Z,black metal,Denmark,MusicalGroup
+Q1364766,Minutemen,1980-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q16666230,Naïve,,trip hop,,MusicalGroup
+Q1369148,John Mayer Trio,2005-01-01T00:00:00Z,blues rock,United States,MusicalGroup
+Q112124541,Achtung!Babies,2001-01-01T00:00:00Z,pop-punk,Russia,MusicalGroup
+Q1364657,The Pretty Things,1963-01-01T00:00:00Z,rhythm and blues,United Kingdom,MusicalGroup
+Q1428953,Tesla,1981-01-01T00:00:00Z,heavy metal,United States,MusicalGroup
+Q1373222,The Ataris,1995-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1361543,Sunny Day Real Estate,1992-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q1535899,Luniz,1994-01-01T00:00:00Z,West Coast hip-hop,United States,MusicalGroup
+Q28452770,Muna,2013-01-01T00:00:00Z,,United States,MusicalGroup
+Q1368314,Esplendor Geométrico,1980-01-01T00:00:00Z,industrial music,Spain,MusicalGroup
+Q1811622,The Last Poets,1968-01-01T00:00:00Z,spoken word,United States,MusicalGroup
+Q1849053,Triumph,1975-01-01T00:00:00Z,heavy metal,Canada,MusicalGroup
+Q1883210,Maddox Brothers and Rose,,country music,United States,MusicalGroup
+Q1853330,Repulsion,1984-01-01T00:00:00Z,grindcore,United States,MusicalGroup
+Q1653033,IAM,1988-01-01T00:00:00Z,anti-racist music,France,MusicalGroup
+Q1660643,In My Eyes,,hardcore punk,United States,MusicalGroup
+Q1676665,The Merrymen,,,,MusicalGroup
+Q1640281,Wargasm,,thrash metal,United States,MusicalGroup
+Q1824524,Lifetime,1990-01-01T00:00:00Z,emo,United States,MusicalGroup
+Q1649624,The Promise Ring,1995-01-01T00:00:00Z,emo,United States,MusicalGroup
+Q1639834,Edgar Broughton Band,1968-01-01T00:00:00Z,progressive rock,United Kingdom,MusicalGroup
+Q1669011,The Toasters,1981-01-01T00:00:00Z,ska,United States,MusicalGroup
+Q1817487,La Troba Kung-Fú,2008-01-01T00:00:00Z,,Spain,MusicalGroup
+Q1887369,The Meters,1965-01-01T00:00:00Z,funk,United States,MusicalGroup
+Q1664881,Title Fight,2003-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1887278,Oingo Boingo,1972-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q1751483,The Business,1979-01-01T00:00:00Z,oi!,United Kingdom,MusicalGroup
+Q1661036,Incubus,1991-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q122969444,Distorsión,1982-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q1799105,La Rue Ketanou,1998-01-01T00:00:00Z,chanson,France,MusicalGroup
+Q1807708,Youth Brigade,1980-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q104814105,Nikto,,alternative rock,Latvia,MusicalGroup
+Q18608591,Years & Years,2010-01-01T00:00:00Z,alternative dance,United Kingdom,MusicalGroup
+Q3314223,Milk Coffee and Sugar,,hip-hop,,MusicalGroup
+Q124003407,Budellam,1988-01-01T00:00:00Z,hardcore punk,,MusicalGroup
+Q7269352,Quarteto Novo,1966-01-01T00:00:00Z,jazz,Brazil,MusicalGroup
+Q2349474,Cibo Matto,1994-01-01T00:00:00Z,trip hop,United States,MusicalGroup
+Q2445127,Naked Eyes,1982-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q2413479,Band of Skulls,2008-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q2406165,The Wailers Band,1989-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q2354777,Lärm,1981-01-01T00:00:00Z,hardcore punk,Netherlands,MusicalGroup
+Q2294322,The Modern Lovers,1970-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q2306388,Al Tall,1975-01-01T00:00:00Z,traditional folk music,Spain,MusicalGroup
+Q2297961,Seikima-II,1982-01-01T00:00:00Z,heavy metal,Japan,MusicalGroup
+Q2295871,War,1969-01-01T00:00:00Z,jazz rock,United States,MusicalGroup
+Q2303544,Strung Out,1989-01-01T00:00:00Z,skate punk,United States,MusicalGroup
+Q378948,Fields of the Nephilim,1984-01-01T00:00:00Z,gothic rock,United Kingdom,MusicalGroup
+Q633735,Have Heart,2002-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q2300681,Veruca Salt,1993-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q2326007,Stadio,1977-01-01T00:00:00Z,pop music,Italy,MusicalGroup
+Q2328030,1200 Micrograms,1999-01-01T00:00:00Z,psychedelic trance,Spain,MusicalGroup
+Q2255807,The Music Machine,1965-01-01T00:00:00Z,garage rock,United States,MusicalGroup
+Q2253861,Pansy Division,1991-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q2300591,Urban Dance Squad,1986-01-01T00:00:00Z,alternative rock,Netherlands,MusicalGroup
+Q2292368,Skin,,hard rock,United Kingdom,MusicalGroup
+Q2298729,SOJA,1997-01-01T00:00:00Z,reggae,United States,MusicalGroup
+Q2623076,Mashina,1983-01-01T00:00:00Z,pop rock,Israel,MusicalGroup
+Q844579,Quarteto em Cy,1964-01-01T00:00:00Z,bossa nova,Brazil,MusicalGroup
+Q46640506,Q46640506,2011-01-01T00:00:00Z,screamo,Spain,MusicalGroup
+Q979826,Farin Urlaub Racing Team,,rock music,Germany,MusicalGroup
+Q18019815,The Gentle Storm,2014-01-01T00:00:00Z,progressive metal,Netherlands,MusicalGroup
+Q2606599,La Polla Records,1979-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q2839847,Hum,1989-01-01T00:00:00Z,alternative metal,United States,MusicalGroup
+Q2576798,Superchunk,1989-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q22125467,Bed In,2012-01-01T00:00:00Z,disco,Japan,MusicalGroup
+Q2494570,Cherry Red,1978-01-01T00:00:00Z,,,MusicalGroup
+Q2602057,Jovink en de Voederbietels,,dialect music,Netherlands,MusicalGroup
+Q2599996,Yeleen,,hip-hop,,MusicalGroup
+Q2482563,Kodaline,2005-01-01T00:00:00Z,indie rock,Ireland,MusicalGroup
+Q2743121,Kate and Anna McGarrigle,1975-01-01T00:00:00Z,folk rock,Canada,MusicalGroup
+Q2654896,Be-Bop Deluxe,1972-01-01T00:00:00Z,disco,United Kingdom,MusicalGroup
+Q2526850,Les Luthiers,1967-01-01T00:00:00Z,parody music,Argentina,MusicalGroup
+Q2139942,Solitude Aeturnus,1987-01-01T00:00:00Z,epic doom metal,United States,MusicalGroup
+Q2140332,Alabama,1972-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q2733436,Antònia Font,1997-01-01T00:00:00Z,music of Mediterranea,Spain,MusicalGroup
+Q2131764,Rare Earth,1960-01-01T00:00:00Z,funk rock,United States,MusicalGroup
+Q2550107,Bane,1995-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q2120164,Wardruna,2003-01-01T00:00:00Z,Nordic folk music,Norway,MusicalGroup
+Q2126038,Radio Birdman,1974-01-01T00:00:00Z,punk rock,Australia,MusicalGroup
+Q2164036,Young Marble Giants,1978-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q2561536,Parálisis Permanente,1981-01-01T00:00:00Z,deathrock,Spain,MusicalGroup
+Q2117518,Ween,1984-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q3003724,Crooked X,2007-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q2165544,The Tubes,1973-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q2686961,Nine Lashes,2006-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q4895718,Opció K-95,1995-01-01T00:00:00Z,oi!,Catalan countries,MusicalGroup
+Q2504465,World Party,1986-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q2712704,Pussy Galore,1985-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q2165980,The Beat,1978-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q2968676,Dusminguet,1995-01-01T00:00:00Z,fusion music genre,Spain,MusicalGroup
+Q2142320,The Seeds,1965-01-01T00:00:00Z,psychedelic rock,United States,MusicalGroup
+Q2657995,Brownsville Station,1969-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q2561938,Reincidentes,1987-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q2979510,Clockhammer,,heavy metal,United States,MusicalGroup
+Q2463731,Don Caballero,1991-01-01T00:00:00Z,post-rock,United States,MusicalGroup
+Q2906210,Blasphème,1981-01-01T00:00:00Z,heavy metal,France,MusicalGroup
+Q2525354,Bob Marley & The Wailers,1963-01-01T00:00:00Z,reggae,Jamaica,MusicalGroup
+Q2726093,Soziedad Alkoholika,1988-01-01T00:00:00Z,crossover thrash,Spain,MusicalGroup
+Q2667568,Girls Against Boys,1988-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q4412076,Jota Quest,1996-01-01T00:00:00Z,soul,Brazil,MusicalGroup
+Q55759024,Negative Self,,crossover thrash,Sweden,MusicalGroup
+Q3040541,Dubmatique,1992-01-01T00:00:00Z,hip-hop,Canada,MusicalGroup
+Q25379470,Crypt Sermon,2013-01-01T00:00:00Z,epic doom metal,United States,MusicalGroup
+Q3319640,Molodoï,,punk rock,,MusicalGroup
+Q3388322,Pignoise,,pop-punk,Spain,MusicalGroup
+Q3433132,Rise to Remain,2006-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q3491302,Sortilège,1981-01-01T00:00:00Z,heavy metal,France,MusicalGroup
+Q124020843,Remences (band),1992-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q3513534,Tabou Combo,1968-01-01T00:00:00Z,konpa,,MusicalGroup
+Q126911159,Q126911159,,electronic music,,MusicalGroup
+Q3473851,Satan Jokers,1979-01-01T00:00:00Z,heavy metal,France,MusicalGroup
+Q3392326,Dorian,2002-01-01T00:00:00Z,electronic music,Spain,MusicalGroup
+Q3503136,Sui Generis,,folk rock,Argentina,MusicalGroup
+Q3399751,Post Regiment,,punk rock,,MusicalGroup
+Q11950442,Suburban Rebels,1993-01-01T00:00:00Z,oi!,,MusicalGroup
+Q20104364,Pilseners,1994-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q1501183,Vintersorg,1994-01-01T00:00:00Z,black metal,Sweden,MusicalGroup
+Q7775815,The Work,1980-01-01T00:00:00Z,post-punk,United Kingdom,MusicalGroup
+Q44011227,Truman Brothers,2005-01-01T00:00:00Z,indie pop,United States,MusicalGroup
+Q2414771,Ghetto Fabulous Gang,,hip-hop,,MusicalGroup
+Q3519860,The Balfa Brothers,,Cajun music,United States,MusicalGroup
+Q3560408,Lionsheart,1992-01-01T00:00:00Z,hard rock,,MusicalGroup
+Q3571363,KOP,1998-01-01T00:00:00Z,thrash metal,Spain,MusicalGroup
+Q3562739,Volcano Suns,1983-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q3558267,Viking Skull,2002-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q3520624,The Dils,,punk rock,United States,MusicalGroup
+Q3540315,Troop,,rhythm and blues,United States,MusicalGroup
+Q3572062,Year Long Disaster,,hard rock,United States,MusicalGroup
+Q3516000,Tata Pound,1995-01-01T00:00:00Z,hip-hop,Mali,MusicalGroup
+Q4042698,Left Lane Cruiser,,blues,United States,MusicalGroup
+Q3523343,The Weirdos,,punk rock,United States,MusicalGroup
+Q3567269,Wenge Musica,1979-01-01T00:00:00Z,soukous,Democratic Republic of the Congo,MusicalGroup
+Q3522161,The Pale Fountains,1981-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q3110679,The Remains,1964-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q1969654,Wax,1983-01-01T00:00:00Z,new wave,United Kingdom,MusicalGroup
+Q3325908,Cicatriz,1984-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q3315896,Gossos,1993-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q3323676,RIP,1981-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q1984281,Rob Base and DJ E-Z Rock,1985-01-01T00:00:00Z,hip-hop,United States,MusicalGroup
+Q3325285,Motorbass,,house music,France,MusicalGroup
+Q3357593,The Aller Værste!,1979-01-01T00:00:00Z,rock music,Norway,MusicalGroup
+Q3325178,Vulpes,1982-01-01T00:00:00Z,,Spain,MusicalGroup
+Q63078412,Inèrcia,,punk rock,Spain,MusicalGroup
+Q3098957,The Rentals,1995-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q3131908,Manel,2006-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q3100494,General Elektriks,,electro,France,MusicalGroup
+Q10288245,Gang 90 e as Absurdettes,,new wave,Brazil,MusicalGroup
+Q1586748,Talco,2001-01-01T00:00:00Z,ska punk,Italy,MusicalGroup
+Q16668304,Orion,,progressive rock,,MusicalGroup
+Q3089641,Jellyfish,1989-01-01T00:00:00Z,power pop,United States,MusicalGroup
+Q3309104,Dead Milkmen,1983-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q3305177,V Factory,2006-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q3228051,Le Vent du Nord,2002-01-01T00:00:00Z,traditional folk music,Canada,MusicalGroup
+Q3296741,Graham Central Station,1972-01-01T00:00:00Z,rhythm and blues,United States,MusicalGroup
+Q3305713,Menahan Street Band,2007-01-01T00:00:00Z,soul,United States,MusicalGroup
+Q118289325,Zafem,2019-03-28T00:00:00Z,konpa,Haiti,MusicalGroup
+Q3700210,D.I.,1981-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q3631117,Aviões do Forró,2002-09-01T00:00:00Z,forró,Brazil,MusicalGroup
+Q3738658,Fall of Efrafa,2005-01-01T00:00:00Z,post-hardcore,United Kingdom,MusicalGroup
+Q24938234,Gromyka,2014-01-01T00:00:00Z,synth-pop,Russia,MusicalGroup
+Q3752591,Sopa de Cabra,,rock music,Spain,MusicalGroup
+Q3697152,Crime,,hardcore punk,United States,MusicalGroup
+Q3074625,Flying Nun Records,1981-01-01T00:00:00Z,,,MusicalGroup
+Q3681214,Cloudkicker,,post-rock,United States,MusicalGroup
+Q3603529,Abhinanda,1992-01-01T00:00:00Z,hardcore punk,Sweden,MusicalGroup
+Q3574232,Ixo rai!,,folk rock,Spain,MusicalGroup
+Q104623227,Maria Bacana,1995-01-01T00:00:00Z,Brazilian rock,Brazil,MusicalGroup
+Q3930946,Reach the Sky,,hardcore punk,United States,MusicalGroup
+Q3075731,Lax'n'Busto,1986-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q4894861,Companyia Elèctrica Dharma,1972-01-01T00:00:00Z,Laietana music,Spain,MusicalGroup
+Q3020722,Death Grips,2010-01-01T00:00:00Z,experimental hip-hop,United States,MusicalGroup
+Q4877283,Beats Antique,2007-01-01T00:00:00Z,ethnic electronica,United States,MusicalGroup
+Q3011302,DJ Food,,electronica,United Kingdom,MusicalGroup
+Q4038524,FIDLAR,2009-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q4463134,Trio Marenych,1973-01-01T00:00:00Z,folk music,Ukrainian Soviet Socialist Republic,MusicalGroup
+Q3982563,Teenage Bottlerocket,2001-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q4991503,Kyuss,1987-01-01T00:00:00Z,stoner rock,United States,MusicalGroup
+Q3160725,Jaleo Real,,,,MusicalGroup
+Q3143740,Hydrogyn,2004-01-01T00:00:00Z,hard rock,United States,MusicalGroup
+Q4035173,Blackberry Smoke,2000-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q3067117,Fastbacks,1979-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q3988410,The Mr. T Experience,1985-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q4955640,Braid,1993-01-01T00:00:00Z,emo,United States,MusicalGroup
+Q4051718,Trash Talk,2005-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q3182761,Los Suaves,1980-01-01T00:00:00Z,hard rock,Spain,MusicalGroup
+Q3989687,The Treatment,2008-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q4930275,Blueboy,,indie pop,United Kingdom,MusicalGroup
+Q4881320,Being as an Ocean,2011-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q3326069,Esan Ozenki,1991-01-01T00:00:00Z,,,MusicalGroup
+Q3337758,Negazione,,hardcore punk,Italy,MusicalGroup
+Q4875710,Beach Fossils,2009-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q3063174,Sun City Girls,,experimental rock,United States,MusicalGroup
+Q4021028,Wretched,,hardcore punk,Italy,MusicalGroup
+Q4047683,Pylon,1978-01-01T00:00:00Z,new wave,United States,MusicalGroup
+Q3193701,Kashtin,1984-01-01T00:00:00Z,folk music,Canada,MusicalGroup
+Q3189511,Outside Duo,2006-01-01T00:00:00Z,Celtic music,France,MusicalGroup
+Q1242447,DOOM:VS,2004-01-01T00:00:00Z,doom metal,Sweden,MusicalGroup
+Q722778,Q722778,1986-01-01T00:00:00Z,ambient techno,United Kingdom,MusicalGroup
+Q2482652,Les Discrets,2003-01-01T00:00:00Z,post-metal,France,MusicalGroup
+Q7758718,The Pulsars,1994-01-01T00:00:00Z,indie rock,United States,MusicalGroup
+Q30674084,Sorry About Your Daughter,1992-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q3139170,Hogwash,,punk rock,,MusicalGroup
+Q3095000,Gamine,,pop rock,France,MusicalGroup
+Q4763957,Angst,,punk rock,United States,MusicalGroup
+Q57598838,2Luv,1987-01-01T00:00:00Z,contemporary R&B,United States,MusicalGroup
+Q130928,Capture,2010-01-01T00:00:00Z,hardcore punk,Australia,MusicalGroup
+Q23376,Die Antwoord,2008-01-01T00:00:00Z,electronic dance music,South Africa,MusicalGroup
+Q1754136,This Mortal Coil,1983-01-01T00:00:00Z,dream pop,United Kingdom,MusicalGroup
+Q5961204,L'Odi Social,,hardcore punk,Spain,MusicalGroup
+Q1431118,Good Clean Fun,1997-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q5301098,Doughboys,1987-01-01T00:00:00Z,alternative rock,Canada,MusicalGroup
+Q5848349,Núcleo Terco,2002-01-01T00:00:00Z,oi!,Spain,MusicalGroup
+Q5397099,Shudder to Think,1986-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q5325290,Eagle Twin,2007-01-01T00:00:00Z,doom metal,United States,MusicalGroup
+Q5847624,Kaos Urbano,1996-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q3549804,Une touche d'optimisme,,,France,MusicalGroup
+Q5839890,Espasmódicos,,punk rock,Spain,MusicalGroup
+Q6093460,Putilatex,,electroclash,Spain,MusicalGroup
+Q105572694,Q105572694,2014-01-01T00:00:00Z,singer-songwriter music,Spain,MusicalGroup
+Q5697049,Q5697049,,hardcore punk,Spain,MusicalGroup
+Q5610817,Grotus,,industrial rock,United States,MusicalGroup
+Q6494345,Last Exit,1986-01-01T00:00:00Z,jazz,United States,MusicalGroup
+Q6533435,Letlive,2002-01-01T00:00:00Z,post-hardcore,United States,MusicalGroup
+Q5245804,Deafheaven,2010-01-01T00:00:00Z,post-metal,United States,MusicalGroup
+Q5928589,The Hudson Brothers,1965-01-01T00:00:00Z,pop music,United States,MusicalGroup
+Q4045457,Non Servium,,hardcore punk,Spain,MusicalGroup
+Q5245556,Deadguy,1994-01-01T00:00:00Z,mathcore,United States,MusicalGroup
+Q6800042,McBride & the Ride,1989-01-01T00:00:00Z,country music,United States,MusicalGroup
+Q6019273,Miss Caffeina,2006-01-01T00:00:00Z,indie pop,Spain,MusicalGroup
+Q7092511,One Call,,pop music,United States,MusicalGroup
+Q6125986,Servando & Florentino,,Latin pop,Venezuela,MusicalGroup
+Q6663066,LoCash,2004-01-01T00:00:00Z,country rock,United States,MusicalGroup
+Q7169608,Perrey and Kingsley,,electronic music,United States,MusicalGroup
+Q5956411,Juniper Moon,1996-01-01T00:00:00Z,indie rock,Spain,MusicalGroup
+Q6416936,Kiss It Goodbye,1997-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q6038246,Narco,1996-01-01T00:00:00Z,rap metal,Spain,MusicalGroup
+Q5920451,Howard Morrison Quartet,1956-01-01T00:00:00Z,Māori showband,New Zealand,MusicalGroup
+Q5566561,Glamour Camp,,,United States,MusicalGroup
+Q6983583,Nação Zumbi,1991-01-01T00:00:00Z,mangue bit,Brazil,MusicalGroup
+Q6683173,Los Punsetes,2004-01-01T00:00:00Z,indie rock,Spain,MusicalGroup
+Q2358074,Boh Foi Toch,,blues rock,,MusicalGroup
+Q28134941,G.L.O.S.S.,2014-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q1134411,Shpongle,1996-01-01T00:00:00Z,psychedelic trance,United Kingdom,MusicalGroup
+Q7256860,The Prodigy,1990-01-01T00:00:00Z,breakbeat hardcore,United Kingdom,MusicalGroup
+Q89910983,Oliva trencada,2006-01-01T00:00:00Z,pop music,,MusicalGroup
+Q10863741,Za Bon,,,,MusicalGroup
+Q11229064,Light Bringer,,hard rock,Japan,MusicalGroup
+Q124051915,Knür,2014-01-01T00:00:00Z,post-hardcore,,MusicalGroup
+Q28945042,Gertrudis,2000-01-01T00:00:00Z,Catalan rumba,Spain,MusicalGroup
+Q7248390,Program 81/82,1981-01-01T00:00:00Z,new wave,Norway,MusicalGroup
+Q7598682,Standstill,1995-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q374679,Lambchop,1986-01-01T00:00:00Z,alternative country,United States,MusicalGroup
+Q7430751,Scene of Irony,2004-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q10997318,Q10997318,1980-01-01T00:00:00Z,rock music,Norway,MusicalGroup
+Q16672007,Rachid & Fethi,1970-01-01T00:00:00Z,,Algeria,MusicalGroup
+Q11182116,Boukman Eksperyans,,,Haiti,MusicalGroup
+Q7241031,Preservation Hall Jazz Band,,jazz,United States,MusicalGroup
+Q10975368,La Coḷḷá Propinde,2000-01-01T00:00:00Z,folk music,Spain,MusicalGroup
+Q7390429,SIN 34,1981-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q10677618,Starmarket,1994-01-01T00:00:00Z,indie rock,,MusicalGroup
+Q9003293,Hertzainak,1981-01-01T00:00:00Z,punk rock,Spain,MusicalGroup
+Q9093560,Vidres a la Sang,2002-01-01T00:00:00Z,death metal,Spain,MusicalGroup
+Q9018656,La Kinky Beat,2003-01-01T00:00:00Z,dub music,Spain,MusicalGroup
+Q9783121,Clube do Balanço,,instrumental music,Brazil,MusicalGroup
+Q61362679,Rotten XIII,2017-01-01T00:00:00Z,oi!,,MusicalGroup
+Q25935346,Bökkers,2010-01-01T00:00:00Z,blues rock,Netherlands,MusicalGroup
+Q126851218,Q126851218,2023-06-01T00:00:00Z,indie rock,Spain,MusicalGroup
+Q9023950,Los Chikos del Maíz,,political hip-hop,Spain,MusicalGroup
+Q62083167,Illuminati Hotties,,,United States,MusicalGroup
+Q65061016,Shallow Side,,,United States,MusicalGroup
+Q10448862,Cherry Bombz,1985-01-01T00:00:00Z,rock music,Finland,MusicalGroup
+Q9053253,Orquestra Plateria,,,Spain,MusicalGroup
+Q61361424,Adrenalized,,punk rock,Spain,MusicalGroup
+Q9053350,Orxata Sound System,2003-01-01T00:00:00Z,,Spain,MusicalGroup
+Q29912107,Las Bistecs,2013-01-01T00:00:00Z,electronic music,Spain,MusicalGroup
+Q8000980,Wildbirds & Peacedrums,,experimental music,Sweden,MusicalGroup
+Q23756620,Lody Kong,2011-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q24039414,Desperate Journalist,2012-01-01T00:00:00Z,post-punk,United Kingdom,MusicalGroup
+Q53405005,Spanta la Xente,2007-01-01T00:00:00Z,ska,Spain,MusicalGroup
+Q7501077,Shootyz Groove,1992-01-01T00:00:00Z,rap rock,United States,MusicalGroup
+Q7777713,Osees,1997-01-01T00:00:00Z,noise rock,United States,MusicalGroup
+Q7754196,The Nils,1978-01-01T00:00:00Z,punk rock,Canada,MusicalGroup
+Q7801361,Tiger,1996-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q7546039,Smoking Popes,1991-01-01T00:00:00Z,pop-punk,United States,MusicalGroup
+Q7752792,The Mustangs,2001-01-01T00:00:00Z,blues,United Kingdom,MusicalGroup
+Q7563397,Sore Throat,1987-01-01T00:00:00Z,punk rock,United Kingdom,MusicalGroup
+Q7753383,The Neighbourhood,2011-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q4121141,Razika,2006-01-01T00:00:00Z,ska,Norway,MusicalGroup
+Q7460157,Shack,1986-01-01T00:00:00Z,alternative rock,United Kingdom,MusicalGroup
+Q109341162,Big Blood,2006-01-01T00:00:00Z,psychedelic folk,United States,MusicalGroup
+Q105104216,MAZ,2009-01-01T00:00:00Z,electro,Canada,MusicalGroup
+Q698224,Coldcut,1986-01-01T00:00:00Z,electronica,United Kingdom,MusicalGroup
+Q116458114,OR,2016-01-01T00:00:00Z,pop rock,,MusicalGroup
+Q121164488,Star Feminine Band,,Waama music,,MusicalGroup
+Q130500031,Cocobolo,2022-01-01T00:00:00Z,surf music,Netherlands,MusicalGroup
+Q9063194,Propaganda pel Fet!,1996-01-01T00:00:00Z,hip-hop,,MusicalGroup
+Q28727769,Gutalax,2009-01-01T00:00:00Z,goregrind,Czech Republic,MusicalGroup
+Q28746379,Neil Wharton's Rock-N-Roll Junkies,,hard rock,United States,MusicalGroup
+Q30636835,Greta Van Fleet,2012-01-01T00:00:00Z,folk rock,United States,MusicalGroup
+Q28677824,New Hope Club,2015-01-01T00:00:00Z,pop music,United Kingdom,MusicalGroup
+Q12257343,Etsaiak,1987-01-01T00:00:00Z,hardcore,,MusicalGroup
+Q36390927,=Love,2017-01-28T00:00:00Z,J-pop,Japan,MusicalGroup
+Q25055832,Wolfpack,,progressive house,,MusicalGroup
+Q30914333,Infant Annihilator,2012-01-01T00:00:00Z,deathcore,United States,MusicalGroup
+Q22130395,Chō Tokimeki Sendenbu,2015-04-11T00:00:00Z,J-pop,Japan,MusicalGroup
+Q21129806,Sakurazaka46,2015-01-01T00:00:00Z,J-pop,Japan,MusicalGroup
+Q65216132,Brigade Loco,2017-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q66740361,La Sra. Tomasa,2012-01-01T00:00:00Z,music of Latin America,Spain,MusicalGroup
+Q106419214,Califato ¾,2018-01-01T00:00:00Z,flamenco rock,Spain,MusicalGroup
+Q130331767,Turista Sueca,,electropop,,MusicalGroup
+Q107106065,The Māori Sidesteps,,,New Zealand,MusicalGroup
+Q100989583,Mr. Flagio,1982-01-01T00:00:00Z,Italo disco,Italy,MusicalGroup
+Q80700389,Grupo Barak,2009-01-01T00:00:00Z,Christian music,Dominican Republic,MusicalGroup
+Q98400550,Estanzuela,1994-01-01T00:00:00Z,son jarocho,,MusicalGroup
+Q8210859,Azero,,,Spain,MusicalGroup
+Q7857806,Twenty One Pilots,2009-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q108570463,Mammoth WVH,,post-grunge,United States,MusicalGroup
+Q20666368,Bigflo & Oli,2005-01-01T00:00:00Z,rapping,France,MusicalGroup
+Q56400672,Crim,2011-01-01T00:00:00Z,punk rock,Catalan countries,MusicalGroup
+Q105634998,CO‐OP,2014-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q117440368,Arde Bogotá,2017-01-01T00:00:00Z,alternative rock,Spain,MusicalGroup
+Q131145225,Q131145225,2015-01-01T00:00:00Z,jazz,,MusicalGroup
+Q48754425,L'Impératrice,,pop music,France,MusicalGroup
+Q54958724,Fever 333,2017-01-01T00:00:00Z,rapcore,United States,MusicalGroup
+Q109441792,Q109441792,,folk music,Spain,MusicalGroup
+Q131403708,Q131403708,2010-01-01T00:00:00Z,melodic hardcore,,MusicalGroup
+Q38277309,Task have Fun,,J-pop,Japan,MusicalGroup
+Q108460566,Q108460566,,,Spain,MusicalGroup
+Q61364866,Kaleko Urdangak,2011-01-01T00:00:00Z,oi!,,MusicalGroup
+Q38279217,Last Idol,,J-pop,Japan,MusicalGroup
+Q43218306,Senyor Oca,2012-01-01T00:00:00Z,drum and bass,,MusicalGroup
+Q45129099,Chico y Chica,1996-01-01T00:00:00Z,indie rock,Spain,MusicalGroup
+Q54855961,Iseo & Dodosound,2014-01-01T00:00:00Z,reggae,Spain,MusicalGroup
+Q115268370,Sonido Pesao,2006-01-01T00:00:00Z,hip-hop,Canada,MusicalGroup
+Q106758472,Young Stunners,,,,MusicalGroup
+Q55099181,Soho Roses,1987-01-01T00:00:00Z,,,MusicalGroup
+Q15053060,Dead Boots,2006-01-01T00:00:00Z,rock music,United States,MusicalGroup
+Q16950803,Masked Intruder,2011-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q11924757,Macedònia,2001-01-01T00:00:00Z,pop music,Spain,MusicalGroup
+Q15613707,Yellow Claw,2010-01-01T00:00:00Z,hardstyle,Netherlands,MusicalGroup
+Q17091415,Whirr,2010-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q17325289,Nails,2009-01-01T00:00:00Z,grindcore,United States,MusicalGroup
+Q15777045,Migos,2015-01-01T00:00:00Z,mumble rap,United States,MusicalGroup
+Q16955493,Neck Deep,2012-01-01T00:00:00Z,pop-punk,Wales,MusicalGroup
+Q11920737,Esquirols,1969-01-01T00:00:00Z,,Spain,MusicalGroup
+Q16875004,Vök,2013-01-01T00:00:00Z,trip hop,Iceland,MusicalGroup
+Q18719011,SWMRS,2004-01-01T00:00:00Z,pop rock,United States,MusicalGroup
+Q11933944,Los Draps,,,,MusicalGroup
+Q12640968,Raider Klan,,Southern hip-hop,United States,MusicalGroup
+Q16952970,Modern Baseball,2011-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q16842912,Hiatus Kaiyote,2011-01-01T00:00:00Z,neo soul,Australia,MusicalGroup
+Q16822837,Beartooth,2012-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q11689534,Los Fresones Rebeldes,,indie rock,Spain,MusicalGroup
+Q11703358,Ruido de Rabia,,hardcore punk,Spain,MusicalGroup
+Q17063207,State Champs,2010-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q16592912,Los Ganglios,,,Spain,MusicalGroup
+Q11917802,Duble Buble,1979-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q11905306,Amelie,2009-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q18019495,Carnal Diafragma,1997-01-01T00:00:00Z,goregrind,,MusicalGroup
+Q11910988,Camarada Kalashnikov,,,Spain,MusicalGroup
+Q16155071,After Romeo,,pop music,United States,MusicalGroup
+Q17090739,Unlocking the Truth,2007-01-01T00:00:00Z,punk rock,United States,MusicalGroup
+Q13581327,Band of Gypsys,1969-01-01T00:00:00Z,hard rock,,MusicalGroup
+Q18574071,Yelle,2005-01-01T00:00:00Z,synth-pop,France,MusicalGroup
+Q11907071,At Versaris,2007-01-01T00:00:00Z,techno,Spain,MusicalGroup
+Q12253983,Arkada Social,1997-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q18158481,Radkey,,punk rock,United States,MusicalGroup
+Q13049275,La Ronda de Boltaña,1992-01-01T00:00:00Z,folk music,Spain,MusicalGroup
+Q17150563,Spiders & Snakes,,glam rock,United States,MusicalGroup
+Q21089255,Renaldo & Clara,2009-01-01T00:00:00Z,pop rock,Spain,MusicalGroup
+Q953918,Mumford & Sons,2007-01-01T00:00:00Z,folk rock,United Kingdom,MusicalGroup
+Q19832676,Zoo,2014-01-01T00:00:00Z,rock music,Spain,MusicalGroup
+Q121290701,Octave Noire,,synth-pop,France,MusicalGroup
+Q20103096,La Iaia,2010-01-01T00:00:00Z,indie folk,Spain,MusicalGroup
+Q21403486,PNL,,French hip-hop,France,MusicalGroup
+Q137804,Yat-Kha,1991-01-01T00:00:00Z,heavy metal,Russia,MusicalGroup
+Q63531152,Udol,2013-03-01T00:00:00Z,stoner rock,Spain,MusicalGroup
+Q24899661,The World Standard,,J-pop,Japan,MusicalGroup
+Q23786494,Seven Minutes of Nausea,,,Germany,MusicalGroup
+Q20652558,Mourn,,,,MusicalGroup
+Q25303345,The White Noise,,,United States,MusicalGroup
+Q67556784,100 gecs,,hyperpop,United States,MusicalGroup
+Q20103189,Els Surfing Sirles,,,,MusicalGroup
+Q121506337,Q121506337,,electronica,France,MusicalGroup
+Q21568908,Costo Rico,,,,MusicalGroup
+Q24943971,Viva Suecia,,,Spain,MusicalGroup
+Q61976633,Ojete Calor,2005-01-01T00:00:00Z,synth-pop,,MusicalGroup
+Q120639597,Drain,2014-01-01T00:00:00Z,hardcore punk,United States,MusicalGroup
+Q112681868,Maten,1990-01-01T00:00:00Z,folk rock,Canada,MusicalGroup
+Q136535301,Magnitude Peace,2024-01-01T00:00:00Z,,United States,MusicalGroup
+Q127601403,Delaporte,2015-01-01T00:00:00Z,electropop,Spain,MusicalGroup
+Q24963042,Jack and Eliza,2012-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q61864501,≠ME,,J-pop,Japan,MusicalGroup
+Q97193549,Coetus,,,,MusicalGroup
+Q92654328,Classless Act,2016-01-01T00:00:00Z,post-grunge,United States,MusicalGroup
+Q60747289,Boys Life,,,United States,MusicalGroup
+Q18415477,Time Bomb,1995-01-01T00:00:00Z,,,MusicalGroup
+Q56281544,Common Kings,2011-01-01T00:00:00Z,reggae rock,United States,MusicalGroup
+Q60824605,Mono Blanco,1977-01-01T00:00:00Z,son jarocho,Mexico,MusicalGroup
+Q16632343,Royal Blood,2013-01-01T00:00:00Z,hard rock,United Kingdom,MusicalGroup
+Q18162306,Sleaford Mods,,post-punk,United Kingdom,MusicalGroup
+Q90010759,Ladilla Rusa,2017-01-01T00:00:00Z,Latin pop,Spain,MusicalGroup
+Q61686297,Hinatazaka46,2015-11-30T00:00:00Z,J-pop,Japan,MusicalGroup
+Q15964414,Odesza,2012-01-01T00:00:00Z,electro,United States,MusicalGroup
+Q135013107,Redheads,2025-01-01T00:00:00Z,funk rock,United States,MusicalGroup
+Q111988489,Bastardane,2019-01-01T00:00:00Z,alternative rock,United States,MusicalGroup
+Q24950797,Nico and the Red Shoes,,synth-pop,,MusicalGroup
+Q12335778,Skousen & Ingemann,1970-01-01T00:00:00Z,rock music,Denmark,MusicalGroup
+Q136514769,Warish,2018-01-01T00:00:00Z,,United States,MusicalGroup
+Q136514594,Dino,,,,MusicalGroup
+Q135212436,Harmony Riley,,,,MusicalGroup
+Q135831261,Barlows,2019-01-01T00:00:00Z,glam rock,United States,MusicalGroup
+Q135261209,Rambies,2022-01-01T00:00:00Z,,,MusicalGroup
+Q136514635,Big Nils,,,United States,MusicalGroup
+Q135832844,WanMor,2020-01-01T00:00:00Z,,United States,MusicalGroup
+Q135443208,Q135443208,2019-01-01T00:00:00Z,pop music,Catalonia,MusicalGroup
+Q134397166,Son of Sweet,1989-01-01T00:00:00Z,glam rock,United Kingdom,MusicalGroup
+Q135013227,The Beat Featuring Ranking Jnr,,,United Kingdom,MusicalGroup
+Q132853229,Dead!,,,,MusicalGroup
+Q133866570,Siloé,2016-01-01T00:00:00Z,electronic music,Spain,MusicalGroup
+Q131179846,The Strays,,,United States,MusicalGroup
+Q131629512,Sexy Zebras,,indie rock,Spain,MusicalGroup
+Q55658213,Spasm,2000-01-01T00:00:00Z,pornogrind,Czech Republic,MusicalGroup
+Q12072952,LETAY,2010-01-01T00:00:00Z,indie rock,Ukraine,MusicalGroup
+Q130638649,Dan Peralbo and The Convoy,,pop rock,,MusicalGroup
+Q111292358,Keinemusik,2009-01-01T00:00:00Z,,,MusicalGroup
+Q136328233,The Very Simple Band,2025-01-01T00:00:00Z,post-grunge,Canada,MusicalGroup
+Q119948411,Código Neurótico,1981-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q110485652,The Demencials,2006-01-01T00:00:00Z,oi!,,MusicalGroup
+Q136458199,Q136458199,2017-01-01T00:00:00Z,oi!,,MusicalGroup
+Q135649274,Antihéroe,2024-01-01T00:00:00Z,indie rock,Spain,MusicalGroup
+Q11196140,Doll$Boxx,,Japanese rock,,MusicalGroup
+Q126074865,Animales Muertos,1995-01-01T00:00:00Z,punk rock,,MusicalGroup
+Q123852702,Last Idol Thailand,2021-01-01T00:00:00Z,Thai pop,Thailand,MusicalGroup
+Q114298530,Q114298530,2019-01-01T00:00:00Z,pop music,,MusicalGroup
+Q123995911,Batec (band),2015-01-01T00:00:00Z,punk rock,,MusicalGroup

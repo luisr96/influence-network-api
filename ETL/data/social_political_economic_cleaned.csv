@@ -1,0 +1,329 @@
+id:ID,name,inception,country,:LABEL
+Q101462,Rastafari,,,SocioPoliticalEntity
+Q178598,libertarianism,,,SocioPoliticalEntity
+Q7189677,Physicians for Human Rights-Israel,1988-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q1058263,Neo-Marxism,,,SocioPoliticalEntity
+Q3362516,Afrofuturism,,,SocioPoliticalEntity
+Q33938,Hausa people,,Mali,SocioPoliticalEntity
+Q95,Google,1998-09-04T00:00:00Z,United States,SocioPoliticalEntity
+Q1186113,Democratic Fraction,1901-01-01T00:00:00Z,,SocioPoliticalEntity
+Q5600327,great ape personhood,2007-02-28T00:00:00Z,,SocioPoliticalEntity
+Q122507357,Teckids,2013-08-10T00:00:00Z,Germany,SocioPoliticalEntity
+Q11293927,Chaos Lounge,,,SocioPoliticalEntity
+Q12508500,Student Regiment,,,SocioPoliticalEntity
+Q275595,eco-socialism,,,SocioPoliticalEntity
+Q16058160,Afrapix,1982-01-01T00:00:00Z,South Africa,SocioPoliticalEntity
+Q2980151,Carrefour de l'horloge,1974-07-10T00:00:00Z,France,SocioPoliticalEntity
+Q2698984,fiscal conservatism,,,SocioPoliticalEntity
+Q505605,open society,,,SocioPoliticalEntity
+Q72206346,solarpunk,2008-01-01T00:00:00Z,,SocioPoliticalEntity
+Q108919975,Mises Caucus,2017-01-01T00:00:00Z,,SocioPoliticalEntity
+Q23262642,European History/Napoleon Bonaparte and the Rise of Nationalism,,,SocioPoliticalEntity
+Q852544,Négritude,,,SocioPoliticalEntity
+Q854537,Marxian economics,,,SocioPoliticalEntity
+Q36380,Society of Jesus,1540-01-01T00:00:00Z,,SocioPoliticalEntity
+Q1745141,Fantastic Realism,1960-01-01T00:00:00Z,Germany,SocioPoliticalEntity
+Q136294568,Tech Right,,,SocioPoliticalEntity
+Q952745,post-anarchism,,,SocioPoliticalEntity
+Q41189,Jewish Agency for Israel,1929-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q7414,The Walt Disney Company,1923-10-16T00:00:00Z,United States,SocioPoliticalEntity
+Q4692,Renaissance,,,SocioPoliticalEntity
+Q125983650,Baku Initiative Group,2023-07-01T00:00:00Z,,SocioPoliticalEntity
+Q6186,communism,,,SocioPoliticalEntity
+Q7252,feminism,,,SocioPoliticalEntity
+Q7310,Nazism,,,SocioPoliticalEntity
+Q7272,socialism,,,SocioPoliticalEntity
+Q8461,racism,,,SocioPoliticalEntity
+Q6223,fascism,,,SocioPoliticalEntity
+Q6216,liberalism,,,SocioPoliticalEntity
+Q6724495,Mackinac Center for Public Policy,1987-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q7264,Marxism,,,SocioPoliticalEntity
+Q6199,anarchism,,,SocioPoliticalEntity
+Q3042087,Houthis,1994-01-01T00:00:00Z,Yemen,SocioPoliticalEntity
+Q8458,human rights,,,SocioPoliticalEntity
+Q12539,Age of Enlightenment,,,SocioPoliticalEntity
+Q24233924,Traditionalist Worker Party,2015-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q4998143,Burban,2011-01-01T00:00:00Z,,SocioPoliticalEntity
+Q6034,Dada,1910-01-01T00:00:00Z,,SocioPoliticalEntity
+Q123509272,effective accelerationism,2022-05-31T00:00:00Z,,SocioPoliticalEntity
+Q4667901,Abiquo,2006-01-01T00:00:00Z,Spain,SocioPoliticalEntity
+Q39427,Surrealism,1920-01-01T00:00:00Z,,SocioPoliticalEntity
+Q23138,Chaos Computer Club,1981-09-12T00:00:00Z,Germany,SocioPoliticalEntity
+Q1277639,Earth First!,1980-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q1710370,Association for Civil Rights in Israel,1972-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q1688348,Jesus-Bruderschaft,1964-01-01T00:00:00Z,Germany,SocioPoliticalEntity
+Q5281,Yandex,2000-01-01T00:00:00Z,Russia,SocioPoliticalEntity
+Q167651,Maoism,,,SocioPoliticalEntity
+Q131242,Eskimo,,,SocioPoliticalEntity
+Q131015,positivism,,,SocioPoliticalEntity
+Q192424,anarcho-capitalism,,,SocioPoliticalEntity
+Q131808,Mannerism,,,SocioPoliticalEntity
+Q751880,Japonisme,,,SocioPoliticalEntity
+Q119038,Chautauqua,,,SocioPoliticalEntity
+Q119476421,World Union,1958-11-26T00:00:00Z,India,SocioPoliticalEntity
+Q189150,Black Panther Party,1966-10-15T00:00:00Z,United States,SocioPoliticalEntity
+Q97738262,Unity of the Brethren,1457-01-01T00:00:00Z,Czech Republic,SocioPoliticalEntity
+Q164800,Symbolism,1857-01-01T00:00:00Z,Russian Empire,SocioPoliticalEntity
+Q83280,Pan-Turkism,,Turkey,SocioPoliticalEntity
+Q121254,social democracy,,,SocioPoliticalEntity
+Q118211,digitalcourage,1987-05-31T00:00:00Z,Germany,SocioPoliticalEntity
+Q133207,Muslim Brotherhood,1928-03-22T00:00:00Z,Egypt,SocioPoliticalEntity
+Q171990,laissez faire,,,SocioPoliticalEntity
+Q189975,Inuit,,United States,SocioPoliticalEntity
+Q3866622,Movimento di Cooperazione Educativa,1951-11-04T00:00:00Z,Italy,SocioPoliticalEntity
+Q182603,Church Fathers,,,SocioPoliticalEntity
+Q128168,Counter-Reformation,1545-01-01T00:00:00Z,,SocioPoliticalEntity
+Q1989705,agorism,,,SocioPoliticalEntity
+Q936174,New Keynesian economics,,,SocioPoliticalEntity
+Q49085,African Americans,,United States,SocioPoliticalEntity
+Q49629,Action Française,1899-06-20T00:00:00Z,French Third Republic,SocioPoliticalEntity
+Q83937,Keynesian economics,,,SocioPoliticalEntity
+Q127552,Pixar,1986-02-03T00:00:00Z,United States,SocioPoliticalEntity
+Q2864351,Ars industrialis,2005-06-18T00:00:00Z,France,SocioPoliticalEntity
+Q969107,postgenderism,,,SocioPoliticalEntity
+Q189021,TED,1984-02-23T00:00:00Z,United States,SocioPoliticalEntity
+Q11407,VMware,1998-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q37853,Baroque,,,SocioPoliticalEntity
+Q38066,existentialism,,,SocioPoliticalEntity
+Q174990,Gwangju Uprising,,South Korea,SocioPoliticalEntity
+Q37068,Romanticism,,,SocioPoliticalEntity
+Q165005,Franciscans,1209-01-01T00:00:00Z,Italy,SocioPoliticalEntity
+Q124646925,Young Men’s Hebrew Association movement,1854-01-01T00:00:00Z,,SocioPoliticalEntity
+Q145665,Manchu,,People's Republic of China,SocioPoliticalEntity
+Q180654,Occupy Wall Street,,United States,SocioPoliticalEntity
+Q40890249,Redneck Revolt,2009-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q2920155,International Christian Embassy Jerusalem,1980-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q157169,World Alliance of YMCAs,1844-06-06T00:00:00Z,Switzerland,SocioPoliticalEntity
+Q104319,Seventh-day Adventist Church,1863-05-21T00:00:00Z,,SocioPoliticalEntity
+Q41053,Hezbollah,1982-01-01T00:00:00Z,Lebanon,SocioPoliticalEntity
+Q13489381,effective altruism,2009-01-01T00:00:00Z,,SocioPoliticalEntity
+Q47783,Postmodernism,,,SocioPoliticalEntity
+Q51389,LGBT culture,,,SocioPoliticalEntity
+Q124277976,Young Men's Hebrew Association,1874-03-22T00:00:00Z,,SocioPoliticalEntity
+Q60708,Neo-Keynesian economics,,,SocioPoliticalEntity
+Q171183,Intergovernmental Panel on Climate Change,1988-01-01T00:00:00Z,Switzerland,SocioPoliticalEntity
+Q50024,Bubba Gump Shrimp Company,1996-01-01T00:00:00Z,,SocioPoliticalEntity
+Q2545743,Black Liberation Army,1970-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q38076,McDonald's,1940-05-15T00:00:00Z,United States,SocioPoliticalEntity
+Q111054,Taizé Community,1949-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q194100,transhumanism,1980-01-01T00:00:00Z,,SocioPoliticalEntity
+Q82162548,Gonzalo Thought,,,SocioPoliticalEntity
+Q483047,Uzbeks,,Turkey,SocioPoliticalEntity
+Q282739,Pan-Africanism,,,SocioPoliticalEntity
+Q329759,Mudéjar,,,SocioPoliticalEntity
+Q3345546,Anushilan Samiti,1902-01-01T00:00:00Z,British Raj,SocioPoliticalEntity
+Q510048,Mandan,,,SocioPoliticalEntity
+Q104844745,Männer,,Netherlands,SocioPoliticalEntity
+Q7196648,Pioneer Bible Translators,1976-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q24721051,Aprism,,Peru,SocioPoliticalEntity
+Q313993,Pegnesian Flower Order,1644-01-01T00:00:00Z,Germany,SocioPoliticalEntity
+Q1133329,Young Poland,1890-01-01T00:00:00Z,Poland,SocioPoliticalEntity
+Q1616403,Palestinian nationalism,,,SocioPoliticalEntity
+Q9081459,Tag Team,1993-01-01T00:00:00Z,,SocioPoliticalEntity
+Q192447,utopian socialism,,,SocioPoliticalEntity
+Q203411,Austrian school,,,SocioPoliticalEntity
+Q211930,Marxism–Leninism,,,SocioPoliticalEntity
+Q265581,fin de siècle,,,SocioPoliticalEntity
+Q2632571,Buddhist socialism,,,SocioPoliticalEntity
+Q2560511,Diligent Work-Frugal Study Movement,1909-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q331789,Crow Nation,,,SocioPoliticalEntity
+Q6029402,SEH,2008-01-01T00:00:00Z,Turkey,SocioPoliticalEntity
+Q428575,Yaqui people,,,SocioPoliticalEntity
+Q105821444,Honorable Order of Kentucky Colonels,1933-09-25T00:00:00Z,United States,SocioPoliticalEntity
+Q331852,Kach,1971-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q18204620,Chabad hipsters,,,SocioPoliticalEntity
+Q568625,Bitterroot Salish,,United States,SocioPoliticalEntity
+Q415693,Akan people,,United States,SocioPoliticalEntity
+Q571942,Russian Mennonite,,,SocioPoliticalEntity
+Q592832,integralism,,,SocioPoliticalEntity
+Q100772936,Chi-Fou-Mi Productions,2010-02-03T00:00:00Z,France,SocioPoliticalEntity
+Q263016,Chatham House,1920-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q279790,May Fourth Movement,,China,SocioPoliticalEntity
+Q11545422,Masamune Jittetsu,,Japan,SocioPoliticalEntity
+Q173395,Cisco,1984-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q307890,Left Party,1996-01-01T00:00:00Z,Turkey,SocioPoliticalEntity
+Q640090,Kongo people,,Democratic Republic of the Congo,SocioPoliticalEntity
+Q118464309,Patria Albigès,2021-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q308993,NeXT,1985-06-20T00:00:00Z,United States,SocioPoliticalEntity
+Q42907814,dandyism,,,SocioPoliticalEntity
+Q1021074,Enercoop,2005-09-07T00:00:00Z,France,SocioPoliticalEntity
+Q25053246,Galleanists,,United States,SocioPoliticalEntity
+Q8052002,Yellowstone to Yukon Conservation Initiative,,United States,SocioPoliticalEntity
+Q3336837,National Association of Manufacturers,1895-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q213665,K-pop,1990-01-01T00:00:00Z,,SocioPoliticalEntity
+Q1102213,eugenics in the United States,,United States,SocioPoliticalEntity
+Q47412068,Institut Iliade,2014-07-18T00:00:00Z,France,SocioPoliticalEntity
+Q60750651,Sicarii (terrorist group),1989-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q2422656,Martinist Order,1891-01-01T00:00:00Z,,SocioPoliticalEntity
+Q30101317,rukus! Federation,2000-06-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q190529,Nicolas Bourbaki,1935-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q604319,La Quadrature du Net,2008-03-26T00:00:00Z,France,SocioPoliticalEntity
+Q2907232,Antropophagia,1920-01-01T00:00:00Z,Brazil,SocioPoliticalEntity
+Q388315,African Brazilians,,Brazil,SocioPoliticalEntity
+Q76832664,Ruinismo,,,SocioPoliticalEntity
+Q106516552,Respect!,2016-12-01T00:00:00Z,Netherlands,SocioPoliticalEntity
+Q879172,German Council on Foreign Relations,1955-01-01T00:00:00Z,Germany,SocioPoliticalEntity
+Q55402246,Waypoint,,United States,SocioPoliticalEntity
+Q7505348,Shurat HaDin,2003-01-01T00:00:00Z,Israel,SocioPoliticalEntity
+Q880483,Black Power,,,SocioPoliticalEntity
+Q878985,modernism,,,SocioPoliticalEntity
+Q1040465,hipster,,,SocioPoliticalEntity
+Q1144178,anti-imperialism,,,SocioPoliticalEntity
+Q637251,ethnic nationalism,,,SocioPoliticalEntity
+Q1547741,Group of Seven,,,SocioPoliticalEntity
+Q30753756,Fondation pour l'école,2008-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q389646,Baltic Way,,Soviet Union,SocioPoliticalEntity
+Q890057,body modification,,,SocioPoliticalEntity
+Q550678,Know Nothing Party,1845-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q362438,Plowshares Movement,1980-01-01T00:00:00Z,,SocioPoliticalEntity
+Q961603,Jewish history,,,SocioPoliticalEntity
+Q4763544,Anglican Province of America,1995-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q124751050,Mashiko Ceramics and Arts Association,,Japan,SocioPoliticalEntity
+Q594712,Council on Foreign Relations,1921-07-29T00:00:00Z,United States,SocioPoliticalEntity
+Q1516034,Masters of Zweder van Culemborg,,,SocioPoliticalEntity
+Q1624110,Indiani Metropolitani,,,SocioPoliticalEntity
+Q64995085,Paul Wesenberg - Miracle Pictures,2019-01-01T00:00:00Z,Italy,SocioPoliticalEntity
+Q2466570,traditionalist conservatism,,,SocioPoliticalEntity
+Q2493847,otherkin,,,SocioPoliticalEntity
+Q125124646,World Parliament Association,1951-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q2946502,Scipionic Circle,,,SocioPoliticalEntity
+Q3448005,radical centrism,,,SocioPoliticalEntity
+Q624023,Electronic Frontier Foundation,1990-07-10T00:00:00Z,United States,SocioPoliticalEntity
+Q3683985,combat folk,,,SocioPoliticalEntity
+Q484591,natural history,,,SocioPoliticalEntity
+Q122149004,Negoya Pottery,,Japan,SocioPoliticalEntity
+Q17068342,manosphere,,,SocioPoliticalEntity
+Q553727,Harvard Computers,,,SocioPoliticalEntity
+Q607470,Labor Zionism,,,SocioPoliticalEntity
+Q120794097,The Grail in the USA,1940-05-01T00:00:00Z,United States,SocioPoliticalEntity
+Q624284,Arab socialism,,,SocioPoliticalEntity
+Q632032,Saint-Simonianism,,,SocioPoliticalEntity
+Q696116,neo-fascism,,,SocioPoliticalEntity
+Q701333,Strasserism,,,SocioPoliticalEntity
+Q727480,ordoliberalism,,,SocioPoliticalEntity
+Q739609,Christian socialism,,,SocioPoliticalEntity
+Q744738,encyclopédistes,,,SocioPoliticalEntity
+Q780920,Text Encoding Initiative,,,SocioPoliticalEntity
+Q784671,pan-European nationalism,,,SocioPoliticalEntity
+Q794394,classical liberalism,,,SocioPoliticalEntity
+Q6973449,National Humanities Institute,1984-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q817169,Bengali Renaissance,,,SocioPoliticalEntity
+Q701673,Nazi eugenics,,German Reich,SocioPoliticalEntity
+Q846933,renaissance humanism,,,SocioPoliticalEntity
+Q998355,Neogrammarians,,,SocioPoliticalEntity
+Q852377,New Culture Movement,,China,SocioPoliticalEntity
+Q5317269,European Defence League,2010-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q30740550,LGBT journalists association,2013-05-01T00:00:00Z,France,SocioPoliticalEntity
+Q1051103,Catholic Worker Movement,1933-01-01T00:00:00Z,,SocioPoliticalEntity
+Q2980182,Club des Trente,1973-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q12410621,Mizrahi feminism,,Israel,SocioPoliticalEntity
+Q895904,"Boycott, Divestment and Sanctions",2005-07-09T00:00:00Z,,SocioPoliticalEntity
+Q13220709,Armenakan Party,1885-01-01T00:00:00Z,Ottoman Empire,SocioPoliticalEntity
+Q132862602,Sonnenkrieg Division,2018-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q855669,American Popular Revolutionary Alliance,1924-05-07T00:00:00Z,Peru,SocioPoliticalEntity
+Q1196513,Der Ring,1926-01-01T00:00:00Z,Germany,SocioPoliticalEntity
+Q11357635,Sanrizuka-Shibayama Union to Oppose the Airport,1966-01-01T00:00:00Z,Japan,SocioPoliticalEntity
+Q96413872,Vicar Hope Foundation,,Nigeria,SocioPoliticalEntity
+Q947528,Catholic Charismatic Renewal,1967-01-01T00:00:00Z,,SocioPoliticalEntity
+Q97959695,Defector Media,2020-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q7824097,Tools for Self Reliance,1979-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q12252692,Preso Politikoen Lagun eta Senideen Elkartea,,Spain,SocioPoliticalEntity
+Q108536372,bellicosism,,,SocioPoliticalEntity
+Q1115728,Committee for Skeptical Inquiry,1976-04-30T00:00:00Z,United States,SocioPoliticalEntity
+Q1370167,Shakers,1740-01-01T00:00:00Z,,SocioPoliticalEntity
+Q1413061,tropicália,1967-01-01T00:00:00Z,,SocioPoliticalEntity
+Q120750930,Cercle de Cultura,2010-01-01T00:00:00Z,Spain,SocioPoliticalEntity
+Q64592591,Polaire Brotherhood,1929-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q1544765,Green Planet Energy,1999-10-28T00:00:00Z,Germany,SocioPoliticalEntity
+Q4744609,American Optometric Association,1898-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q1580216,Noucentisme,,,SocioPoliticalEntity
+Q130296787,Green Economy Coalition,,,SocioPoliticalEntity
+Q2413375,The Open University,1969-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q7390745,SLATE,,,SocioPoliticalEntity
+Q3514801,Occaneechi,,,SocioPoliticalEntity
+Q9295862,Third Order of Saint Francis,1201-01-01T00:00:00Z,,SocioPoliticalEntity
+Q10701282,Atlantic slave trade,,,SocioPoliticalEntity
+Q1973996,masculism,,,SocioPoliticalEntity
+Q1520130,color theory,,,SocioPoliticalEntity
+Q1411815,Lebensreform,,,SocioPoliticalEntity
+Q1520921,Nahda,,,SocioPoliticalEntity
+Q11238754,PJM Japan,,,SocioPoliticalEntity
+Q1728959,one-nation conservatism,,,SocioPoliticalEntity
+Q2375620,Synanon,1958-01-01T00:00:00Z,,SocioPoliticalEntity
+Q2251971,England in the Middle Ages,,,SocioPoliticalEntity
+Q8058352,Young Patriots Organization,1968-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q2914207,radical feminism,,,SocioPoliticalEntity
+Q106571755,Bolsonarism,,Brazil,SocioPoliticalEntity
+Q3008160,cyberfeminism,,,SocioPoliticalEntity
+Q3058841,Chinese nationalism,,,SocioPoliticalEntity
+Q3303170,Mazzinianism,,,SocioPoliticalEntity
+Q3374347,Byzantine icon painting,,,SocioPoliticalEntity
+Q3488148,society of ideologues,,,SocioPoliticalEntity
+Q3513639,Manahoac,,,SocioPoliticalEntity
+Q3577704,Shijō school,,,SocioPoliticalEntity
+Q16148367,Dakota people,,,SocioPoliticalEntity
+Q18127825,Maoism–Third Worldism,,,SocioPoliticalEntity
+Q5393562,Brigada Ramona Parra,,Chile,SocioPoliticalEntity
+Q4677722,actor model middle history,,,SocioPoliticalEntity
+Q4787277,Archives & Museum Informatics,,,SocioPoliticalEntity
+Q1411984,Conservative Revolution,,Weimar Republic,SocioPoliticalEntity
+Q11435783,Daiei Terebi,1971-10-15T00:00:00Z,Japan,SocioPoliticalEntity
+Q4920294,Black Arts Movement,,,SocioPoliticalEntity
+Q1755539,City Beautiful movement,1890-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q1341558,English Defence League,2009-06-27T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q5245054,Deacons for Defense and Justice,,,SocioPoliticalEntity
+Q7458663,Sexual Freedom League,1963-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q18231,Alcoholics Anonymous,1935-01-01T00:00:00Z,,SocioPoliticalEntity
+Q7037632,Nimbula,2008-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q7257786,Master of Guillebert de Mets,,,SocioPoliticalEntity
+Q2585032,conservatism in the United States,,United States,SocioPoliticalEntity
+Q3227199,Le Sillon,1898-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q4038816,Flexera,1988-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q990355,Transylvanian School,,,SocioPoliticalEntity
+Q1404472,Italian Renaissance,,Italy,SocioPoliticalEntity
+Q64528910,The Forge,,,SocioPoliticalEntity
+Q5055757,Cure Violence,2000-01-01T00:00:00Z,,SocioPoliticalEntity
+Q11913531,Cercle d'Economia,1958-01-01T00:00:00Z,Spain,SocioPoliticalEntity
+Q130717711,The Soil and The Seed Project,2021-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q30254425,Flexiant (United Kingdom),,United Kingdom,SocioPoliticalEntity
+Q3008647,Vsauce,2007-07-30T00:00:00Z,United States,SocioPoliticalEntity
+Q5475328,Four Masters of the Yuan Dynasty,,Yuan dynasty,SocioPoliticalEntity
+Q13406421,La Manif pour tous,2012-11-17T00:00:00Z,France,SocioPoliticalEntity
+Q48852336,Ordo Iuris Institute for Legal Culture,2013-01-01T00:00:00Z,Poland,SocioPoliticalEntity
+Q3175770,Communist Party of Spain (Reconstituted),1975-01-01T00:00:00Z,Spain,SocioPoliticalEntity
+Q7245673,Prism Comics,2003-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q7260704,Puppet,2005-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q2985251,Comité Para,1949-01-15T00:00:00Z,Belgium,SocioPoliticalEntity
+Q104835030,BlackinChem,2020-01-01T00:00:00Z,,SocioPoliticalEntity
+Q1453448,Free State Project,2001-09-01T00:00:00Z,United States,SocioPoliticalEntity
+Q24959818,Jotform,2006-01-01T00:00:00Z,Turkey,SocioPoliticalEntity
+Q2096772,National Catholicism,,Spain,SocioPoliticalEntity
+Q1284861,Idle No More,2012-11-01T00:00:00Z,Canada,SocioPoliticalEntity
+Q18386297,Campaign for World Government,1937-12-01T00:00:00Z,United States,SocioPoliticalEntity
+Q3234303,Les Nuls,1987-01-01T00:00:00Z,France,SocioPoliticalEntity
+Q114355777,Free Market Forum,2022-09-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q7774487,The White Eagle Lodge,1936-02-22T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q6974089,National Lesbian and Gay Journalists Association,1990-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q7455653,ServiceNow,2004-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q4583158,Anti-Apartheid Movement,1959-06-26T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q7647183,Survival Research Laboratories,,United States,SocioPoliticalEntity
+Q5164736,Consumers' Research,1929-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q5524522,Garveyism,,United States,SocioPoliticalEntity
+Q2061914,Southern Poverty Law Center,1971-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q6151266,Jane Collective,1969-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q129740093,Gunji Pottery,,Japan,SocioPoliticalEntity
+Q3089641,Jellyfish,1989-01-01T00:00:00Z,,SocioPoliticalEntity
+Q5140068,Code for America,2009-09-01T00:00:00Z,United States,SocioPoliticalEntity
+Q2458580,Republic of New Afrika,1968-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q11074597,Narita airport problem,,Japan,SocioPoliticalEntity
+Q27851845,Stop Funding Hate,2016-08-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q114246747,Free Enterprise Group,,United Kingdom,SocioPoliticalEntity
+Q85600832,Meridiana Resisteix,,Spain,SocioPoliticalEntity
+Q42133786,MeToo movement,2017-10-01T00:00:00Z,,SocioPoliticalEntity
+Q47480012,Movimiento Democrático de Mujeres,1965-01-01T00:00:00Z,Spain,SocioPoliticalEntity
+Q122382481,Project 2025,2022-04-14T00:00:00Z,United States,SocioPoliticalEntity
+Q112762802,nativism in United States politics,,United States,SocioPoliticalEntity
+Q60764444,Mermaids,1995-01-01T00:00:00Z,United Kingdom,SocioPoliticalEntity
+Q39055617,CloudHealth Technologies,2012-01-01T00:00:00Z,United States,SocioPoliticalEntity
+Q56251797,Rose Street Club,1877-01-01T00:00:00Z,United Kingdom of Great Britain and Ireland,SocioPoliticalEntity
+Q130581858,Beautiful Trouble,,United States,SocioPoliticalEntity
