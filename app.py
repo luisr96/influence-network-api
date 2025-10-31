@@ -176,6 +176,33 @@ def get_influence_graph(entity_id: str):
             ]
         )
 
+@app.get("/api/random", response_model=EntitySummary)
+def get_random_entity():
+    """
+    Get a random entity from the database.
+    """
+    query = """
+    MATCH (n)
+    WHERE n.name IS NOT NULL
+    WITH n, rand() AS random
+    ORDER BY random
+    LIMIT 1
+    RETURN n.id AS id, n.name AS name, labels(n)[0] AS type
+    """
+
+    with driver.session() as session:
+        result = session.run(query)
+        record = result.single()
+
+        if not record:
+            raise HTTPException(status_code=404, detail="No entities found")
+
+        return EntitySummary(
+            id=record["id"],
+            name=record["name"],
+            type=record["type"]
+        )
+
 
 @app.on_event("shutdown")
 def shutdown_event():
