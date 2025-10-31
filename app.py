@@ -207,6 +207,23 @@ def get_random_entity():
             type=record["type"]
         )
 
+@app.get("/api/heartbeat")
+def neo4j_heartbeat():
+    """Keep Neo4j active by writing a heartbeat timestamp"""
+    with driver.session() as session:
+        result = session.run(
+            """
+            MERGE (h:Heartbeat {id: 'keepalive'})
+            SET h.last_ping = datetime()
+            RETURN h.last_ping as timestamp
+            """
+        )
+        record = result.single()
+        return {
+            "status": "alive",
+            "timestamp": record["timestamp"].iso_format() if record else None
+        }
+
 
 @app.on_event("shutdown")
 def shutdown_event():
